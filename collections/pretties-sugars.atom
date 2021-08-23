@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/pretties-sugars.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2020-02-27T20:30:46-05:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4474698760245</id>
+    <published>2020-02-27T20:30:46-05:00</published>
+    <updated>2020-02-27T20:30:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-sponge-stick-applicators"/>
+    <title>Applicateurs bâtonnets..Sponge stick applicators</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/makeup_sponge.jpg?v=1582853755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Applicateurs de maquillage jetables double tête en éponge. Parfait pour appliquer des poudres d'art pour les ongles.</p>
+<p>Paquet de 10</p>
+<p>..</p>
+<p>Disposable makeup applicators with foam double head. Perfect for applying nail art powders.</p>
+<p>Pack of 10</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ArtTool</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4474698760245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4474452836405</id>
+    <published>2020-02-27T11:02:28-05:00</published>
+    <updated>2020-02-27T11:02:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-effect-pretties-blush-sparkle"/>
+    <title>Effect Pretties - Blush Sparkle</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/effect-blushsparkle.jpg?v=1582819425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Effect Powder</p>
+<p>2.5 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4474452836405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4474452312117</id>
+    <published>2020-02-27T10:59:46-05:00</published>
+    <updated>2020-02-27T10:59:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-effect-pretties-silver-sparkle"/>
+    <title>Effect Pretties - Silver Sparkle</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/effect-silversparkle.jpg?v=1582819270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Effect Powder</p>
+<p>3.25 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4474452312117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4100102488117</id>
+    <published>2019-09-17T15:14:23-04:00</published>
+    <updated>2019-09-17T15:14:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-sugars-kit"/>
+    <title>The Sugars - 7 Dry Glitters</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sugars-kit.jpg?v=1568748017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            60.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Sugars contains seven brilliant new glitter powders that can be used to create a textured glitter effect on any nail design. Simply embed The Sugars powder of your choice into uncured LE Top Gloss then cure for 4 minutes. </span></p>
+<p><strong>The Sugars Kit Contains :</strong></p>
+<ul>
+<li>Brown Sugar</li>
+<li>Jet Black</li>
+<li>Lulu Pink</li>
+<li>Rose Gold</li>
+<li>Silver Sugar</li>
+<li>Snow White</li>
+<li>Sweet and Glow</li>
+</ul>
+<p>The Sugars Contains 7 Premium Dry Sugar Glitters.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>Glitter</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100102488117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4100095967285</id>
+    <published>2019-09-17T15:10:55-04:00</published>
+    <updated>2019-09-17T15:10:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-sugars-brown-sugar"/>
+    <title>The Sugars - Brown Sugar</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sugars-brownsugar-open.jpg?v=1568747509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Individual Sugar</p>
+<p>3.75 g</p>
+<p>USE WITH LIGHT ELEGANCE TOP GLOSS FOR THE BEST RESULTS. PERFORMANCE NOT GUARANTEED WITH OTHER TOP COATS.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brown</s:tag>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100095967285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4100093280309</id>
+    <published>2019-09-17T15:09:02-04:00</published>
+    <updated>2019-09-17T15:09:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-sugars-jet-black"/>
+    <title>The Sugars - Jet Black</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sugars-jetblack-open.jpg?v=1568747382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Individual Sugar</p>
+<p>3.95 g</p>
+<p>USE WITH LIGHT ELEGANCE TOP GLOSS FOR THE BEST RESULTS. PERFORMANCE NOT GUARANTEED WITH OTHER TOP COATS.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100093280309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4100087676981</id>
+    <published>2019-09-17T15:05:27-04:00</published>
+    <updated>2019-09-17T15:05:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-sugars-lulu-pink"/>
+    <title>The Sugars - Lulu Pink</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sugars-lulupink-open.jpg?v=1568747177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Individual Sugar</p>
+<p>4.2 g</p>
+<p>USE WITH LIGHT ELEGANCE TOP GLOSS FOR THE BEST RESULTS. PERFORMANCE NOT GUARANTEED WITH OTHER TOP COATS.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100087676981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4100084564021</id>
+    <published>2019-09-17T15:03:34-04:00</published>
+    <updated>2019-09-17T15:03:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-sugars-rose-gold"/>
+    <title>The Sugars - Rose Gold</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sugars-rosegold-open.jpg?v=1568747074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Individual Sugar</p>
+<p>3.8 g</p>
+<p>USE WITH LIGHT ELEGANCE TOP GLOSS FOR THE BEST RESULTS. PERFORMANCE NOT GUARANTEED WITH OTHER TOP COATS.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100084564021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4100080435253</id>
+    <published>2019-09-17T15:01:07-04:00</published>
+    <updated>2019-09-17T15:01:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-sugars-silver-sugar"/>
+    <title>The Sugars - Silver Sugar</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sugars-silversugar-open.jpg?v=1568746917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Individual Sugar</p>
+<p>3.4 g</p>
+<p>USE WITH LIGHT ELEGANCE TOP GLOSS FOR THE BEST RESULTS. PERFORMANCE NOT GUARANTEED WITH OTHER TOP COATS.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100080435253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4100077355061</id>
+    <published>2019-09-17T14:59:23-04:00</published>
+    <updated>2019-09-17T14:59:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-sugars-snow-white"/>
+    <title>The Sugars - Snow White</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sugars-snowwhite-open.jpg?v=1568746800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Individual Sugar</p>
+<p>3.5 g</p>
+<p>USE WITH LIGHT ELEGANCE TOP GLOSS FOR THE BEST RESULTS. PERFORMANCE NOT GUARANTEED WITH OTHER TOP COATS.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100077355061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4100061495349</id>
+    <published>2019-09-17T14:51:16-04:00</published>
+    <updated>2019-09-17T14:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-sugars-sweet-and-glow"/>
+    <title>The Sugars - Sweet and Glow</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sugars-sweetandglow-open.jpg?v=1568746662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Individual Sugar</p>
+<p>3.35 g</p>
+<p>USE WITH LIGHT ELEGANCE TOP GLOSS FOR THE BEST RESULTS. PERFORMANCE NOT GUARANTEED WITH OTHER TOP COATS.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100061495349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4093761945653</id>
+    <published>2019-09-16T20:49:31-04:00</published>
+    <updated>2019-09-16T20:49:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-celina-ryden-brush-fluff-daddy"/>
+    <title>Celina Ryden Brush - Fluff Daddy</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/celina-fluffdaddy.jpg?v=1568682095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            21.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Celina Rydén Signature Series Art Brush</p>
+<p><span>Grand éventail – Il est parfait pour vous aider à ajouter les effets Pretties à vos conceptions d'ongles ou éliminer les paillettes excessives. Pour obtenir un effet ombre, recouvrir l’ongle complet ou pour fusionner parfaitement les couleurs avec des pigments, il te soutient!</span></p>
+<p>..</p>
+<p><span>Celina Rydén Signature Series Art Brush</span></p>
+<p>Large Fan – He is perfect to help you add Pretties to your nail design or brushing excess glitter off the nail. From the ombre effect to covering a full nail or fade with pigments - he's got your back!</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ArtTool</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>NailBrush</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4093761945653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku>BA005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4093752311861</id>
+    <published>2019-09-16T20:41:51-04:00</published>
+    <updated>2019-09-16T20:41:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-celina-ryden-brush-lil-fluff"/>
+    <title>Celina Ryden Brush - Lil&apos; Fluff</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/celina-lilfluff.jpg?v=1568680990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            21.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Celina Rydén Signature Series Art Brush</p>
+<p>Petit <span>éventail – </span>Celui-ci est parfait pour ajouter des reflets Pretties ou Sugar à votre conception avec une précision parfaite.</p>
+<p>..</p>
+<p><span>Celina Rydén Signature Series Art Brush</span></p>
+<p>Small Fan – This guy is perfect for adding Pretties or Sugar highlights to your design with perfect precision. </p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ArtTool</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>NailBrush</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4093752311861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku>BA006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/10808403528</id>
+    <published>2017-10-10T11:53:45-04:00</published>
+    <updated>2017-10-10T11:53:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-halo-pretties-silver-rainbow"/>
+    <title>Halo Pretties - Silver Rainbow</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/halo-silverrainbow.jpg?v=1549642371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halo Pretty Powder</p>
+<p>1.5 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/10808403528</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>DSR1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1519274262581</id>
+    <published>2017-10-10T11:47:04-04:00</published>
+    <updated>2017-10-10T11:47:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-effect-pretties-light-blue-sparkle"/>
+    <title>Effect Pretties - Light Blue Sparkle</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/effect-lightbluesparkle.jpg?v=1549653390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Effect Powder</p>
+<p>2.25 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1519274262581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>DLB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1519273967669</id>
+    <published>2017-10-10T11:47:04-04:00</published>
+    <updated>2017-10-10T11:47:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-effect-pretties-lilac-shimmer"/>
+    <title>Effect Pretties - Lilac Shimmer</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/effect-lilacshimmer.jpg?v=1549653308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Effect Powder</p>
+<p>2.0 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1519273967669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>DLS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1519273705525</id>
+    <published>2017-10-10T11:47:04-04:00</published>
+    <updated>2017-10-10T11:47:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-effect-pretties-violet-shimmer"/>
+    <title>Effect Pretties - Violet Shimmer</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/effect-violetshimmer.jpg?v=1549653195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Effect Powder</p>
+<p>3.25 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1519273705525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>DVS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1519273377845</id>
+    <published>2017-10-10T11:47:04-04:00</published>
+    <updated>2017-10-10T11:47:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-effect-pretties-gold-sparkle"/>
+    <title>Effect Pretties - Gold Sparkle</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/effect-goldsparkle.jpg?v=1549653045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Effect Powder</p>
+<p>1.5 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1519273377845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>DGS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/10808342472</id>
+    <published>2017-10-10T11:47:04-04:00</published>
+    <updated>2017-10-10T11:47:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-effect-pretties-rose-sparkle"/>
+    <title>Effect Pretties - Rose Sparkle</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/effect-rosesparkle.jpg?v=1549642044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Effect Powder</p>
+<p>1.75 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/10808342472</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>DRS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1519274655797</id>
+    <published>2017-10-10T11:44:03-04:00</published>
+    <updated>2017-10-10T11:44:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-halo-pretties-gold-rainbow"/>
+    <title>Halo Pretties - Gold Rainbow</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/halo-goldrainbow.jpg?v=1549653581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halo Pretty Powder</p>
+<p>2.25 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1519274655797</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>DGR1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1519274491957</id>
+    <published>2017-10-10T11:44:03-04:00</published>
+    <updated>2017-10-10T11:44:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-halo-pretties-silver-lining"/>
+    <title>Halo Pretties - Silver Lining</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/halo-silverlining.jpg?v=1549653512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halo Pretty Powder</p>
+<p>1.9 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1519274491957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>DSL1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/10808331784</id>
+    <published>2017-10-10T11:44:03-04:00</published>
+    <updated>2017-10-10T11:44:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-halo-pretties-pot-of-gold"/>
+    <title>Halo Pretties - Pot Of Gold</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/halo-potofgold.jpg?v=1549642214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halo Pretty Powder</p>
+<p>2.25 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/10808331784</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>DPG1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/7747266248</id>
+    <published>2016-08-29T13:29:00-04:00</published>
+    <updated>2016-08-29T13:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-premium-pretties-mediteranean"/>
+    <title>Premium Pretties - Mediteranean</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/mediterranean.jpg?v=1495221483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium Pretty Powder</p>
+<p>A solid aqua-mermaid shimmer.</p>
+<p>2.1 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/7747266248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>DME1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/7747263048</id>
+    <published>2016-08-29T13:28:00-04:00</published>
+    <updated>2016-08-29T13:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-premium-pretties-celeste"/>
+    <title>Premium Pretties - Celeste</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/celeste.jpg?v=1495221423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium Pretty Powder</p>
+<p>Jewel tones of soft pink and soft blue.</p>
+<p>2.2 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/7747263048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>DCE1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/7747259976</id>
+    <published>2016-08-29T13:26:00-04:00</published>
+    <updated>2016-08-29T13:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-premium-pretties-amethyst"/>
+    <title>Premium Pretties - Amethyst</title>
+    <s:type>Nail Art</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/amethyst.jpg?v=1495221399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Nail Art<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium Pretty Powder</p>
+<p>A bright violet-white shimmer that pops.</p>
+<p>2.1 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glitter</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailGlitter</s:tag>
+    <s:tag>Pretties</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/7747259976</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>DAM1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

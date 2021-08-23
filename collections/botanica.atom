@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/botanica.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-06-07T06:00:03-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4461344030773</id>
+    <published>2021-06-07T06:00:03-04:00</published>
+    <updated>2021-06-07T06:00:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-color-wildflower"/>
+    <title>Color - Wildflower</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/66-wildflower.jpg?v=1618950446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Botanica</p>
+<p><em>Wildflower</em> inspire la liberté et la confiance nécessaires pour construire quelque chose de beau et de plus grand que nous.</p>
+<p>Vernis gel soak-off ( tremper pour enlever le gel )</p>
+<p>15 ml</p>
+<p>..</p>
+<p>Botanica Collection</p>
+<p><em>Wildflower</em> inspires the freedom and trust to build something beautiful and bigger than ourselves.</p>
+<p>Soak-off gel polish</p>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color gel</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>GlamPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4461344030773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>GN-066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4461340688437</id>
+    <published>2021-06-07T06:00:03-04:00</published>
+    <updated>2021-06-07T06:00:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-color-rose-garden"/>
+    <title>Color - Rose garden</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/61-rosegarden.jpg?v=1618950415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Botanica</p>
+<p><em>Rose garden</em> incarne l'appréciation, le respect et l'admiration pour sa sublime beauté nourrissante.</p>
+<p>Vernis gel soak-off ( tremper pour enlever le gel )</p>
+<p>15 ml</p>
+<p>..</p>
+<p>Botanica Collection</p>
+<p><em>Rose garden</em> embodies appreciation, respect and admiration for it's sublime nurturing beauty.</p>
+<p>Soak-off gel polish</p>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color gel</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>GlamPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4461340688437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>GN-061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4461343506485</id>
+    <published>2021-06-07T06:00:02-04:00</published>
+    <updated>2021-06-07T06:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-color-meadow"/>
+    <title>Color - Meadow</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/65-meadow.jpg?v=1618950337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Botanica</p>
+<p><em>Meadow</em> est une couleur crème délicieuse pour une sensation estivale ensoleillée et exaltante.</p>
+<p>Vernis gel soak-off ( tremper pour enlever le gel )</p>
+<p>15 ml</p>
+<p>..</p>
+<p>Botanica Collection</p>
+<p><em>Meadow</em> is a delightful cream colour for a sunny and uplifting summer feel.</p>
+<p>Soak-off gel polish</p>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color gel</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>GlamPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>nude</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4461343506485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>GN-065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4461342883893</id>
+    <published>2021-06-07T06:00:02-04:00</published>
+    <updated>2021-06-07T06:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-color-mint-blossom"/>
+    <title>Color - Mint blossom</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/64-mintblossom.jpg?v=1618950368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Botanica</p>
+<p><em>Mint blossom</em> est une nuance rafraîchissante de tranquillité, prête à affronter un nouveau jour.</p>
+<p>Vernis gel soak-off ( tremper pour enlever le gel )</p>
+<p>15 ml</p>
+<p>..</p>
+<p>Botanica Collection</p>
+<p><em>Mint blossom</em> is a refreshing shade of tranquility, ready to take on a new day.</p>
+<p>Soak-off gel polish</p>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color gel</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>GlamPolish</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4461342883893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>GN-064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4461339934773</id>
+    <published>2021-06-07T06:00:02-04:00</published>
+    <updated>2021-06-07T06:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-color-pink-cactus"/>
+    <title>Color - Pink cactus</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/62-pinkcactus.jpg?v=1618950394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Botanica</p>
+<p><em>Pink cactus</em> est une rose succulente qui piquera vos sens et scintillera sous le brûlant soleil d'été.</p>
+<p>Vernis gel soak-off ( tremper pour enlever le gel )</p>
+<p>15 ml</p>
+<p>..</p>
+<p>Botanica Collection</p>
+<p><em>Pink cactus</em> is succulent rose that will prickle your senses and shimmer in the hot summer sun.</p>
+<p>Soak-off gel polish</p>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color gel</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>GlamPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4461339934773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>GN-062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4461344587829</id>
+    <published>2021-06-07T06:00:01-04:00</published>
+    <updated>2021-06-07T06:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-collection-botanica"/>
+    <title>Collection - Botanica</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/61-66Botanica.jpg?v=1618950214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            83.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Botanica donne vie au romantisme floral dans cette palette fraîche de couleurs estivales. Cultivez à travers ce que vous traversez.</p>
+<p>Vernis gel soak-off ( tremper pour enlever le gel )</p>
+<p>15 ml</p>
+<p><strong>Comprend</strong></p>
+<ul>
+<li>Pink cactus</li>
+<li>Rose garden</li>
+<li>Azure mist</li>
+<li>Mint blossom</li>
+<li>Meadow</li>
+<li>Wildflower</li>
+</ul>
+<p>..</p>
+<p>Botanica brings floral romanticism to life in this fresh palette of summer colors. Grow through what you go through.</p>
+<p>Soak-off gel polish</p>
+<p>15 ml</p>
+<p><strong>Includes</strong></p>
+<ul>
+<li>Pink cactus</li>
+<li>Rose garden</li>
+<li>Azure mist</li>
+<li>Mint blossom</li>
+<li>Meadow</li>
+<li>Wildflower</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>GlamPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4461344587829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4461341671477</id>
+    <published>2021-06-07T06:00:01-04:00</published>
+    <updated>2021-06-07T06:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-color-azure-mist"/>
+    <title>Color - Azure mist</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/63-azuremist.jpg?v=1618950289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Botanica</p>
+<p><em>Azure mist</em> est la couleur du vrai contentement, inspire la détermination et l'ambition d'atteindre les plus hauts sommets.</p>
+<p>Vernis gel soak-off ( tremper pour enlever le gel )</p>
+<p>15 ml</p>
+<p>..</p>
+<p>Botanica Collection</p>
+<p><em>Azure mist</em> is the color of true contentment, inspires determination and ambition to reach great heights.</p>
+<p>Soak-off gel polish</p>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>GlamPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4461341671477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>GN-063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

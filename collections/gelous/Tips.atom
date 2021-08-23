@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/gelous.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-04-07T16:40:42-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6615186899115</id>
+    <published>2021-04-07T16:40:42-04:00</published>
+    <updated>2021-04-07T16:40:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/colour-fx-149-resilient-violet"/>
+    <title>Colour FX #149 Resilient Violet</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelous-149-resilientviolet.jpg?v=1617828007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            21.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>NOUVEAU FORMAT: 5 grammes</p>
+<p>..</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>NEW FORMAT: 5 grams</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ColourFX</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6615186899115</id>
+      <title>5 g</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>G149-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6615179395243</id>
+    <published>2021-04-07T16:38:53-04:00</published>
+    <updated>2021-04-07T16:38:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/colour-fx-148-cinnamon-churro"/>
+    <title>Colour FX #148 Cinnamon Churro</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelous-148-cinnamonchurro.jpg?v=1617827894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            21.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>NOUVEAU FORMAT: 5 grammes</p>
+<p>..</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>NEW FORMAT: 5 grams</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ColourFX</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6615179395243</id>
+      <title>5 g</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>G148-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6615160619179</id>
+    <published>2021-04-07T16:32:41-04:00</published>
+    <updated>2021-04-07T16:32:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/colour-fx-147-mossy-green"/>
+    <title>Colour FX #147 Mossy Green</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelous-147-mossygreen.jpg?v=1617827522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            21.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>NOUVEAU FORMAT: 5 grammes</p>
+<p>..</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>NEW FORMAT: 5 grams</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ColourFX</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6615160619179</id>
+      <title>5 g</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>G147-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6615123525803</id>
+    <published>2021-04-07T16:31:16-04:00</published>
+    <updated>2021-04-07T16:31:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/colour-fx-146-hollandaise"/>
+    <title>Colour FX #146 Hollandaise</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelous-146-hollandaise.jpg?v=1617827402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            21.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>NOUVEAU FORMAT: 5 grammes</p>
+<p>..</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>NEW FORMAT: 5 grams</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ColourFX</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6615123525803</id>
+      <title>5 g</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>G146-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4269905028</id>
+    <published>2021-03-12T09:21:52-05:00</published>
+    <updated>2021-03-12T09:21:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/colour-fx-64-aubergine"/>
+    <title>Colour FX #64 Aubergine</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelous-64-aubergine_a8e1b00b-5d97-48be-93b4-2dd08fc8688d.jpg?v=1615558884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            21.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>NOUVEAU FORMAT: 5 grammes</p>
+<p>..</p>
+<p>Opaque</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>NEW FORMAT: 5 grams</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ColourFX</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4269905028</id>
+      <title>5 g</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>G64-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6050440020139</id>
+    <published>2020-11-09T10:43:47-05:00</published>
+    <updated>2020-11-09T10:43:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-125-steel-blue"/>
+    <title>Vinyl Polish #125 Steel Blue</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/125-steelblue.jpg?v=1604935812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Untamed</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Untamed Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6050440020139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6050439528619</id>
+    <published>2020-11-09T10:43:46-05:00</published>
+    <updated>2020-11-09T10:43:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-124-olive-martini"/>
+    <title>Vinyl Polish #124 Olive Martini</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/124-olivemartini.jpg?v=1604935637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Untamed</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Untamed Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6050439528619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6050438807723</id>
+    <published>2020-11-09T10:43:46-05:00</published>
+    <updated>2020-11-09T10:43:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-123-grape-soda"/>
+    <title>Vinyl Polish #123 Grape Soda</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/123-grapesoda.jpg?v=1604935464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Untamed</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Untamed Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6050438807723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6050437890219</id>
+    <published>2020-11-09T10:43:45-05:00</published>
+    <updated>2020-11-09T10:43:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-122-crimson"/>
+    <title>Vinyl Polish #122 Crimson</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/122-crimson.jpg?v=1604935312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Untamed</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Untamed Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6050437890219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6050436776107</id>
+    <published>2020-11-09T10:43:45-05:00</published>
+    <updated>2020-11-09T10:43:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-121-bubblegum"/>
+    <title>Vinyl Polish #121 Bubblegum</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/121-bubblegum.jpg?v=1604935078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Untamed</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Untamed Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6050436776107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6050434547883</id>
+    <published>2020-11-09T10:43:44-05:00</published>
+    <updated>2020-11-09T10:43:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-120-cotton-candy"/>
+    <title>Vinyl Polish #120 Cotton Candy</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/120-cottoncandy.jpg?v=1604934908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Untamed</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Untamed Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6050434547883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4639907643445</id>
+    <published>2020-08-11T12:18:36-04:00</published>
+    <updated>2020-08-11T12:18:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-82-tan-lines"/>
+    <title>Vinyl Polish #82 Tan Lines</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/82-tanlines.jpg?v=1597162708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>nude</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4639907643445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-82</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4639907512373</id>
+    <published>2020-08-11T12:18:06-04:00</published>
+    <updated>2020-08-11T12:18:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-78-shimmering-sunrise"/>
+    <title>Vinyl Polish #78 Shimmering Sunrise</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/78-shimmeringsunrise.jpg?v=1597162679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4639907512373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-78</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4639907282997</id>
+    <published>2020-08-11T12:17:16-04:00</published>
+    <updated>2020-08-11T12:17:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-74-peach-bouquet"/>
+    <title>Vinyl Polish #74 Peach Bouquet</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/74-peachbouquet.jpg?v=1597162627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>nude</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4639907282997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4639905447989</id>
+    <published>2020-08-11T12:16:48-04:00</published>
+    <updated>2020-08-11T12:16:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-55-poor-lil-rich-girl"/>
+    <title>Vinyl Polish #55 Poor Lil Rich Girl</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/55-poorlilrichgirl.jpg?v=1597162601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4639905447989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4639906955317</id>
+    <published>2020-08-11T12:16:18-04:00</published>
+    <updated>2020-08-11T12:16:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-54-girls-getaway"/>
+    <title>Vinyl Polish #54 Girl&apos;s Getaway</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/54-girlsgetaway.jpg?v=1597162569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>The Irresistible Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4639906955317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-54</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1506580103221</id>
+    <published>2020-05-06T15:44:32-04:00</published>
+    <updated>2020-05-06T15:44:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/colour-fx-86-just-berry"/>
+    <title>Colour FX #86 Just Berry</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelous-86-justberry.jpg?v=1599058066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            21.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>NOUVEAU FORMAT: 5 grammes</p>
+<p>..</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>NEW FORMAT: 5 grams</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ColourFX</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1506580103221</id>
+      <title>5 g</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>G86-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4462022426677</id>
+    <published>2020-02-13T19:13:45-05:00</published>
+    <updated>2020-02-13T19:13:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-119-true-blue"/>
+    <title>Vinyl Polish #119 True Blue</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/119-trueblue.jpg?v=1581637361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Garden of Eden</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Garden of Eden Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4462022426677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4462021574709</id>
+    <published>2020-02-13T19:13:45-05:00</published>
+    <updated>2020-02-13T19:13:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-118-bird-of-paradise"/>
+    <title>Vinyl Polish #118 Bird of Paradise</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/118-birdofparadise.jpg?v=1581637346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Garden of Eden</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Garden of Eden Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4462021574709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4462020165685</id>
+    <published>2020-02-13T19:13:44-05:00</published>
+    <updated>2020-02-13T19:13:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-117-faithful-fuschia"/>
+    <title>Vinyl Polish #117 Faithful Fuschia</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/117-faithfulfuschia.jpg?v=1581637321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Garden of Eden</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Garden of Eden Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4462020165685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4462016299061</id>
+    <published>2020-02-13T19:13:44-05:00</published>
+    <updated>2020-02-13T19:13:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-116-punch-of-pink"/>
+    <title>Vinyl Polish #116 Punch of Pink</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/116-punchofpink.jpg?v=1581637307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Garden of Eden</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Garden of Eden Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4462016299061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4462014955573</id>
+    <published>2020-02-13T19:13:43-05:00</published>
+    <updated>2020-02-13T19:13:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-115-playful-peach"/>
+    <title>Vinyl Polish #115 Playful Peach</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/115-playfulpeach.jpg?v=1581637290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Garden of Eden</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Garden of Eden Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4462014955573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4462011482165</id>
+    <published>2020-02-13T19:13:43-05:00</published>
+    <updated>2020-02-13T19:13:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gelous-vinyl-polish-114-misty-morning"/>
+    <title>Vinyl Polish #114 Misty Morning</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/114-mistymorning.jpg?v=1581637268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            15.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Garden of Eden</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>Bouteille de 15 ml</p>
+<p>..</p>
+<p>Garden of Eden Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>15 ml bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelPolish</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>VinylPolish</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4462011482165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>GVP-114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4462032289845</id>
+    <published>2020-02-11T15:40:27-05:00</published>
+    <updated>2020-02-11T15:40:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/colour-fx-139-aquamarine"/>
+    <title>Colour FX #139 Aquamarine</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelous-139-aquamarine.jpg?v=1581450060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            21.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Malibu</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>NOUVEAU FORMAT: 5 grammes</p>
+<p>..</p>
+<p>Malibu Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>NEW FORMAT: 5 grams</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ColourFX</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4462032289845</id>
+      <title>5 g</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>G139-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4462031274037</id>
+    <published>2020-02-11T15:40:26-05:00</published>
+    <updated>2020-02-11T15:40:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/colour-fx-138-pink-punch"/>
+    <title>Colour FX #138 Pink Punch</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelous-138-pinkpunch.jpg?v=1581449988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            21.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection Malibu</p>
+<p>Gel UV/LED</p>
+<p>Tremper pour enlever le gel</p>
+<p>NOUVEAU FORMAT: 5 grammes</p>
+<p>..</p>
+<p>Malibu Collection</p>
+<p>Gel UV/LED</p>
+<p>Soak off gel</p>
+<p>NEW FORMAT: 5 grams</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ColourFX</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4462031274037</id>
+      <title>5 g</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>G138-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

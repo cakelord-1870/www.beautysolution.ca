@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/glam-lashes.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2019-01-25T17:17:54-05:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1507584507957</id>
+    <published>2019-01-25T17:17:54-05:00</published>
+    <updated>2019-01-25T17:17:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-lashes-under-eye-patch"/>
+    <title>Patch pour sous les yeux..Under eye patch</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Glam Lashes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/under_eye_patch.jpg?v=1548454464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Lashes<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            5.00 - 9.99
+            <a href="https://www.beautysolution.ca/products/glam-lashes-under-eye-patch">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Ce produit est utilisé pour fixer les cils inférieurs avant d'appliquer les extensions de cils.</p>
+<ul>
+<li>Sans peluches</li>
+</ul>
+<p>Paquet de 10 paires ou 5 paires</p>
+<p>..</p>
+<p>This product is used to tape down the lower lashes before applying eyelash extensions.</p>
+<ul>
+<li>Lint-free</li>
+</ul>
+<p>Pack of 10 pairs or 5 pairs</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1507584507957</id>
+      <title>Paquet (5)..Pack (5)</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1507584507957</id>
+      <title>Paquet (10)..Pack (10)</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/613144002613</id>
+    <published>2018-04-13T16:37:57-04:00</published>
+    <updated>2018-04-13T16:37:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-lashes-magnetic-strip"/>
+    <title>Cils magnétiques..Magnetic strip lashes</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Glam Lashes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/MG01.jpg?v=1532551927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Lashes<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>SANS COLLE, SANS SOUCIS, AJOUTEZ DU VOLUME FACILEMENT!</strong></p>
+<p>Ces cils magnétiques faits à la main fonctionnent avec n'importe quel look, du jour au soir. Vous offrant une longueur et une masse confortables, sans colle. Pas de colle salissante pour ruiner votre eye-liner ou maquillage. S'applique en un clin d'oeil.</p>
+<ul>
+<li>MG01 : Volume naturel</li>
+</ul>
+<p>..</p>
+<p><strong>NO GLUE, NO HASSLE, QUICK LASH VOLUME ON THE GO!</strong></p>
+<p>These handmade magnetic lashes works with any look, from daytime to nighttime wear. Giving you comfortable length and mass, without any glue stick to your eyelash. No messy glue to ruin your eyeliner or makeup. Just fits on in seconds.</p>
+<ul>
+<li>MG01 : Natural volume</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashExtension</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613144002613</id>
+      <title>MG01</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/613143740469</id>
+    <published>2018-04-13T16:37:53-04:00</published>
+    <updated>2018-04-13T16:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-lashes-individual"/>
+    <title>Plateau de cils individuels..Individual lash tray</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Glam Lashes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/lashtray.jpg?v=1532552041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Lashes<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>GLAM LASHES de Solution Beauté propose une large gamme de produits d'extensions de cils en différentes longueurs et courbe. Chaque cil est aligné dans un plateau pour faciliter la cueillette et l'application, les courbe sont toutes unifiées et effilées à la perfection.</p>
+<ul>
+<li>Disponible en courbe: C ou D</li>
+<li>Disponible en épaisseur: 0,05, 0,15, 0,20 ou 0,25</li>
+<li>Disponible en longueurs: 9 mm, 10 mm, 11 mm, 12 mm, 13 mm, 14 mm et 15 mm</li>
+</ul>
+<p>..</p>
+<p>GLAM LASHES by Beauty Solution provides a wide range of eyelash extensions products in various length and curl. Each lash is lined up in a tray for easy picking and application, curls are all unified and tapered to perfection.</p>
+<ul>
+<li>Available in curl: C or D</li>
+<li>Available in thickness: 0.05, 0.15, 0.20 or 0.25</li>
+<li>Available in lengths: 9 mm, 10 mm, 11 mm, 12 mm, 13 mm,14 mm and 15 mm</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashExtension</s:tag>
+    <s:tag>Liquidation</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.05 / 9 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.05 / 10 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.05 / 11 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.05 / 12 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.05 / 13 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.05 / 14 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.05 / 15 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.15 / 9 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.15 / 10 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.15 / 11 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.15 / 12 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.15 / 13 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.15 / 14 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.15 / 15 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.2 / 9 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.2 / 10 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.2 / 11 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.2 / 12 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.2 / 13 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.2 / 14 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>C / 0.2 / 15 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.05 / 9 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.05 / 10 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.05 / 11 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.05 / 12 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.05 / 13 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.05 / 14 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.05 / 15 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.2 / 12 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.2 / 13 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.2 / 14 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.2 / 15 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.25 / 12 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.25 / 13 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.25 / 14 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.25 / 15 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.2 / 9 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.2 / 10 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.2 / 11 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.25 / 9 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.25 / 10 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143740469</id>
+      <title>D / 0.25 / 11 mm</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/613143642165</id>
+    <published>2018-04-13T16:37:52-04:00</published>
+    <updated>2018-04-13T16:37:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-lashes-mixed"/>
+    <title>Cils de longueur mixte..Mixed length lashes</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Glam Lashes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/lashtray_0cb7b662-6ad1-49d8-962d-09e9fbadfd77.jpg?v=1532551885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Lashes<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>GLAM LASHES de Solution Beauté propose une large gamme de produits d'extensions de cils en différentes longueurs et courbe. Chaque cil est aligné dans un plateau pour faciliter la cueillette et l'application, les courbe sont toutes unifiées et effilées à la perfection.</p>
+<ul>
+<li>Disponible en C-curl avec votre choix d'épaisseur 0,05, 0,15 ou 0,20</li>
+<li>Disponible en D-curl, avec votre choix d'épaisseur 0,05, 0,20 ou 0,25</li>
+<li>Chaque plateau contient des longueurs mixtes: 7 mm, 8 mm, 9 mm, 10 mm, 11 mm, 12 mm, 13 mm et 14 mm</li>
+</ul>
+<p>..</p>
+<p>GLAM LASHES by Beauty Solution provides a wide range of eyelash extensions products in various length and curl. Each lash is lined up in a tray for easy picking and application, curls are all unified and tapered to perfection.</p>
+<ul>
+<li>Available in C-curl with your choice of thickness 0.05, 0.15 or 0.20</li>
+<li>Available in D-curl, with your choice of thickness 0.05, 0.20 or 0.25</li>
+<li>Each tray contains mixed lengths: 7 mm, 8 mm, 9 mm, 10 mm, 11 mm, 12 mm, 13 mm and 14 mm</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashExtension</s:tag>
+    <s:tag>Liquidation</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143642165</id>
+      <title>C / 0.05</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143642165</id>
+      <title>C / 0.15</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143642165</id>
+      <title>C / 0.2</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143642165</id>
+      <title>D / 0.05</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143642165</id>
+      <title>D / 0.2</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/613143642165</id>
+      <title>D / 0.25</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4044723844</id>
+    <published>2015-12-26T10:03:00-05:00</published>
+    <updated>2015-12-26T10:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-disposable-micro-brushes"/>
+    <title>Micro-brosses jetables..Disposable micro-brushes</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/disposable-micro-brush.jpg?v=1532634047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Micro-brosses jetables, paquet de 100</p>
+<p>..</p>
+<p>Disposable micro-brushes, pack of 100</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glam Lashes</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4044723844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4044715780</id>
+    <published>2015-12-26T09:57:00-05:00</published>
+    <updated>2015-12-26T09:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-disposable-mascara-brushes"/>
+    <title>Brosses à mascara jetables..Disposable mascara brushes</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/disposable-mascara-brush.jpg?v=1532634047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            4.95 - 17.90
+            <a href="https://www.beautysolution.ca/products/bssb-disposable-mascara-brushes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Brosses à mascara pour cils jetables.</p>
+<p>Paquet de 25, 50 ou 100</p>
+<p>..</p>
+<p>Disposable mascara brushes for lashes.</p>
+<p>Pack of 25, 50 or 100</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glam Lashes</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4044715780</id>
+      <title>Paquet (100)..Pack (100)</title>
+      <s:price currency="CAD">17.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4044715780</id>
+      <title>Paquet (50)..Pack (50)</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4044715780</id>
+      <title>Paquet (25)..Pack (25)</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1478882394165</id>
+    <published>2015-12-26T09:52:00-05:00</published>
+    <updated>2015-12-26T09:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/blink-gel-remover"/>
+    <title>Dissolvant de gel..Gel remover</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Blink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel_remover.jpg?v=1614952107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blink<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Le dissolvant pour cils en gel est un moyen sûr d'éliminer les extensions de cils indésirables. La formule est hautement contrôlable et facilite l'enlèvement des extensions partielles.</p>
+<p>Une fois ce gel épais appliqué, le dissolvant décompose les liens adhésifs et les extensions de cils glissent doucement, laissant les cils naturels sans stress. La douceur de cette technique est très appréciée par les clients.</p>
+<blockquote>
+<p>Nos dissolvant pour les extensions de cils sont réservées aux professionnels formés et agréés. N'achetez que si vous avez reçu la formation appropriée pour appliquer les extensions de cils. En aucun cas, le dissolvant ne doit être utilisé sur vous-même.</p>
+</blockquote>
+<p>15 ml</p>
+<p>..</p>
+<p>Gel lash remover is a safe way to remove unwanted lash extensions. The formula is highly controllable and makes the removal of partial extensions a lot easier.</p>
+<p>Once this thick gel has been applied, the remover breaks down adhesive bonds and lash extensions slip off gently, leaving natural lashes unstressed. The gentle nature of this technique is greatly appreciated by clients.</p>
+<blockquote>
+<p>Our extension lash removers are for trained and licensed professionals only. Please only purchase if you have had the proper training in the technique to apply eyelash extensions. Under no circumstance is the remover to be used on yourself.</p>
+</blockquote>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glam Lashes</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1478882394165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4044712132</id>
+    <published>2015-12-26T09:52:00-05:00</published>
+    <updated>2015-12-26T09:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/blink-lash-primer"/>
+    <title>Lash Primer</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Blink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/lashprimer.jpg?v=1532634047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blink<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Blink Eyelash Primer est utilisé pour nettoyer et préparer les cils naturels avant d'appliquer des extensions de cils.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Enlève la poussière et l'huile</li>
+<li>Hydrate la peau</li>
+<li>Hypoallergénique</li>
+<li>Raccourcit le temps d'application</li>
+<li>Allonge la liaison de l'adhésif</li>
+<li>Peut être utilisé conjointement avec des cotons-tiges non pelucheux ou des micro-brosses</li>
+</ul>
+<p>50 ml</p>
+<p>..</p>
+<p>Blink Eyelash Primer is used to prep the natural lash before eyelash extensions are applied.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Removes dust and oil</li>
+<li>Moisturizes skin</li>
+<li>Hypoallergenic</li>
+<li>Shortens application time</li>
+<li>Lengthens the bond of the adhesive</li>
+<li>Can be used in conjunction with lint-free cotton swabs or micro brush</li>
+</ul>
+<p>50 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glam Lashes</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4044712132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1478891307061</id>
+    <published>2015-12-26T09:39:00-05:00</published>
+    <updated>2015-12-26T09:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/blink-lash-stand-silicone-pad"/>
+    <title>Support de cils en silicone..Lash stand silicone pad</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Blink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/lash_stand_silicone.jpg?v=1589985048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blink<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Ce coussin en silicone est le support idéal pour les cils individuels en permettant un ramassage facile. Son matériau en silicone épais fait que les cils se lèvent légèrement pour faciliter le ramassage de chaque cil.</p>
+<p>..</p>
+<p>This silicone pad is an ideal holder for individual loose lashes allowing easy pickup. Its thick silicone material makes lashes stand up slightly to make it easier to pick up each lash.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glam Lashes</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1478891307061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1478824984629</id>
+    <published>2015-12-26T09:39:00-05:00</published>
+    <updated>2015-12-26T09:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-3m-tape"/>
+    <title>Ruban 3M..3M tape</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/3M_tape.jpg?v=1542138562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Ruban médical pour appliquer les faux cils.</p>
+<ul></ul>
+<p>.. </p>
+<p>Medical tape for applying lash extensions.</p>
+<ul></ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glam Lashes</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1478824984629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4044629188</id>
+    <published>2015-12-26T08:57:00-05:00</published>
+    <updated>2015-12-26T08:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/posana-ultra-plus-glue"/>
+    <title>Colle pour extension cils..Eyelash extension glue</title>
+    <s:type>Cils</s:type>
+    <s:vendor>Posana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/posana-eyelash-glue-10g.jpg?v=1580765996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Posana<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            48.00 - 90.00
+            <a href="https://www.beautysolution.ca/products/posana-ultra-plus-glue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Pour le professionnel en extension des cils, il est très important d'avoir la meilleure colle de qualité. Une colle d'extension de cils qui est; facile à travailler, a un temps de séchage rapide et crée un lien ultra-durable.</p>
+<p>L'une des colles les plus résistantes du marché, son pouvoir adhésif dure jusqu'à 5 semaines. L'adhésif Posana n'endommage pas les cils et ne sèche pas à l'intérieur du flacon.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Temps de prise: 1-3 secondes</li>
+<li>Durabilité: 5 semaines</li>
+<li>Consistance: liquide - liquide</li>
+<li>Couleur: Glossy Black</li>
+<li>Durée de conservation: 6-8 mois</li>
+<li>Sans formaldéhyde</li>
+</ul>
+<blockquote>
+<p>Nos colles d'extension de cils sont réservées aux professionnels formés et agréés. N'achetez que si vous avez reçu la formation appropriée pour appliquer les extensions de cils.</p>
+</blockquote>
+<p>Disponible en bouteille de 5g ou 10g</p>
+<p>..</p>
+<p>For the eyelash extension professional it is very important to have the best and top quality glue. An eyelash extension glue that is; easy to work with, has a quick drying time and creates an ultra-long lasting bond.</p>
+<p>One of the strongest glues on the market, its adhesive power lasts up to 5 weeks. Posana adhesive does not damage the eyelashes and does not dry in the interior of the bottle.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Setting Time: 1-3 Seconds</li>
+<li>Durability: 5 Weeks</li>
+<li>Consistency: Liquid - Watery</li>
+<li>Color: Glossy Black</li>
+<li>Shelf Life: 6-8 Months</li>
+<li>Formaldehyde Free</li>
+</ul>
+<blockquote>
+<p>Our lash extension glues are for trained and licensed professionals only. Please only purchase if you have had the proper training in the technique to apply eyelash extensions.</p>
+</blockquote>
+<p>Available in a 5 g or 10 g bottle</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glam Lashes</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4044629188</id>
+      <title>10 g</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4044629188</id>
+      <title>5 g</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

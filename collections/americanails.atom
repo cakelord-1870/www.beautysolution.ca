@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/americanails.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-02-17T10:18:09-05:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177281769643</id>
+    <published>2021-02-17T10:18:09-05:00</published>
+    <updated>2021-02-17T10:18:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-trapper-clipper"/>
+    <title>Trapper Clipper coupe prothèse..Trapper Clipper tip slicer</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/trapperclipper-1.jpg?v=1613574976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Sauvez le désordre en éliminant les coupures d'ongles dans votre salon!</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Coupe les prothèses et les ongles en acrylique</li>
+<li>Fait des coupes rondes, droites et angulaire</li>
+<li>Tip Trapper attrape en toute sécurité les coupures d'ongles</li>
+<li>Peut être désinfecté en toute sécurité avec une solution stérilisante</li>
+</ul>
+<p>..</p>
+<p>Save the mess by eliminating rogue nail clippings in your salon!</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Cuts both tips and acrylic nails</li>
+<li>Makes round, straight and well cuts</li>
+<li>Tip trapper safely catches nail clippings</li>
+<li>Can be safely disinfected with sterilizing solution</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Extensions</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177281769643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>AMN1008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177279967403</id>
+    <published>2021-02-17T09:38:14-05:00</published>
+    <updated>2021-02-17T09:38:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-plastic-storage-case"/>
+    <title>Boîtier de rangement en plastique durable..Durable plastic storage case</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/storage-case-nc0173-1.jpg?v=1613572657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Idéal pour ranger les essentiels de manucure et pédicure.</p>
+<p>6 x 9 cm</p>
+<blockquote>
+<p>Veuillez noter que les outils sont vendus séparément.</p>
+</blockquote>
+<p>..</p>
+<p>Ideal for storing manicure and pedicure essentials.</p>
+<p>6 x 9 cm</p>
+<blockquote>
+<p>Please note, implements are sold separately.</p>
+</blockquote>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177279967403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>NC0173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177226719403</id>
+    <published>2021-02-16T17:42:18-05:00</published>
+    <updated>2021-02-16T17:42:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-mixing-palette"/>
+    <title>Palette pour mélanger..Mixing palette</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/mixing-palette.jpg?v=1613515328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Amusez-vous à mélanger toutes les couleurs de peinture, vernis, gel et poudres!</p>
+<p>..</p>
+<p>Have fun mixing all different colors of paint, polish, gel and powders!</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>ArtTool</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177226719403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>AMN1023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177278722219</id>
+    <published>2021-02-16T16:53:23-05:00</published>
+    <updated>2021-02-16T16:53:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-reusable-forms"/>
+    <title>Formes d&apos;ongles réutilisables antiadhésives..Non-stick reusable nail forms</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/reusable_nail_forms-1.jpg?v=1613512367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Un ensemble de 5 formes réutilisables durables et antiadhésives. Facile à utiliser et à stériliser entre vos sessions!</p>
+<p>..</p>
+<p>A set of 5 durable, non-stick reusable forms. Easy to use and sterilize between sessions!</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extensions</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177278722219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>NC0048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4938407149621</id>
+    <published>2020-12-02T15:29:56-05:00</published>
+    <updated>2020-12-02T15:29:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-pro-series-tungsten-carbide-bit-under-nail-cleaner"/>
+    <title>Pro-Series Tungsten Carbide Bit Under Nail Cleaner</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/proseries-tungsten-undernail-box.jpg?v=1606940970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les mèches de la série Pro sont conçus pour les professionnels des ongles qui ne se contenteront de rien de moins que le meilleur.</p>
+<p>Ces fraises au carbure de tungstène de qualité supérieure ne rouilleront jamais et sont faciles à désinfecter et extrêmement durables.</p>
+<p>..</p>
+<p>Pro-Series Bits are designed for nail professionals that won't settle for anything less than the best.</p>
+<p>These premium quality tungsten carbide bits will never rust and are easy to sanitize and extremely durable.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4938407149621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>AMNTC06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4938406789173</id>
+    <published>2020-12-02T15:22:33-05:00</published>
+    <updated>2020-12-02T15:22:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-pro-series-tungsten-carbide-bit-large-barrel-medium"/>
+    <title>Pro-Series Tungsten Carbide Bit Large Barrel Medium</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/proseries-tungsten-largebarrelmed-box.jpg?v=1606940527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les mèches de la série Pro sont conçus pour les professionnels des ongles qui ne se contenteront de rien de moins que le meilleur.</p>
+<p>Ces fraises au carbure de tungstène de qualité supérieure ne rouilleront jamais et sont faciles à désinfecter et extrêmement durables.</p>
+<p>..</p>
+<p>Pro-Series Bits are designed for nail professionals that won't settle for anything less than the best.</p>
+<p>These premium quality tungsten carbide bits will never rust and are easy to sanitize and extremely durable.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4938406789173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>AMNTC02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4938406592565</id>
+    <published>2020-12-02T15:11:44-05:00</published>
+    <updated>2020-12-02T15:11:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-pro-series-tungsten-carbide-bit-large-barrel-fine"/>
+    <title>Pro-Series Tungsten Carbide Bit Large Barrel Fine</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/proseries-tungsten-largebarrelfine-box.jpg?v=1606939850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les mèches de la série Pro sont conçus pour les professionnels des ongles qui ne se contenteront de rien de moins que le meilleur.</p>
+<p>Ces fraises au carbure de tungstène de qualité supérieure ne rouilleront jamais et sont faciles à désinfecter et extrêmement durables.</p>
+<p>..</p>
+<p>Pro-Series Bits are designed for nail professionals that won't settle for anything less than the best.</p>
+<p>These premium quality tungsten carbide bits will never rust and are easy to sanitize and extremely durable.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4938406592565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>AMNTC01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4938406494261</id>
+    <published>2020-12-02T14:53:51-05:00</published>
+    <updated>2020-12-02T14:53:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-pro-series-powergrip-mandrel"/>
+    <title>Pro-Series PowerGrip Mandrel</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/proseries-powergrip.jpg?v=1606938733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les mèches de la série Pro sont conçus pour les professionnels des ongles qui ne se contenteront de rien de moins que le meilleur.</p>
+<p>Ce mandrin en acier inoxydable recouvert d'or comporte deux ensembles de rainures pour créer une adhérence puissante sur les bandes de ponçage.</p>
+<p>..</p>
+<p>Pro-Series Bits are designed for nail professionals that won't settle for anything less than the best.</p>
+<p>This golden coated stainless steel mandrel features two sets of grooves to create a powerful grip on sanding bands.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4938406494261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>AMNPGM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4938406330421</id>
+    <published>2020-12-02T14:36:17-05:00</published>
+    <updated>2020-12-02T14:36:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-pro-series-ceramic-under-nail-cleaner"/>
+    <title>Pro-Series Ceramic Under Nail Cleaner</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/proseries-undernail-box.jpg?v=1606937736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les mèches de la série Pro sont conçus pour les professionnels des ongles qui ne se contenteront de rien de moins que le meilleur.</p>
+<p>Ces fraises au carbure de céramique de qualité supérieure sont faciles à désinfecter et extrêmement durables.</p>
+<p>..</p>
+<p>Pro-Series Bits are designed for nail professionals that won't settle for anything less than the best.</p>
+<p>These premium quality ceramic carbide bits are easy to sanitize and extremely durable.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4938406330421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>AMNCC05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4938405838901</id>
+    <published>2020-12-02T14:26:43-05:00</published>
+    <updated>2020-12-02T14:26:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-pro-series-ceramic-carbide-bit-large-barrel-medium"/>
+    <title>Pro-Series Ceramic Carbide Bit Large Barrel Medium</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/proseries-largebarrelmed-box.jpg?v=1606937180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les mèches de la série Pro sont conçus pour les professionnels des ongles qui ne se contenteront de rien de moins que le meilleur.</p>
+<p>Ces fraises au carbure de céramique de qualité supérieure sont faciles à désinfecter et extrêmement durables.</p>
+<p>..</p>
+<p>Pro-Series Bits are designed for nail professionals that won't settle for anything less than the best.</p>
+<p>These premium quality ceramic carbide bits are easy to sanitize and extremely durable.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4938405838901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>AMNCC02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4938405642293</id>
+    <published>2020-12-02T14:17:58-05:00</published>
+    <updated>2020-12-02T14:17:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-pro-series-ceramic-carbide-bit-large-barrel-coarse"/>
+    <title>Pro-Series Ceramic Carbide Bit Large Barrel Coarse</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/proseries-largebarrelcoarse-box.jpg?v=1606937297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les mèches de la série Pro sont conçus pour les professionnels des ongles qui ne se contenteront de rien de moins que le meilleur.</p>
+<p>Ces fraises au carbure de céramique de qualité supérieure sont faciles à désinfecter et extrêmement durables.</p>
+<p>..</p>
+<p>Pro-Series Bits are designed for nail professionals that won't settle for anything less than the best.</p>
+<p>These premium quality ceramic carbide bits are easy to sanitize and extremely durable.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4938405642293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>AMNCC03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4938406035509</id>
+    <published>2020-12-02T14:13:29-05:00</published>
+    <updated>2020-12-02T14:13:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-pro-series-ceramic-carbide-bit-cone"/>
+    <title>Pro-Series Ceramic Carbide Bit Cone</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/proseries-cone-box.jpg?v=1606936379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les mèches de la série Pro sont conçus pour les professionnels des ongles qui ne se contenteront de rien de moins que le meilleur.</p>
+<p>Ces fraises au carbure de céramique de qualité supérieure sont faciles à désinfecter et extrêmement durables.</p>
+<p>..</p>
+<p>Pro-Series Bits are designed for nail professionals that won't settle for anything less than the best.</p>
+<p>These premium quality ceramic carbide bits are easy to sanitize and extremely durable.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4938406035509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>AMNCC06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4816440262709</id>
+    <published>2020-11-18T17:49:14-05:00</published>
+    <updated>2020-11-18T17:49:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-profiles-bullet-pn112"/>
+    <title>ProFiles Bullet E-File</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/bullet-6.jpg?v=1605739704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Compact et puissant!</strong></p>
+<p>Le kit Bullet est compact et puissant, avec une lime à ongles électrique idéale pour les techniciens expérimentés ou parfaite pour les débutants. Inclus un étui de transport pratique pour les techniciens en déplacement.</p>
+<p><strong>Inclus</strong></p>
+<ul>
+<li>Lime électrique</li>
+<li>Adaptateur A/C</li>
+<li>6 - Bits</li>
+<li>3 - Bandes de ponçage</li>
+<li>1 - Boîte de transport</li>
+</ul>
+<p>..</p>
+<p><strong>Compact yet powerful!</strong></p>
+<p>The Bullet Drill Kit is compact and powerful, making it the ideal back-up electric nail file for the experienced tech or a perfect starter e-file for newbies in a convenient carrying case for techs on the go.</p>
+<p><strong>Included</strong></p>
+<ul>
+<li>E-File drill</li>
+<li>A/C adaptor</li>
+<li>6 - Bits</li>
+<li>3 - Sanding bands</li>
+<li>1 - Carrying case</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4816440262709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>PNI12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4882454970421</id>
+    <published>2020-11-18T09:19:45-05:00</published>
+    <updated>2020-11-18T09:19:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-split-second-nail-glue"/>
+    <title>Split Second Nail Glue</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/splitsecondglue.jpg?v=1605709171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Un séchage extrêmement rapide et une forte adhérence, idéal pour les extensions d'ongles. Formulé pour résister à l'humidité pour une adhérence durable. Un produit bien adapté pour réparer les ongles cassés.</p>
+<p>2g</p>
+<p>..</p>
+<p>Extremely rapid drying and strong bonding, ideal for nail extensions. Formulated to be moisture resistant for long-lasting adhesion. It is also an excellent product to mend broken fingernails.</p>
+<p>2 g</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extensions</s:tag>
+    <s:tag>Glue</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>top &amp; base</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4882454970421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>SSNG2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4905268248629</id>
+    <published>2020-11-09T14:14:24-05:00</published>
+    <updated>2020-11-09T14:14:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-nail-dry"/>
+    <title>NailDry</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/naildry.jpg?v=1626960847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Nail Dry déshydrate les ongles naturels pour améliorer l'adhérence des couleurs et des décorations pour ongles. Équilibre le pH tout en éliminant les huiles de surface pour une usure et performances optimales du produit.</p>
+<p>15 ml ( 0.5 oz )</p>
+<p>..</p>
+<p>Nail Dry dehydrates natural nails to improve adhesion of nail colors and enhancements. Balances the pH while removing excess surface oils for optimal wear and product performance.</p>
+<p>15 ml ( 0.5 oz )</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Couche de base</s:tag>
+    <s:tag>GelBase</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>top &amp; base</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4905268248629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>AMN1089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4935775584309</id>
+    <published>2020-10-27T15:16:09-04:00</published>
+    <updated>2020-10-27T15:16:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-flexilamp-touch-xl"/>
+    <title>FlexiLamp Touch XL</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/flexilamp_touch_XL.jpg?v=1626898118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Maintenant 20% plus longue et 30% plus lumineuse!</strong></p>
+<p>Consomme seulement 3 watts de puissance avec une luminosité équivalente à 30 watts. Fournit un éclairage constant, lumineux et qui réduit la fatigue oculaire. Impact environnemental extrêmement faible. Se fixe facilement à n'importe quel bureau ou table avec la pince incluse ou s'intègre parfaitement dans un trou de support dans la plupart des stations d'ongles.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>20% plus long et 30% plus lumineux que FlexiLamp Touch!</li>
+<li>Gradateur à 3 niveaux avec capteur tactile</li>
+<li>Pince de table amovible</li>
+<li>Alimentation par port USB ou prise électrique</li>
+<li>Design moderne et attrayant</li>
+<li>Fini en aluminium brossé</li>
+<li>Le tube d'éclairage tourne à 360 degrés</li>
+<li>FlexiArm se plie facilement à 180 degrés</li>
+<li>400 lumens de lumière DEL blanche brillante</li>
+<li>Durée de vie de 40,000 heures - Dure jusqu'à 40 fois plus longtemps que les ampoules à incandescence</li>
+</ul>
+<p>..</p>
+<p><strong>The Original Flexi Lamp Now 20% Longer &amp; 30% Brighter!</strong></p>
+<p>Consumes only 3 watts of power with a brightness equivalent of 30 watts. Provides steady, bright, flicker-free lighting that reduces eye strain. Extremely low environmental impact. Easily attaches to any desk or table with included clamp or fits perfectly into lamp hole in most nail stations.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>20% Longer &amp; 30% Brighter than FlexiLamp Touch!</li>
+<li>3-Level Dimmer with Touch Sensor</li>
+<li>Removable Table Clamp</li>
+<li>Power by USB Port or Electrical Outlet</li>
+<li>Attractive Modern Design</li>
+<li>Brushed Aluminum Finish</li>
+<li>Lighting Tube Rotates 360 Degrees</li>
+<li>FlexiArm Easily Bends 180 Degrees</li>
+<li>400 Lumens of Bright White LED Light</li>
+<li>40,000 Hour Lifetime - Lasts up to 40 times longer than incandescent light bulbs</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4935775584309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>AMN1047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4935772078133</id>
+    <published>2020-10-27T14:48:09-04:00</published>
+    <updated>2020-10-27T14:48:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-breatheeasy-hepa-filter"/>
+    <title>BreatheEasy filtre HEPA..BreatheEasy HEPA filter</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/breatheasy-hepa_afb2c761-2e9d-447e-a8b6-f224258dc444.jpg?v=1626897874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Le filtre HEPA à haute efficacité emprisonne la poussière et les particules, assurant un air propre et pur. Changez chaque mois pour une efficacité maximale.</p>
+<p>..</p>
+<p>High-Efficiency Particulate Air HEPA Filter traps dust and particles ensuring clean, pure air. Change monthly for maximum efficiency.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4935772078133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4632167907381</id>
+    <published>2020-07-29T19:21:27-04:00</published>
+    <updated>2020-07-29T19:21:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-ultracide-ultrasonic-sanitation-unit"/>
+    <title>Nettoyeur à ultrasons Ultracide..Ultracide ultrasonic sanitation unit</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/ultracide-1-bonus.jpg?v=1598967367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Nettoyez + Désinfectez en une seule étape avec le système de nettoyage ultrasonique Ultracide</strong></p>
+<p>Suffisamment petit pour être placé sur une station d'ongle mais assez grand pour s'adapter à vos outils à ongles préférés, limes en acier et mèches de lime électronique. Ajoutez simplement la solution Ultracide ou une solution désinfectante enregistrée par l'EPA; puis ajoutez vos outils à ongles préférés. L'unité s'éteindra automatiquement dans 10 minutes. Retirez les outils à ongles et rincez à l'eau. Vos outils à ongles, limes en acier et mèches de lime électronique sont désormais propres, désinfectés et prêts pour votre prochain service.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Bouton d'alimentation à une touche avec arrêt automatique de 10 minutes</li>
+<li>Réservoir en acier inoxydable de 600ml avec boîtier en ABS durable</li>
+<li>Puissance de nettoyage par ultrasons de 35 watts</li>
+<li>Ondes d'énergie ultrasonique de 40 KHZ</li>
+<li>Idéal pour les outils à ongles, les limes en acier, les mèches de lime électronique et plus!</li>
+</ul>
+<p>Utiliser avec <a href="/products/ultracide-solution"><strong>la solution super concentrée Ultracide</strong></a></p>
+<p>..</p>
+<p><strong>Clean + Disinfect in one step with the Ultracide Ultrasonic Sanitation System</strong></p>
+<p>Small enough to fit on a nail station yet large enough to fit your favorite nail tools, steel files and e-file bits. Just add Ultracide Solution or any EPA registered disinfectant solution; then add your favorite nail tools and press the power button. The unit will automatically turn off in 10 minutes. Remove nail tools and rinse with clean water. Your nail tools, steel files and e-file bits are now clean, sanitized and ready for your next client.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>One-touch power button with 10-minute automatic shut-off</li>
+<li>600 ml stainless steel tank with durable ABS housing</li>
+<li>35 Watt ultrasonic cleaning power</li>
+<li>40 KHZ ultrasonic energy waves</li>
+<li>Ideal for nail tools, steel files, e-file bits &amp; more!</li>
+</ul>
+<p>Use with <strong><a href="/products/ultracide-solution">Ultracide Super Concentrated Solution</a></strong></p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>GIFT</s:tag>
+    <s:tag>Hygiene</s:tag>
+    <s:tag>Liquidation</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4632167907381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>ULT1001</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4598673473589</id>
+    <published>2020-07-29T19:20:40-04:00</published>
+    <updated>2020-07-29T19:20:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-practice-hand"/>
+    <title>Main de pratique..Practice hand</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/practice_hand.jpg?v=1592599332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Aide à l'entraînement parfaite. Les lits à ongles profonds avec cuticules sont parfaits pour pratiquer l'application d'ongles artificiels, la sculpture, les réparations, le limage, et nail art. Les doigts se plient pour une apparence et une sensation réalistes. Fabriqué en caoutchouc souple, durable et longue-durée. Base de plate-forme incluse.</p>
+<p><strong>Comprend</strong></p>
+<ul>
+<li>Une main douce et réaliste</li>
+<li>Plate-forme pivotante</li>
+</ul>
+<p>..</p>
+<p>Perfect training-aid. Deep nail beds with cuticles are great for practicing application of artificial nails, sculpture, repairs, filing, shaping and nail art. Fingers bend for a realistic look and feel. Made from soft, long-lasting, durable rubber. Platform base included.</p>
+<p><strong>Includes</strong></p>
+<ul>
+<li>Soft realistic hand</li>
+<li>Swivel base</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Education</s:tag>
+    <s:tag>NailDisplay</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4598673473589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>NC0133</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4632185995317</id>
+    <published>2020-07-29T19:17:31-04:00</published>
+    <updated>2020-07-29T19:17:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-ultracide-solution"/>
+    <title>Désinfectant concentré Ultracide..Ultracide super concentrated disinfectant</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/ultracidesolution-4oz.jpg?v=1596035499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Donne 4 gallons de solution!</strong></p>
+<p>Désinfectant, fongicide et virucide de qualité hospitalière super concentré. Efficacité prouvée contre le VIH-1, l'hépatite B, l'hépatite C, l'herpès simplex de type 1, le staphylocoque et la salmonelle.</p>
+<p>4oz</p>
+<p>..</p>
+<p><strong>Makes 4 gallons of solution!</strong></p>
+<p>Super concentrated hospital grade disinfectant, fungicide, and virucide. Proven effective against HIV-1, Hepatitis B, Hepatitis C, Herpes Simplex Type 1, Staphylococcus, and Salmonella.</p>
+<p>4 oz</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hygiene</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4632185995317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>ULT1003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4631986438197</id>
+    <published>2020-07-29T19:15:39-04:00</published>
+    <updated>2020-07-29T19:15:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-glass-dappen-dish"/>
+    <title>Bol en verre dappen..Glass dappen dish</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/glassdappendish.jpg?v=1596044060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Le petit bol professionnel en verre dappen est parfait pour contenir des monomères acryliques, des poudres ou de l'acétone.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Méthode sanitaire pour distribuer le produit —indispensable pour tous les salons</li>
+<li>Fabriqué en verre de qualité élevée et durable</li>
+<li>Conçu avec une base épaisse et lourde pour rester stable et éviter d’être renversé</li>
+</ul>
+<p>..</p>
+<p>Professional glass dappen dish is perfect to hold acrylic monomers, powders or acetone.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Sanitary method to dispense product —a must for every salon</li>
+<li>Made with heavy duty, high quality glass</li>
+<li>Designed with a thick base for stability to avoid spilling</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>ArtTool</s:tag>
+    <s:tag>Container</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4631986438197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.59</s:price>
+      <s:sku>NC0139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4631975067701</id>
+    <published>2020-07-29T19:10:25-04:00</published>
+    <updated>2020-07-29T19:10:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-slim-orange-buffer-blocks"/>
+    <title>Blocs minces orange..Slim orange buffer blocks</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/bufferblocks-orange.jpg?v=1595980353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            4.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Blocs sableurs minces orange, sont jetables et de qualité supérieure. Grain 100/120 à 2 voies.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Parfait pour une utilisation sur les ongles naturels ou artificiels</li>
+<li>Fonctionne avec les manucures et les pédicures</li>
+<li>Pour un usage professionnel, coupez les blocs en sections et jetez-les après chaque service</li>
+</ul>
+<p>Paquet de 10</p>
+<p>..</p>
+<p>Premium disposable slim orange buffer blocks. 2-Way 100/120 Grit.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Perfect for use on natural or artificial nails</li>
+<li>Works for manicures and pedicures</li>
+<li>For professional use, cut blocks into sections and dispose after each service</li>
+</ul>
+<p>Pack of 10</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NailFile</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4631975067701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.55</s:price>
+      <s:sku>NC0163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4631979130933</id>
+    <published>2020-07-29T13:38:11-04:00</published>
+    <updated>2020-07-29T13:38:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-forms-rectangular"/>
+    <title>Formes - Rectangulaire..Forms - Rectangular</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/forms-rectangle.jpg?v=1595981956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les formes d'ongles rectangulaire à prise rapide sont polyvalentes et créent une base pour une application d'extension d'ongle sculptée. Ces formes d'ongles s'ajuste facilement pour se positionner sous le bord libre de l'ongle avec une grille pour assurer une longueur constante.</p>
+<p>Rouleau de 500</p>
+<p>..</p>
+<p>Fast set rectangular nail forms are versatile and create a base for sculptured nail extension application. These nail forms adjusts easily to position under the free edge with a grid to assure consistent length.</p>
+<p>Roll of 500</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extensions</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4631979130933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>NC0046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4632144412725</id>
+    <published>2020-07-29T10:51:23-04:00</published>
+    <updated>2020-07-29T10:51:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-crescent-soaker-tray"/>
+    <title>Plateau de trempage..Soaker tray</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/crescentsoakertray.jpg?v=1596029051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Plateau de trempage en forme de croissant résistant à l'acétone.</p>
+<p>..</p>
+<p>Crescent shaped acetone-proof soaker tray.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4632144412725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>NC0090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4632150507573</id>
+    <published>2020-07-29T10:43:44-04:00</published>
+    <updated>2020-07-29T10:43:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-brush-cleaner-holder"/>
+    <title>Porte-brosse pour nettoyer les pinceaux..Brush cleaner holder</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/brushcleanerholder.jpg?v=1596030950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Contenant de trempage pour une immersion totale!</strong></p>
+<p>Empêchez les poignées de brosse d'être submergées dans le nettoyant. Passez une brosse le long de la grille en bas pour détacher l'acrylique ou le gel d'ongles.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Peut contenir jusqu'à 8 pinceaux</li>
+<li>Rainures sur le fond, ce qui facilite le nettoyage des brosses</li>
+<li>Une rangée de porte-brosses, où les brosses peuvent être suspendues pour sécher ou simplement attendre leur tour pour être utilisées</li>
+<li>Couvercle inclus pour que vous puissiez réutiliser le dissolvant</li>
+</ul>
+<p>..</p>
+<p><strong>Total Immersion Brush Cleaner Bottle!</strong></p>
+<p>Prevents brush handles from being submerged in brush cleaner. Run brush along the grate on the bottom to loosen acrylic or nail gel.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Holds up to 8 brushes</li>
+<li>Grooves on the bottom, that makes it easy to clean the brushes</li>
+<li>A row of brush holders, where brushes can hang to dry or simply just wait for their turn to be used</li>
+<li>Lid included so that you can re-use the nail polish remover</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4632150507573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>NC0019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

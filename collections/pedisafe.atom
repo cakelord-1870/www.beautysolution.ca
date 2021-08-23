@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/pedisafe.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2017-03-20T14:25:00-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1482773004341</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/pedisafe-starter-kit"/>
+    <title>Pedisafe Trousse de départ..Pedisafe Starter Kit</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pedisafe_kit.jpg?v=1542483082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            152.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Le système Pedisafe vous permet d’effectuer 5 corrections d’ongle d’orteil en toute sécurité.</p>
+<ul>
+<li>Du recouvrement préventif</li>
+<li>Correction de la courbure</li>
+<li>L’ongle incarné</li>
+<li>La reconstruction</li>
+<li>l’ongle prosthétique</li>
+</ul>
+<p>Soulagez vos clients de leurs problèmes gênants, c’est changer leur vie.</p>
+<p>La trousse Pedisafe vous donne la possibilité d’effectuer jusqu’à 30 corrections d’ongle en toute sécurité.</p>
+<p><strong>Comprend</strong></p>
+<ul>
+<li>1 Base adhésive Connect+ 12g - .43 fl.oz</li>
+<li>1 Gel de modelageModelling+ 29g - 1 fl.oz</li>
+<li>1 Gel de finition Top Gloss+ 15ml- 0.5 fl.oz</li>
+<li>3 Pinceaux one Stroke+</li>
+<li>1 Préparateur de surfaceSani-Fresh Dual Action</li>
+<li>1 Nettoyant de résidus de gelTack-Free shine</li>
+<li>1 Lime Cyclone 100/180</li>
+<li>2 Récipients de verre</li>
+<li>1 Brosse à manucure</li>
+<li>1 Vernis Vinyle Hawaiian punch</li>
+<li>1 Carte de membre pour du support technique</li>
+<li>1 Marche à suivre PediSafe</li>
+</ul>
+<ul></ul>
+<p>..</p>
+<p>PediSafe is an amazing toenail enhancement system that allows your customers to get their self-confidence back.</p>
+<p>5 toenail corrections with PediSafe:</p>
+<ul>
+<li>Reconstruction</li>
+<li>Ingrown relief</li>
+<li>Crooked nail realignment</li>
+<li>Preventive overlay</li>
+<li>Prosthetic toenail (for missing toenails)</li>
+</ul>
+<p>The PediSafe Starter Kit includes everything you need to enhance your clients’ toenails.</p>
+<p><strong>Contains</strong></p>
+<ul>
+<li>1 Connect+ 12g - 0.43 fl.oz Bonding Base</li>
+<li>1 Modelling+ 29g - 1 fl.oz Sculpt and Structure</li>
+<li>1 Top Gloss+ 15ml - 0.5 fl.oz Shine and Protect</li>
+<li>3 One Stroke+ disposable brushes</li>
+<li>1 Sani-Fresh Dual Action Clean and Prep nails</li>
+<li>1 Tack-Free Shines, Cleans and Moisturises</li>
+<li>1 Cyclone 100/180 nail file</li>
+<li>2 Dappen dish hygienic recipient</li>
+<li>1 Manicure brush</li>
+<li>1 Colour Vinyl Polish ‘Hawaiian Punch’</li>
+<li>1 Member card for technical support</li>
+<li>1 Step by step booklet</li>
+</ul>
+<p>Allows you to enhance up to 30 sets of toenails.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLYER</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelKit</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>Pedi safe</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1482773004341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">152.99</s:price>
+      <s:sku>628219700032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1482770055221</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/pedisafe-one-stroke"/>
+    <title>Pedisafe One Stroke+</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pedisafe_brush.jpg?v=1542482183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            8.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Protégez vos clients de la contamination croisée avec les pinceaux One Stroke + à usage unique.</p>
+<p>Oval #6</p>
+<p>Paquet de 10</p>
+<p>Usage unique</p>
+<p>..</p>
+<p>Keep your customers safe from cross contamination with our affordable single use brushes One Stroke +.</p>
+<p>#6 Oval shape</p>
+<p>Pack of 10 brushes</p>
+<p>Single use</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>NailBrush</s:tag>
+    <s:tag>Pedi safe</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1482770055221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.91</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1482767269941</id>
+    <published>2016-01-27T10:32:00-05:00</published>
+    <updated>2016-01-27T10:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/pedisafe-modelling"/>
+    <title>Pedisafe Modelling+</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pedisafe_modelling.jpg?v=1542481770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Idéal pour tous types de correction. Le composite Modelling + contient de puissants agents anti-mycologiques tels que le giroflier, l’arbre à thé, le laurier noble et le cannelier. De correction mineure à extrême, le Modelling + est utilisé en complément avec le Connect + et le Top gloss +. Voir le système complet Pedisafe.</p>
+<p>Gel de construction.</p>
+<p>Disponible en clair et rose.</p>
+<p>Formule d’huile essentielle anti-mycologique.</p>
+<p>Polymérise avec la lampe PediSafe en 30 secondes.</p>
+<p>29 g</p>
+<p>..</p>
+<p>Great for all types of corrections the Pedisafe Modelling + composite contains powerful antifungal and antimicrobial agents. Modelling + is used in conjunction with Connect+ and Top Gloss+ products.</p>
+<p>Sculpting gel.</p>
+<p>Available in clear or cover pink.</p>
+<p>Contains strong antifungal/antimicrobial agents</p>
+<p>Cures in 30 seconds with the PediSafe Dual Fusion+ Lamp</p>
+<p>29 g</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BuilderGel</s:tag>
+    <s:tag>Couche de base</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelBase</s:tag>
+    <s:tag>Pedi safe</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>top &amp; base</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1482767269941</id>
+      <title>Clair..Clear</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1482767269941</id>
+      <title>Rose..Cover Pink</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1482765795381</id>
+    <published>2016-01-27T10:32:00-05:00</published>
+    <updated>2016-01-27T10:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/pedisafe-connect"/>
+    <title>Pedisafe Connect+</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pedisafe_connect.jpg?v=1542481325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Le composite Connect + vous procure une adhérence exceptionnelle. Composé d’huiles essentielles puissantes telles que le giroflier, l'arbre de thé, le laurier noble et le cannelier. Le Connect + vous procure des propriétés anti-mycologiques et anti-bactériens. Il est utilisé en complément avec le Modelling + et le Top Gloss +.</p>
+<p>Gel de base.</p>
+<p>Adhérence exceptionnelle.</p>
+<p>Contient des propriété anti-mycologiques.</p>
+<p>Polymérise dans la lampe Pedisafe en 30 secondes.</p>
+<p>12 g</p>
+<p>..</p>
+<p>Procuring amazing adherence, Connect + contains powerful antifungal and antimicrobial agents. Used in conjunction with the Modelling + and Top Goss +</p>
+<p>Base gel</p>
+<p>Exceptional adherence</p>
+<p>Cures in 30 sec. with the Pedisafe Dual Fusion + lamp</p>
+<p>Contains antifungal and antimicrobial agents</p>
+<p>12 g</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Couche de base</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelBase</s:tag>
+    <s:tag>Pedi safe</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>top &amp; base</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1482765795381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1482771660853</id>
+    <published>2015-11-08T19:56:00-05:00</published>
+    <updated>2015-11-08T19:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/pedisafe-dual-fusion"/>
+    <title>Pedisafe Dual Fusion+</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pedisafe_lamp.jpg?v=1542482602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>La lampe UV/LED Gelous Fusion est munie d’une technologie électronique qui exige moins d’énergie et dégage moins de chaleur. La lampe Fusion satisfait aux exigences gouvernementales CE et RoHS. Quatre ampoules de 9W pour un total de 36W.</p>
+<p>Cette lampe porte une garantie de 5 ans offerte par Fanair Cosmétiques. Une minuterie de 60 secondes et une de 120 secondes sont à votre disponibilité. La lampe Fusion dispose d’un plateau rétractable pour utilisation dans des soins de pédicure, ainsi que des plaques réfléchissantes pour une meilleure polymérisation.</p>
+<p>..</p>
+<p>The Dual Fusion + lamp uses a wide spectrum light that cures all UV/LED gels. It has 3 time settings and an integrated motion detector. This lamp was designed with professional foot care stations in mind. Four 9 W bulbs for a total of 36 W.</p>
+<p>Lightweight, with no base, it allows you to keep your station nice and clean. Simply place the lamp over the foot and it will turn on automatically. No more worries about smudging your product application either. The Dual Fusion + comes with a 5 year warranty.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>NailLamp</s:tag>
+    <s:tag>Pedi safe</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1482771660853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1482764517429</id>
+    <published>2015-11-08T19:23:00-05:00</published>
+    <updated>2015-11-08T19:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/pedisafe-top-gloss"/>
+    <title>Pedisafe Top Gloss+</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Gelous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pedisafe_topgloss.jpg?v=1542480999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelous<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>La finition Top Gloss+ scelle et protège vos sous-couches et les rend imperméables.</p>
+<p>Fini lustré</p>
+<p>Durabilité</p>
+<p>Résistant aux taches</p>
+<p>UV/LED</p>
+<p>15 ml</p>
+<p>..</p>
+<p>Top Gloss + seals and protects all the under-layers making them virtually bulletproof.</p>
+<p>High shine</p>
+<p>Seals and protects</p>
+<p>Stain resistant</p>
+<p>UV/LED</p>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Couche de finition</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>GelTop</s:tag>
+    <s:tag>Pedi safe</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>top &amp; base</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1482764517429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

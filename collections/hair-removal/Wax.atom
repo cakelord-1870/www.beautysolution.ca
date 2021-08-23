@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/hair-removal.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-07-09T17:22:42-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6772949909675</id>
+    <published>2021-07-09T17:22:42-04:00</published>
+    <updated>2021-07-09T17:22:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/sharonelle-wax-cleaner-peach"/>
+    <title>Sharonelle nettoyant de cire - Pêche..Sharonelle wax cleaner - Peach</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/SharonelleWaxCleaner-Peach-4L.jpg?v=1624652903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>L'huile post-épilatoire pour enlève la cire de la peau. Appliquer après l'épilation en massant la peau en mouvements circulaires. L'huile élimine les résidus de cire en excès sur la peau.</p>
+<p>Fabriqué au Canada.</p>
+<p>4 L</p>
+<p>..</p>
+<p>Post-depilatory oil removes wax from the skin. Apply after waxing by massaging into the skin in a circular motion. The oil removes excess wax residue from the skin.</p>
+<p>Made in Canada.</p>
+<p>4 L</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6772949909675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/88018649096</id>
+    <published>2021-03-05T10:48:12-05:00</published>
+    <updated>2021-03-05T10:48:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-lukewarm-wax-grape"/>
+    <title>Cire tiède raisin..Lukewarm wax grape</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/cire-raisin.jpg?v=1614958921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Nos cires tièdes de haute qualité sont idéales pour tous les types de cheveux et conçues pour les zones sensibles, parfaites pour les professionnels exigeants. Formule économique, s'étale en fines couches et élimine les poils de la racine sans laisser de résidus collants.</p>
+<p>500g</p>
+<p><strong>Disponible en</strong></p>
+<p>..</p>
+<p>Our salon quality lukewarm waxes are ideal for all hair types and designed for sensitive areas, perfect for demanding professionals. Economic formula, spreads in thin layers and removes hair from the root without leaving sticky residues.</p>
+<p>500 g</p>
+<p><strong>Available in</strong></p>
+<p>....</p>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-azulene">Azulène..Azulene</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-creamy">Crémeuse..Creamy</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-natural">Nature..Natural</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-mixed-berries">Petits Fruits..Mixed Berries</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-grape">Raisin..Grape</a></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/88018649096</id>
+      <title>Unité (1)..Single (1)</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6088379433131</id>
+    <published>2020-12-07T15:08:27-05:00</published>
+    <updated>2020-12-07T15:08:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/mbi-413-tweezer-straight-fine-point"/>
+    <title>Pince à cils droite à pointe fine..Eyelash tweezers straight fine point</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>MBI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/MBI-413.jpg?v=1607371689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MBI<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Pince à cils professionnelle, parfaite pour manipuler des cils individuels ou séparer les cils.</p>
+<p>Taille 5.5"</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Fabriqué en acier inoxydable spécial de qualité chirurgicale forgé à chaud</li>
+<li>Peut être stérilisé chimiquement et utilisé en toute sécurité dans un autoclave sans crainte de dommages</li>
+<li>Garantie à vie contre les défauts de fabrication</li>
+</ul>
+<p>..</p>
+<p>Professional lash tweezers, perfect for handling individual lashes or separating lashes.</p>
+<p>Size 5.5"</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Made by finest, hot forged special surgical grade stainless steel</li>
+<li>Can be chemically sterilized and are autoclave safe without fear of damage</li>
+<li>Lifetime warranty against manufacturer’s defects</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Electrolysis</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6088379433131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>MBI-413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6088375468203</id>
+    <published>2020-12-03T11:01:54-05:00</published>
+    <updated>2020-12-03T11:01:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/mbi-362-wooden-handle-spatula"/>
+    <title>Spatule avec manche en bois..Wooden handle spatula</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>MBI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/MBI-362.jpg?v=1607011285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MBI<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Une spatule professionnelle en acier inoxydable avec manche en bois offre un confort optimal et est facile à manipuler. Parfait pour étaler une fine couche de cire chauffée sur la peau.</p>
+<p>..</p>
+<p>Professional stainless steel spatula with wooden handle gives optimal comfort and is easy to grip. Perfect to spread a thin layer of warmed wax over the skin.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6088375468203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>MBI-362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4059239940</id>
+    <published>2020-09-27T20:25:56-04:00</published>
+    <updated>2020-09-27T20:25:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/epillyss-pre-depilation-lotion"/>
+    <title>Lotion pré-épilatoire..Pre-depilation lotion</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pre-depilation-lotion.jpg?v=1532634024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            10.95 - 22.95
+            <a href="https://www.beautysolution.ca/products/epillyss-pre-depilation-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Désinfecte la peau sans l’assécher. </strong></p>
+<p>Idéale avant et après l’épilation à la cire ou à l’électricité.</p>
+<p>La lotion pré‑épilatoire ÉPILLYSS est le produit par excellence pour désinfecter la peau avant et après le traitement épilatoire à la cire ou à l’électricité. Le chlorure de benzalconium contenu dans cette lotion est un antiseptique puissant et très efficace contre les germes, les bactéries et les levures. Cette lotion ne contient aucun alcool ou dérivé d’alcool qui pourrait irriter ou assécher la peau. De plus, elle n’occasionne aucun resserrement des ostiums rendant ainsi l’épilation à la cire moins douloureuse et facilitant l’insertion du filament d’électrolyse. Il est recommandé de l’offrir à la clientèle afin qu’elle puisse se rafraîchir elle‑même les zones intimes avant le traitement.</p>
+<p>La lotion pré‑épilatoire ÉPILLYSS peut également être utilisée pour désinfecter les pieds et elle élimine très efficacement les odeurs indésirables.</p>
+<p>Il est donc tout indiqué que la lotion pré‑épilatoire ÉPILLYSS soit une partie intégrante de votre méthodologie de traitement.</p>
+<p>3 L</p>
+<p>..</p>
+<p><strong>Disinfects skin without drying it. </strong></p>
+<p>Ideal before or after waxing or for electrolysis.</p>
+<p>ÉPILLYSS pre‑depilatory lotion is the ideal product for disinfecting skin before and after hair removal treatments, such as waxing or electrolysis. It contains benzalkonium chloride, which is a powerful antiseptic that is extremely effective against germs, bacteria and yeast. This lotion does not contain any alcohol or alcohol derivatives which could irritate or dry skin. Furthermore, it does not cause skin follicles to constrict resulting in less discomfort during waxing session and making the insertion of electrolysis needle an easier task. We recommend that you offer clients the option of applying the lotion to intimate parts themselves prior to the treatment.</p>
+<p>ÉPILLYSS pre‑depilatory lotion can also be used to disinfect feet and is highly effective in eliminating undesirable odours.</p>
+<p>As you can see, ÉPILLYSS pre‑depilatory lotion is an essential part of the hair removal process.</p>
+<p>3 L</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4059239940</id>
+      <title>3 Litres</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>58465415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4059239940</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4667502329909</id>
+    <published>2020-09-17T07:56:26-04:00</published>
+    <updated>2020-09-17T07:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/mbi-405-electrolysis-tweezer"/>
+    <title>Pince à électrolyse..Electrolysis tweezer</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>MBI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/MBI-405.jpg?v=1600343769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MBI<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Pinces d'électrolyse pour épilation corporelle.</p>
+<p>Taille 3.5"</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Fabriqué en acier inoxydable spécial de qualité chirurgicale forgé à chaud</li>
+<li>Peut être stérilisé chimiquement et utilisé en toute sécurité dans un autoclave sans crainte de dommages</li>
+<li>Garantie à vie contre les défauts de fabrication</li>
+</ul>
+<p>..</p>
+<p>Electrolysis tweezers for body waxing.</p>
+<p>Size 3.5″</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Made by finest, hot forged special surgical grade stainless steel</li>
+<li>Can be chemically sterilized and are autoclave safe without fear of damage</li>
+<li>Lifetime warranty against manufacturer’s defects</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4667502329909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>MBI-405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/45523632136</id>
+    <published>2020-07-29T19:22:41-04:00</published>
+    <updated>2020-07-29T19:22:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-spa-wrap"/>
+    <title>Paréo de spa..Spa body wrap gown</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/Pareo.jpg?v=1619888289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Sortie-de-bain professionnel de style paréo en tissu blanc pour une utilisation dans votre salon ou spa. Un tissu doux, léger et facile d'entretien, avec bande velcro pour plus de confort. Taille unique.</p>
+<p>..</p>
+<p>Professional white pareo style body towel for use in your salon or spa. A soft, lightweight and easy-care cloth, with velcro band for comfort. One size fits all.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/45523632136</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1393727668277</id>
+    <published>2020-07-26T10:21:56-04:00</published>
+    <updated>2020-07-26T10:21:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-swhs-wax-warmer"/>
+    <title>Chauffe cire - simple..Wax warmer - single</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/S-WHS.jpg?v=1535594978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Chauffe délicatement la cire à la température désirée.</p>
+<p>..</p>
+<p>Gently heats wax to desired temperature with adjustable heat control.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1393727668277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku>S-WHS</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4598643720245</id>
+    <published>2020-07-07T08:00:52-04:00</published>
+    <updated>2020-07-07T08:00:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-wax-applicator-popsicle"/>
+    <title>Applicateur à cire..Wax applicator (popsicle)</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/wax_stick-popsicle.jpg?v=1592610604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            1.95 - 9.95
+            <a href="https://www.beautysolution.ca/products/bssb-wax-applicator-popsicle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Applicateurs de cire standard en form de petit bâtons popsicle, idéaux pour appliquer la cire sur le visage et le corps.</p>
+<p>Disponible en paquet de 50 ou 500.</p>
+<p>..</p>
+<p>Standard popsicle stick wax applicators, ideal for applying wax to the face and body.</p>
+<p>Available in packs of 50 or 500.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4598643720245</id>
+      <title>Paquet (50)..Pack (50)</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4598643720245</id>
+      <title>Paquet (500)..Pack (500)</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4514698166325</id>
+    <published>2020-04-16T14:11:06-04:00</published>
+    <updated>2020-04-16T14:11:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-aloe-vera-gel"/>
+    <title>Gel d&apos;aloe vera..Aloe Vera gel</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/aloeveragel-1L.jpg?v=1587060836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Ce gel frais et apaisant est recommandé pour une utilisation après les traitements d'épilation, l'exposition au soleil et pour l'hydratation générale.</p>
+<p>1 Litre</p>
+<p>..</p>
+<p>This cool, soothing gel is recommended for use after hair removal treatments, sun exposure and for general moisturising.</p>
+<p>1 Litre</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4514698166325</id>
+      <title>1 Litre</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4514580234293</id>
+    <published>2020-04-16T10:33:34-04:00</published>
+    <updated>2020-04-16T10:33:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/sharonelle-azulene-wax"/>
+    <title>Sharonelle Cire Azulène..Sharonelle Azulene Wax</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/SharonelleAzuleneWax-14oz-open.jpg?v=1587051050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>La cire épilatoire naturelle Sharonelle avec azulène est formulée pour une application mince, rapide et économique, et contient de l'huile bleue obtenue à partir de fleurs de camomille offrant une protection anti-inflammatoire, bactéricide et anti-allergène. Convient à tous les types de poil.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Formulé pour fondre à basse température</li>
+<li>Contient de l'huile essentielle d'azulène</li>
+<li>Pour les peaux sensibles</li>
+<li>Contient des substances organiques naturelles</li>
+<li>Sans danger pour l'environnement</li>
+<li>Convient à tous les chauffe-cire standard</li>
+<li>Fabriqué au Canada</li>
+</ul>
+<p>397 g (14 oz)</p>
+<p>..</p>
+<p>Sharonelle Azulene Natural Depilatory Wax is formulated for thin, fast and economical applications, and contains blue oil obtained from chamomile flowers providing anti-inflammatory, bactericidal, and anti-allergenic protection. Suitable for all types of hair growth.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Formulated to melt at lower temperature</li>
+<li><span>Contains Azulene essential oil</span></li>
+<li>For sensitive skin</li>
+<li>Contains natural organic substances</li>
+<li>Environmentally safe</li>
+<li>Fits all standard wax warmers</li>
+<li>Made in Canada</li>
+</ul>
+<p>397 g (14 oz)</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4514580234293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4514554314805</id>
+    <published>2020-04-16T10:33:34-04:00</published>
+    <updated>2020-04-16T10:33:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/sharonelle-cream-wax"/>
+    <title>Sharonelle Cire Crème..Sharonelle Cream Wax</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/SharonelleCreamWax-14oz-open.jpg?v=1587051089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>La cire épilatoire naturelle Sharonelle Cream est formulée pour fondre à basse température et offre une protection supplémentaire contre les irritations cutanées en raison de sa teneur en dioxyde de titane - un agent d'une valeur considérable pour les brûlures. Efficace sur les poils - doux pour la peau.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Formulé pour fondre à basse température</li>
+<li>Protection supplémentaire contre les irritations cutanées</li>
+<li>Pour les peaux sensibles</li>
+<li>Contient des substances organiques naturelles</li>
+<li>Sans danger pour l'environnement</li>
+<li>Convient à tous les chauffe-cire standard</li>
+<li>Fabriqué au Canada</li>
+</ul>
+<p>397 g (14 oz)</p>
+<p>..</p>
+<p>Sharonelle Cream Natural Depilatory Wax is formulated to melt at lower temperature and provides extra protection against skin irritation due to its content of Titanium dioxide - an agent of considerable value for burns. Tough to the hair - gentle to the skin.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Formulated to melt at lower temperature</li>
+<li>For sensitive skin</li>
+<li>Extra protection against skin irritation</li>
+<li>Contains natural organic substances</li>
+<li>Environmentally safe</li>
+<li>Fits all standard wax warmers</li>
+<li>Made in Canada</li>
+</ul>
+<p>397 g (14 oz)</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4514554314805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4474687127605</id>
+    <published>2020-02-27T19:24:19-05:00</published>
+    <updated>2020-02-27T19:24:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-wax-collars-square"/>
+    <title>Colliers pour chauffe-cire - carrés..Wax collars - square</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/wax_warmer_collar.jpg?v=1582852221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Colliers jetables pour chauffe-cire. Gardez votre chauffe-cire propre en attrapant la cire qui coule de l'applicateur. Un moyen simple et économique de protéger et prolonger la durée de vie de votre équipement. Papier épais.</p>
+<p>Paquet de 50</p>
+<p>..</p>
+<p>Disposable wax collars. Keeps wax warmer clean by catching any dripping wax from the applicator. An easy and economical way to protect and prolong the life of your equipment. Heavy weight paper.</p>
+<p>Pack of 50</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4474687127605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4418610167861</id>
+    <published>2020-01-09T10:04:38-05:00</published>
+    <updated>2020-01-09T10:04:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-wax-applicators-small"/>
+    <title>Applicateurs de cire - Petit..Wax applicators - Small</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/wax_applicator-small.jpg?v=1626897667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Bâtons en bois pour l'épilation du visage.</p>
+<p>50 par sac</p>
+<p>..</p>
+<p>Wood sticks for facial waxing.</p>
+<p>50 per bag</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4418610167861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4418608955445</id>
+    <published>2020-01-09T10:04:38-05:00</published>
+    <updated>2020-01-09T10:04:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-wax-applicators-large"/>
+    <title>Applicateurs de cire - Grand..Wax applicators - Large</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/wax_applicator-large.jpg?v=1626897641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Bâtons en bois pour l'épilation du corps.</p>
+<p>50 par sac</p>
+<p>..</p>
+<p>Wood sticks for body waxing.</p>
+<p>50 per bag</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4418608955445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/3681099153461</id>
+    <published>2019-05-22T16:25:42-04:00</published>
+    <updated>2019-05-22T16:25:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/epillyss-lukewarm-wax-cocooning"/>
+    <title>Cire tiède cocooning..Cocooning lukewarm wax</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/wax-cocooning.jpg?v=1558556844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            13.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>La cire épilatoire pour un traitement tout en douceur.</strong></p>
+<p>Précédemment nommée <em>Peaux Sensibles</em>, en raison de ses propriétés douces, est fort renommée pour sa texture unique. Elle contient de l’huile de coton, une huile classée « fine » de par son extrême légèreté qui possède un aspect fluide ce qui rend à la cire une texture facile à appliquer et un effet exceptionnellement réconfortant. Fortement recommandé pour les peaux sensibles.</p>
+<p>Avec huiles essentielles.</p>
+<p>560 ml</p>
+<p>..</p>
+<p><strong>Hair removal wax for a gentle treatment.</strong></p>
+<p>This wax, formerly named <em>Sensitive Skin</em> due to its gentle properties, is renowned for its unique texture. It contains cotton seed oil, an oil classified "fine" for its extreme lightness giving a fluid appearance to the wax which makes it easy to apply due to its exceptionally comforting effect and texture. Highly recommended for sensitive skin.</p>
+<p>With essential oils.</p>
+<p>560 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AUG</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:tag>WAX12</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/3681099153461</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/86049587208</id>
+    <published>2018-10-29T22:26:34-04:00</published>
+    <updated>2018-10-29T22:26:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/reynard-avocado-oil-cream"/>
+    <title>Crème post-épilatoire à l&apos;huile avocat..Avocado oil post-depilatory cream</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Laboratoires Reynard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/avocado_oil-cream.jpg?v=1540865420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laboratoires Reynard<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Crème post épilatoire à l'huile d'avocat</strong></p>
+<p>L’épiderme sera comblé par l’effet nourrissant et adoucissant de cette crème corporelle hydratante. L’huile d’avocat étant riche en acide gras et vitamine E naturelle apportera régénération et hydratation.</p>
+<p>Enrichie d’aloès et de vitamine E, elle apaisera aussi les peaux les plus sensibles. Pénètre rapidement sans laisser de film gras pour un confort immédiat après l’épilation.</p>
+<p>D’une texture légère et agréable, les clients voudront continuer l’application à la maison.</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Texture légère et agréable</li>
+<li>Effet nourrissant et adoucissant</li>
+<li>Couleur verte pâle et fragrance douce</li>
+</ul>
+<p>500 ml</p>
+<p>..</p>
+<p><strong>Avocado oil post depilatory cream</strong></p>
+<p>The skin will be pleased with the nourishing and softening effects of this moisturizing body cream. The avocado oil, being rich in fatty acids and vitamin E, will naturally promote regeneration and moisture.</p>
+<p>Enriched with aloe, the cream will soothe the most sensitive skins. It penetrates quickly without leaving any fatty film for optimal comfort after the waxing process.</p>
+<p>With its light and pleasant texture, the customer will want to continue using the product at home for a day-to-day application.</p>
+<p><strong>Specifications</strong></p>
+<ul>
+<li>Light soft texture</li>
+<li>Nourishing and soothing</li>
+<li>Light green color and soft fragrance</li>
+</ul>
+<p>500 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/86049587208</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1913519364</id>
+    <published>2018-10-29T22:22:51-04:00</published>
+    <updated>2018-10-29T22:22:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/reynard-skin-care-lotion"/>
+    <title>Lotion de soins..Skin care lotion</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Laboratoires Reynard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/skincare_lotion.jpg?v=1540866149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laboratoires Reynard<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Lotion pré et post épilatoire avec extrait de pépins de pamplemousse</strong></p>
+<p>Rapide et efficace, cette lotion de soins est excellente pour bien préparer et nettoyer la région à épiler tout en la désinfectant. Son extrait de pépins de pamplemousse lui confère des vertus à la fois douce et puissante.</p>
+<p>Une solution idéale pour une action antibactérienne et antimicrobienne toute en douceur. À utiliser avant et après l’épilation.</p>
+<p><strong>Caractéristiques</strong></p>
+<ul>
+<li>Avec extrait de pépins de pamplemousse</li>
+<li>Pour peaux déshydratées combiner sur une gaze la lotion à l'Huile Azulée</li>
+<li>Pour désinfecter après l'épilation</li>
+<li>Couleur rose et fragrance fraîche de pamplemousse rose</li>
+</ul>
+<p>500 ml</p>
+<p>..</p>
+<p><strong>Pre and post depilatory lotion with grapefruit seed extract</strong></p>
+<p>Quick and effective with germicide and bactericidal properties, this lotion is excellent for cleansing and disinfecting the skin before depilation. With grapefruit seed extract this lotion is both gentle and powerful.</p>
+<p>An ideal solution for its antibacterial and antimicrobial effects while being gentle on the skin. To be used before and after depilation.</p>
+<p><strong>Specifications</strong></p>
+<ul>
+<li>With grapeseed extract</li>
+<li>Gel texture</li>
+<li>Pink color with fresh pink grapefruit fragrance</li>
+<li>For dry or sensitive skin, combine with the azulene oil on a gaze before waxing</li>
+</ul>
+<p>500 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913519364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>12344</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1913519492</id>
+    <published>2018-10-29T22:15:30-04:00</published>
+    <updated>2018-10-29T22:15:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/reynard-azulene-oil"/>
+    <title>Huile azulée épilatoire..Depilatory azulene oil</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Laboratoires Reynard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/azulene_oil.jpg?v=1540865722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laboratoires Reynard<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Huile azulée pré et post épilatoire</strong></p>
+<p>Azulène va de pair avec douceur et confort, une assurance pour les peaux sèches et sensibles. En association avec la Lotion de Soins Pré et Post Épilatoire, elle est recommandée pour préparer la peau avant l’épilation, l’adoucir et atténuer la douleur lors de l’arrachage.</p>
+<p>Cette huile est enrichie d’huile d’olive et de germe de blé pour un apport en vitamine E et acides gras essentiels aux propriétés nourrissantes et antioxidantes. Anti-irritante, elle laisse un film très léger et confortable sur la peau après l’épilation.</p>
+<p><strong>Caractéristiques</strong><br></p>
+<ul>
+<li>Assurance pour les peaux sèches et sensibles</li>
+<li>Huile délicate de couleur bleu azur et fragrance douce</li>
+</ul>
+<p>500 ml</p>
+<p>..</p>
+<p><strong>Pre and post depilatory azulene oil</strong></p>
+<p>Azulene keeps pace with softness and comfort, an assurance for dry and sensitive skins. In association with the Pre and Post Depilatory Skin Care Lotion, it is recommended in order to prepare and soften the skin before depilation.</p>
+<p>This oil is enriched with olive oil, wheat germ that contains vitamin E and fatty acids which provide nourishing and antioxidant properties. Its anti-irritation feature prevents breakouts and redness. Leaves a very light and comfortable film on the skin’s surface after depilation.</p>
+<p><strong>Specifications</strong></p>
+<ul>
+<li>For dry or sensitive skin</li>
+<li>Light and delicate blue oil and soft fragrance</li>
+</ul>
+<p>500 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913519492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>1204053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1393737007157</id>
+    <published>2018-08-29T21:40:49-04:00</published>
+    <updated>2018-08-29T21:40:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-swhd-wax-warmer"/>
+    <title>Chauffe cire - double..Wax warmer - double</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/S-WHD.jpg?v=1535594962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Chauffe délicatement la cire à la température désirée.</p>
+<p>Deux contrôles séparés.</p>
+<p>CSA approuvé.</p>
+<p>..</p>
+<p>Gently heats wax to desired temperature with adjustable heat control.</p>
+<p>Separated heat control.</p>
+<p>CSA approved.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1393737007157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>S-WHD</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/141027803144</id>
+    <published>2018-02-05T09:48:58-05:00</published>
+    <updated>2018-02-05T09:48:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/reynard-honeycomb-strips"/>
+    <title>Bandelettes alvéolées..Honeycomb strips</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Laboratoires Reynard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/honeycombed_strips-3.jpg?v=1626458461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laboratoires Reynard<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Cette dernière innovation de Bandes Alvéolées Imperméables vous promet une épilation des plus efficaces.</p>
+<p>Par son côté imperméable, la cire ne pourra pas traverser la bande. Ainsi, vous conserverez des mains plus propres et maximiser le potentiel de travail de chaque bande. Le côté alvéolé offrira une meilleure adhérence de la cire aux poils. Moins de traction inutile sur la peau et une séance plus détendue pour vous et vos clients!</p>
+<p>De texture souple, les Bandes Alvéolées Imperméables épouseront tous les contours du corps, des plus anguleux aux plus sensibles. Contrairement au pelon traditionnel, les Bandes Alvéolées Imperméables ne se dédoubleront pas et maintiendront leur intégrité pour toute la durée de leur travail.</p>
+<p>3" x 100 verges</p>
+<p>..</p>
+<p>This latest innovation of Waterproof Honeycombed Strips promises you the most effective hair removal.</p>
+<p>Because of its impervious side, the wax will not be able soak through the strip. This will keep your hands cleaner and maximize the working potential of each strip. The honeycombed side will offer a better adhesion of the wax to the hairs. Less unnecessary traction on the skin and a more relaxed session for you and your customers!</p>
+<p>Flexible texture, Waterproof Honeycombed Strips will follow all the contours of the body, from the most angular to the most sensitive. Unlike the traditional strips, Waterproof Honeycombed Strips will not unravel and maintain their integrity for the duration of their work.</p>
+<p>3" x 100 yards</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/141027803144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/141020921864</id>
+    <published>2018-02-05T09:27:23-05:00</published>
+    <updated>2018-02-05T09:27:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-medical-razors"/>
+    <title>Rasoirs médicaux..Medical razors</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/medical_razor.jpg?v=1564145492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            27.95 - 52.00
+            <a href="https://www.beautysolution.ca/products/bssb-medical-razors">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Lames sur 2 côtés.</p>
+<p>Boîte de 100 ou sac de 50</p>
+<p>..</p>
+<p>Blades on 2 sides.</p>
+<p>Box of 100 or bag of 50</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/141020921864</id>
+      <title>Boîte (100)..Box (100)</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/141020921864</id>
+      <title>Sac (50)..Bag (50)</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/88021925896</id>
+    <published>2018-01-04T08:35:42-05:00</published>
+    <updated>2018-01-04T08:35:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-lukewarm-wax-azulene"/>
+    <title>Cire tiède azulène..Lukewarm wax - Azulene</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/cire-azulene.jpg?v=1614957969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Nos cires tièdes de haute qualité sont idéales pour tous les types de cheveux et conçues pour les zones sensibles, parfaites pour les professionnels exigeants. Formule économique, s'étale en fines couches et élimine les poils de la racine sans laisser de résidus collants.</p>
+<p>500g</p>
+<p><strong>Disponible en</strong></p>
+<p>..</p>
+<p>Our salon quality lukewarm waxes are ideal for all hair types and designed for sensitive areas, perfect for demanding professionals. Economic formula, spreads in thin layers and removes hair from the root without leaving sticky residues.</p>
+<p>500 g</p>
+<p><strong>Available in</strong></p>
+<p>....</p>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-azulene">Azulène..Azulene</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-creamy">Crémeuse..Creamy</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-natural">Nature..Natural</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-mixed-berries">Petits Fruits..Mixed Berries</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-grape">Raisin..Grape</a></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/88021925896</id>
+      <title>Unité (1)..Single (1)</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/88015536136</id>
+    <published>2018-01-04T08:34:20-05:00</published>
+    <updated>2018-01-04T08:34:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-lukewarm-wax-natural"/>
+    <title>Cire tiède nature..Lukewarm wax - Natural</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/cire-nature.jpg?v=1614958938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Nos cires tièdes de haute qualité sont idéales pour tous les types de cheveux et conçues pour les zones sensibles, parfaites pour les professionnels exigeants. Formule économique, s'étale en fines couches et élimine les poils de la racine sans laisser de résidus collants.</p>
+<p>500g</p>
+<p><strong>Disponible en</strong></p>
+<p>..</p>
+<p>Our salon quality lukewarm waxes are ideal for all hair types and designed for sensitive areas, perfect for demanding professionals. Economic formula, spreads in thin layers and removes hair from the root without leaving sticky residues.</p>
+<p>500 g</p>
+<p><strong>Available in</strong></p>
+<p>....</p>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-azulene">Azulène..Azulene</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-creamy">Crémeuse..Creamy</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-natural">Nature..Natural</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-mixed-berries">Petits Fruits..Mixed Berries</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-grape">Raisin..Grape</a></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/88015536136</id>
+      <title>Unité (1)..Single (1)</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/88011636744</id>
+    <published>2018-01-04T08:30:12-05:00</published>
+    <updated>2018-01-04T08:30:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-lukewarm-wax-creamy"/>
+    <title>Cire tiède crémeuse..Lukewarm wax - Creamy</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/cire-cremeuse.jpg?v=1614958095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Nos cires tièdes de haute qualité sont idéales pour tous les types de cheveux et conçues pour les zones sensibles, parfaites pour les professionnels exigeants. Formule économique, s'étale en fines couches et élimine les poils de la racine sans laisser de résidus collants.</p>
+<p>500g</p>
+<p><strong>Disponible en</strong></p>
+<p>..</p>
+<p>Our salon quality lukewarm waxes are ideal for all hair types and designed for sensitive areas, perfect for demanding professionals. Economic formula, spreads in thin layers and removes hair from the root without leaving sticky residues.</p>
+<p>500 g</p>
+<p><strong>Available in</strong></p>
+<p>....</p>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-azulene">Azulène..Azulene</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-creamy">Crémeuse..Creamy</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-natural">Nature..Natural</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-mixed-berries">Petits Fruits..Mixed Berries</a></div>
+<div class="filter_menu"><a href="/products/bssb-lukewarm-wax-grape">Raisin..Grape</a></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/88011636744</id>
+      <title>Unité (1)..Single (1)</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

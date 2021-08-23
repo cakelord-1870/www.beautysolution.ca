@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/gd.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-02-17T16:13:56-05:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177310933163</id>
+    <published>2021-02-17T16:13:56-05:00</published>
+    <updated>2021-02-17T16:13:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-cotton-fitted-sheet"/>
+    <title>Housse de table ajustée en coton..Cotton fitted table cover</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/CCZ1.jpg?v=1613597003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Ce drap de flanelle ajusté naturel est fait de coton et est doublé pour un niveau supplémentaire de confort doux et luxueux. Conçu pour résister aux rigueurs des massages professionnels, des soins spa et des lavages répétés.</p>
+<p>Fait de 100% coton et conçu pour s'adapter à toute table de massage portable et stationnaire jusqu'à 35" x 75", sans trou pour le visage.</p>
+<p>90 x 190 cm</p>
+<p>..</p>
+<p>This natural fitted flannel sheet is made of cotton and is double napped for an extra level of soft luxurious comfort. Built to withstand the rigours of professional massage and spa treatments and repeated washings.</p>
+<p>Made of 100% cotton and designed to fit any portable and stationary massage table up to 35" x 75", without face hole.</p>
+<p>90 x 190 cm</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177310933163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>CCZ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177299595435</id>
+    <published>2021-02-17T15:36:32-05:00</published>
+    <updated>2021-02-17T15:36:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-fitted-flannel-face-cover"/>
+    <title>Housse d&apos;appui-tête ajustée en flanelle..Fitted flannel face cover</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/CZT4-1.jpg?v=1613594080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Augmentez le confort du client avec la douceur de cette housse d'appui-visage en flanelle naturelle. S'adapte en toute sécurité sur les appuie-tête en forme de «U» pour les tables de spa.</p>
+<p>Paquet de 4</p>
+<p>..</p>
+<p>Increase client comfort with the softness of this natural flannel face rest cover. Fits securely over spa table 'U' shaped head rests.</p>
+<p>Pack of 4</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177299595435</id>
+      <title>Paquet (4)..Pack (4)</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>CZT4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177320337579</id>
+    <published>2021-02-17T11:10:32-05:00</published>
+    <updated>2021-02-17T11:10:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-mask-bowl"/>
+    <title>Bol pour masque..Mask bowl</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/maskbowl-5in.jpg?v=1626706901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Bol de masque blanc conçu pour appliquer des masques faciaux.</p>
+<p>Bol de 5 pouces.</p>
+<p>..</p>
+<p>White mask bowl designed for applying facial masks.</p>
+<p>5 inch bowl.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SkinCare</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177320337579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>GD-maskbowl-5in</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1393727668277</id>
+    <published>2020-07-26T10:21:56-04:00</published>
+    <updated>2020-07-26T10:21:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-swhs-wax-warmer"/>
+    <title>Chauffe cire - simple..Wax warmer - single</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/S-WHS.jpg?v=1535594978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Chauffe délicatement la cire à la température désirée.</p>
+<p>..</p>
+<p>Gently heats wax to desired temperature with adjustable heat control.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1393727668277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku>S-WHS</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4474657079349</id>
+    <published>2020-02-27T19:25:32-05:00</published>
+    <updated>2020-02-27T19:25:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-disposable-fitted-headrest-cover"/>
+    <title>Housse d&apos;appui-tête ajustée jetables..Disposable fitted headrest cover</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/headrest_cover_disp.jpg?v=1626717843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Housses de repose-visage de première qualité, peut être appliqué rapidement et facilement comme barrière hygiénique jetable. Il est doux, absorbant et sans latex.</p>
+<p>Paquet de 50</p>
+<p>..</p>
+<p>Premium fitted face rest covers, can be applied quickly and easily as a disposable hygienic barrier. It is soft, absorbent and latex free.</p>
+<p>Pack of 50</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4474657079349</id>
+      <title>Paquet (50)..Pack (50)</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>CWZ2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4474687127605</id>
+    <published>2020-02-27T19:24:19-05:00</published>
+    <updated>2020-02-27T19:24:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-wax-collars-square"/>
+    <title>Colliers pour chauffe-cire - carrés..Wax collars - square</title>
+    <s:type>Épilation</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/wax_warmer_collar.jpg?v=1582852221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Épilation<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Colliers jetables pour chauffe-cire. Gardez votre chauffe-cire propre en attrapant la cire qui coule de l'applicateur. Un moyen simple et économique de protéger et prolonger la durée de vie de votre équipement. Papier épais.</p>
+<p>Paquet de 50</p>
+<p>..</p>
+<p>Disposable wax collars. Keeps wax warmer clean by catching any dripping wax from the applicator. An easy and economical way to protect and prolong the life of your equipment. Heavy weight paper.</p>
+<p>Pack of 50</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4474687127605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1635378462773</id>
+    <published>2019-04-29T11:38:47-04:00</published>
+    <updated>2019-04-29T11:38:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-np1024-display"/>
+    <title>Présentoir mural..Wall mounted display</title>
+    <s:type>Mobilier</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/NP1024.jpg?v=1556552705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Mobilier<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Mettez vos bouteilles de vernis à ongles en exposition.</p>
+<p>16.5" x 24"</p>
+<p>..</p>
+<p>For displaying your nail polish bottles.</p>
+<p>16.5" x 24"</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1635378462773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>NP1024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1393737007157</id>
+    <published>2018-08-29T21:40:49-04:00</published>
+    <updated>2018-08-29T21:40:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-swhd-wax-warmer"/>
+    <title>Chauffe cire - double..Wax warmer - double</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/S-WHD.jpg?v=1535594962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Chauffe délicatement la cire à la température désirée.</p>
+<p>Deux contrôles séparés.</p>
+<p>CSA approuvé.</p>
+<p>..</p>
+<p>Gently heats wax to desired temperature with adjustable heat control.</p>
+<p>Separated heat control.</p>
+<p>CSA approved.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1393737007157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>S-WHD</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9765509640</id>
+    <published>2017-05-31T12:31:54-04:00</published>
+    <updated>2017-05-31T12:31:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-d220-trolley"/>
+    <title>D-220 Charriot..D-220 Trolley</title>
+    <s:type>Mobilier</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/D-220.jpg?v=1532633815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Mobilier<br>
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<ul>
+<li>Trois étagères métalliques</li>
+<li>Avec barre d'alimentation</li>
+<li>Avec 2 accessoires de lampe</li>
+<li>2 serrures sur 2 roues</li>
+<li>Dimension: 22" x 13" x 34"</li>
+<li>Emballage: 34" x 14" x 4.5"</li>
+<li>15 lb</li>
+</ul>
+<p>..</p>
+<ul>
+<li>Three metal shelves</li>
+<li>With power bar</li>
+<li>With 2 lamp fittings</li>
+<li>2 locks on 2 wheels</li>
+<li>Dimension: 22" x 13" x 34"</li>
+<li>Packing: 34" x 14" x 4.5"</li>
+<li>15 lb</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9765509640</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">265.00</s:price>
+      <s:sku>D-220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1913458180</id>
+    <published>2016-07-13T10:24:00-04:00</published>
+    <updated>2016-07-13T10:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-d9005-trolley"/>
+    <title>D-9005 Chariot à manucure/pedicure..D-9005 Manicure/pedicure trolley</title>
+    <s:type>Mobilier</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/D-9005.jpg?v=1532634096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Mobilier<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<ul>
+<li>Siege et 3 tiroirs</li>
+<li>Un comptoir</li>
+<li>L 24" x l 14" x H 29"</li>
+<li>Blanc ou noir</li>
+<li>Tourne sur 360°</li>
+<li>Paquet: 16" x 14" x 20"</li>
+<li>18 lb</li>
+</ul>
+<p>Vous pouvez vous asseoir dessus, puis tirer le plateau devant ou à côté de vous pendant que vous travaillez.</p>
+<p>..</p>
+<div>
+<ul>
+<li>Seat and three drawers</li>
+<li>One counter top</li>
+<li>L 24" x W 14" x H 29"</li>
+<li>White or black</li>
+<li>Tray can spin around 360°</li>
+<li>Packing: 16" x 14" x 20"</li>
+<li>18 lb</li>
+</ul>
+</div>
+<div>You can sit on it and then pull the tray in front or beside you while you work.</div>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913458180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku>D-9005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1913515908</id>
+    <published>2016-07-13T09:54:00-04:00</published>
+    <updated>2016-07-13T09:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-d3560-chair"/>
+    <title>D-3560 Chaise facial..D-3560 Facial chair</title>
+    <s:type>Mobilier</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/D-3560.jpg?v=1532634072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Mobilier<br>
+        <strong>Price: </strong>
+            499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<ul>
+<li>Blanc ou Noir</li>
+<li>Ouverture en dessous de l'oreiller</li>
+<li>Bras amovibles</li>
+<li>L 74" x W 25" x H 27"</li>
+<li>Capacité de charge: 280 lb</li>
+<li>Paquet: 46" x 15" x 26"</li>
+<li>86 lb</li>
+</ul>
+<p>..</p>
+<ul>
+<li>White or Black</li>
+<li>Open face hole beneath the pillow</li>
+<li>Arms removable</li>
+<li>L 74" x W 25" x H 27"</li>
+<li>Load capacity: 280 lb</li>
+<li>Packaging : 46" x 15" x 26"</li>
+<li>86 lb</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913515908</id>
+      <title>Blanc..White</title>
+      <s:price currency="CAD">499.99</s:price>
+      <s:sku>D-3560-WHITE</s:sku>
+      <s:grams>39009</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913515908</id>
+      <title>Noir..Black</title>
+      <s:price currency="CAD">499.99</s:price>
+      <s:sku>D-3560-BLACK</s:sku>
+      <s:grams>39009</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4985496260</id>
+    <published>2016-05-26T15:39:00-04:00</published>
+    <updated>2016-05-26T15:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-jl8066-lamp"/>
+    <title>JL-8066 lampe loupe DEL 5D..JL-8066 LED magnifying lamp 5D</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/JL-8066_30cf930e-29d8-4df7-a3c3-dab0c51515dc.jpg?v=1626718141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<ul>
+<li>96 lumières DEL</li>
+<li>utilisation prévue 20 000 heures</li>
+<li>Loupe de 5 dioptries</li>
+<li>emballage : 21" x 10" x 4,5"</li>
+</ul>
+<p>..</p>
+<ul>
+<li>96 LED lights</li>
+<li>expected usage 20 000 hours</li>
+<li>5 diopter magnification</li>
+<li>packaging: 21" x 10" x 4.5"</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4985496260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>JL-8066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1913466500</id>
+    <published>2016-05-05T08:24:00-04:00</published>
+    <updated>2016-05-05T08:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-d209-cabinet"/>
+    <title>D-209 Cabinet UV..D-209 UV cabinet</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/D-209_0b6327e7-3f12-4005-aecc-8da5b4b4fed6.jpg?v=1532634087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Sterilize le verre, les brosses, les ciseaux et les outils de beauté grace a une lumière UV.</p>
+<ul>
+<li>One couche</li>
+<li>Emballage: 17" x 11" x 10"</li>
+<li>11 lb</li>
+</ul>
+<p>..</p>
+<p>Sterilizes glass, brushes, scissors and beauty tools with ultraviolet light.</p>
+<ul>
+<li>One layer</li>
+<li>Packing: 17" x 11" x 10"</li>
+<li>11 lb</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913466500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">289.00</s:price>
+      <s:sku>D-209</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1913464644</id>
+    <published>2016-05-05T08:23:00-04:00</published>
+    <updated>2016-05-05T08:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-d1000b-steamer"/>
+    <title>D-1000B Machine à vapeur..D-1000B Steamer</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/D-1000B.jpg?v=1532634089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            459.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Utiliser pour nettoyer la peau</li>
+<li>Viens avec de l'ozone pour steriliser et desinfecter la peau</li>
+<li>Se ferme automatiquement lorsque le niveau d'eau est insufisant</li>
+<li>L'indicateur thermal ne recommencera pas a moins de le remettre en marche</li>
+<li>La hauteur s'ajuste</li>
+</ul>
+<p><strong>Emballage</strong></p>
+<ul>
+<li>Corps: 35" x 18" x 12", 20 lbs</li>
+<li>Support: 22" x 22" x 8", 3 lbs</li>
+</ul>
+<p>..</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Used to moisten and clean skin</li>
+<li>Comes with ozone to sterilize the steam and desinfect the skin</li>
+<li>Automatic shut-off feature (thermostat won't restart) if no water</li>
+<li>Adjustable height stand</li>
+</ul>
+<p><strong>Packing</strong></p>
+<ul>
+<li>Body: 35" x 18" x 12", 20 lbs</li>
+<li>Stand: 22" x 22" x 8", 3 lbs</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>massage</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913464644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">459.00</s:price>
+      <s:sku>D-1000B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1396217577525</id>
+    <published>2016-05-05T08:19:00-04:00</published>
+    <updated>2016-05-05T08:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-plastic-sterilizing-tray"/>
+    <title>Plateau de stérilisation en plastique..Plastic sterilizing tray</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/NT1035A.jpg?v=1535594525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Idéal pour désinfecter les outils tels que les coupe d'ongles, les pinces, les poussoirs à cuticules, etc., avec panier auto-drainant. Fabriqué en plastique de haute qualité très durable.</p>
+<p>Convient pour un usage professionnel en salon ou à domicile.</p>
+<p>22.5 cm x 10.5 cm</p>
+<p>..</p>
+<p>Ideal for sanitizing tools such as clippers, nippers, cuticle pushers etc., with self-draining basket. Made of very durable high quality plastic.</p>
+<p>Suitable for professional salon use or home use.</p>
+<p>22.5 cm x 10.5 cm</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1396217577525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>NT1035A</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4052151492</id>
+    <published>2015-12-27T21:05:00-05:00</published>
+    <updated>2015-12-27T21:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-disposable-headrest-cover"/>
+    <title>Protecteurs d&apos;appui-tête jetables..Disposable headrest protectors</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/headrest_sheets_disp.jpg?v=1626718511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Ultra doux</p>
+<p>Sensation de flanelle luxueuse dans une housse d'appui-tête jetable. Offrir à vos patients un confort supplémentaire.</p>
+<p>Se pose sur n'importe quel repose-tête standard. Pré-coupé pour un confort respiratoire.</p>
+<p>Paquet de 100 feuilles</p>
+<p>..</p>
+<p>Ultra Soft</p>
+<p>Luxurious flannel feel in a disposable face rest cover. Giving patients extra comfort while on your table.</p>
+<p>Lays on top of any standard headrest. Pre-cut for breathing comfort.</p>
+<p>Pack of 100 sheets</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4052151492</id>
+      <title>Paquet (100)..Pack (100)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>CWZ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

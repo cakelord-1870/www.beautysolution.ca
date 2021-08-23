@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/le-outlet.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-06-02T16:21:27-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/3769181175861</id>
+    <published>2021-06-02T16:21:27-04:00</published>
+    <updated>2021-06-02T16:21:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-collection-cozy-up-to-fall"/>
+    <title>Glitter Collection - Cozy up to Fall</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-collection-cozy.jpg?v=1563921846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>💲Économisez 29,75$ sur le prix d'achat individuel avec les collections!💲</strong></p>
+<p><strong>Comprend</strong><br>I Mist You | Indian Summer | Storm Chaser | Sweater Weather | Thunderstruck | What the Hail?<br><strong>+ Un carnet d'échantillons GRATUIT!</strong></p>
+<p>(6) 17 ml glitter gels, avec sélecteurs de couleurs</p>
+<p>..</p>
+<p><strong>💲Collections save you $29.75 over the individual purchase price!💲</strong></p>
+<p><strong>Includes</strong><br>I Mist You | Indian Summer | Storm Chaser | Sweater Weather | Thunderstruck | What the Hail?<br><strong>+ FREE Swatch Book!</strong></p>
+<p>(6) 17 ml glitter gels, with fandeck sticks</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/3769181175861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/623634579509</id>
+    <published>2021-04-09T16:54:13-04:00</published>
+    <updated>2021-04-09T16:54:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-gel-locals-only"/>
+    <title>Glitter Gel - Locals Only</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-localsonly.jpg?v=1524065626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Collection d'été 2018 Surf City<br><br>Ce natif est un joli rose saumon.<br><br>17 ml</p>
+<p>..</p>
+<p>Summer 2018 Surf City Collection</p>
+<p>This native is a pretty pink salmon.</p>
+<p>17 ml</p>
+<p>....</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GELPROMO</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/623634579509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/135061929992</id>
+    <published>2021-04-09T16:54:13-04:00</published>
+    <updated>2021-04-09T16:54:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-gel-bubbles"/>
+    <title>Glitter Gel - Bubbles</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-bubbles.jpg?v=1557753748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">17ml</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/135061929992</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>G130E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/134946521096</id>
+    <published>2021-04-09T16:54:13-04:00</published>
+    <updated>2021-04-09T16:54:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-gel-pump-up-the-jam"/>
+    <title>Color Gel - Pump Up The Jam</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-pumpupthejam.jpg?v=1549659224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spring 2018 Collection May I Have This Dance?</p>
+<p>17 ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GELPROMO</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/134946521096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>C199E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/15023144968</id>
+    <published>2021-04-09T16:54:12-04:00</published>
+    <updated>2021-04-09T16:54:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-gel-tie-me-tenderly"/>
+    <title>Color Gel - Tie Me Tenderly</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-tiemetenderly.jpg?v=1557754650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You'll want to get tied up in this shimmer satin beige.</p>
+<p>17ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/15023144968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>C672E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/11889868808</id>
+    <published>2021-04-09T16:54:12-04:00</published>
+    <updated>2021-04-09T16:54:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-gel-jawbreaker"/>
+    <title>Glitter Gel - Jawbreaker</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-jawbreaker.jpg?v=1557522185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Textured, matte glitter pieces in a beautiful blue-turquoise.</p>
+<p>17 ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/11889868808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>G976E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/10842995144</id>
+    <published>2021-04-09T16:54:11-04:00</published>
+    <updated>2021-04-09T16:54:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-gel-violet"/>
+    <title>Glitter Gel - Violet</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-violet.jpg?v=1557520895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/10842995144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>G944E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/10842988552</id>
+    <published>2021-04-09T16:54:11-04:00</published>
+    <updated>2021-04-09T16:54:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-gel-jacked-up"/>
+    <title>Glitter Gel - Jacked Up</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-jackedup.jpg?v=1557522218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/10842988552</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>G106E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/10813290056</id>
+    <published>2021-04-09T16:54:11-04:00</published>
+    <updated>2021-04-09T16:54:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-gel-skip-to-my-lulu"/>
+    <title>Color Gel - Skip To My Lulu</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-skiptomylulu.jpg?v=1557755426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/10813290056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>C135E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9616795720</id>
+    <published>2021-04-09T16:54:10-04:00</published>
+    <updated>2021-04-09T16:54:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-gel-the-bees-knees"/>
+    <title>Color Gel - The Bee&apos;s Knees</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-thebeesknees_9653945e-a5e9-4c50-8c1f-2eedb202ef0f.jpg?v=1495152377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A hot mama coral!</span></p>
+<p>17 ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>summerbuzz</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9616795720</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6373918212</id>
+    <published>2021-04-09T16:54:10-04:00</published>
+    <updated>2021-04-09T16:54:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-gel-peachy"/>
+    <title>Glitter Gel - Peachy</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-peachy.jpg?v=1495216366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6373918212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>G882E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6373520708</id>
+    <published>2021-04-09T16:54:10-04:00</published>
+    <updated>2021-04-09T16:54:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-gel-time-for-tea"/>
+    <title>Color Gel - Time For Tea</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-timefortea.jpg?v=1495153496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GELPROMO</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6373520708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>C511E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6373507716</id>
+    <published>2021-04-09T16:54:09-04:00</published>
+    <updated>2021-04-09T16:54:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-gel-relay-grey"/>
+    <title>Color Gel - Relay Grey</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-relaygrey.jpg?v=1495153221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            20.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6373507716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.50</s:price>
+      <s:sku>C991E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6373490436</id>
+    <published>2021-04-09T16:54:09-04:00</published>
+    <updated>2021-04-09T16:54:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-gel-pink-tutu"/>
+    <title>Color Gel - Pink Tutu</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-pinktutu.jpg?v=1495153122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GELPROMO</s:tag>
+    <s:tag>HIDE</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6373490436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>C582E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1505369554997</id>
+    <published>2021-02-08T09:27:30-05:00</published>
+    <updated>2021-02-08T09:27:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-collection-valentines-day"/>
+    <title>Collection - Valentine&apos;s Day Limited Edition</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/valentines_day-2pack-gel.jpg?v=1547844866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            40.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<h4>Célébrer notre 20e anniversaire avec cette Édition Limitée de la Saint-Valentin!</h4>
+<p>Vous et vos clients vont les adorer!</p>
+<p><strong>Heart-Shaped Box</strong> :: Un rose crémeux et brillant. Pas un néon mais un rose très brillant!</p>
+<p><strong>Bouquet Day</strong> :: Un bouquet de roses brillants et de paillettes rose pâle avec de petites paillettes irisées. Les différentes formes et tailles lui donnent profondeur et caractère!</p>
+<p>Procurez-vous le paquet de 2 jusqu'à l'épuisement des stocks et laissez la célébration se poursuivre!</p>
+<p>(2) 17 ml gels.</p>
+<p>..</p>
+<h4>Help celebrate our 20th Anniversary with this Limited Edition Valentine's Day release!</h4>
+<p>You'll love Heart-Shaped Box Color Gel &amp; Bouquet Day Glitter Gel, and so will your clients!</p>
+<p><strong>Heart-Shaped Box</strong> :: A creamy bright carnation pink. Not a neon but a very bright pink!</p>
+<p><strong>Bouquet Day</strong> :: A bouquet of bright pinks &amp; baby pink glitters with small iridescent tiny glitters throughout. Different shape and sizes give it depth and character!</p>
+<p>Get the 2-pack while supplies last, and let the celebration continue!</p>
+<p>(2) 17 ml gels.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1505369554997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6211082059947</id>
+    <published>2021-01-28T16:07:57-05:00</published>
+    <updated>2021-01-28T16:07:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-gel-bouquet-day"/>
+    <title>Glitter Gel - Bouquet Day</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-bouquetday.jpg?v=1611867959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Collection Saint Valentin du 20e anniversaire en édition limitée</strong></p>
+<p>Un bouquet de roses brillants et de paillettes rose pâle avec de petites paillettes irisées. Les différentes formes et tailles lui donnent profondeur et caractère!</p>
+<p><strong>Couverture</strong> Semi-Opaque</p>
+<p><strong>Effet</strong> Paillettes</p>
+<p>17ml</p>
+<p>..</p>
+<p><strong>20th Anniversary Limited Edition Valentine's Day Collection</strong></p>
+<p>A bouquet of bright pinks &amp; baby pink glitters with small iridescent tiny glitters throughout. Different shape and sizes give it depth and character!</p>
+<p><strong>Coverage</strong> Semi-Opaque</p>
+<p><strong>Effect</strong> Glitter</p>
+<p>17 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17ML</s:tag>
+    <s:tag>BLINGPROMO</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6211082059947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4907124523061</id>
+    <published>2020-11-09T09:00:02-05:00</published>
+    <updated>2020-11-09T09:00:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/buttercream-collection-the-art-of-kissing"/>
+    <title>ButterCream Collection - The Art of Kissing</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/buttercreamcolleciton-theartofkissing.jpg?v=1603218501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Save Time, Save Product &amp; Increase Your Profits!</strong></p>
+<p>LE ButterCreams combine gorgeous one-coat coverage, thin application and the ability to create detailed line artwork all in one jar.</p>
+<p>Kissing is truly an art, and we needed to look no further than the lips to find our inspiration for the all-new Winter 2021 The Art of Kissing ButterCream collection. Art, passion and creativity are the heart of LE ButterCreams, and The Art of Kissing captures all of these in a luscious palette of on-trend shades for Winter and all of your romantic festivities. The six complementary shades range from deep, dark and romantic to light, shimmery and flirtatious, and we hope your Winter kisses do, too.</p>
+<p>(6) 5.5 ml ButterCream UV/LED color gels.</p>
+<p><strong>Includes</strong><br>Frenching | Kiss of Death | Loose Lips | Peck on the Neck | Smooch | XOXO</p>
+<p><strong>Why Choose ButterCream?</strong></p>
+<ul>
+<li>100% HEMA-monomer FREE!</li>
+<li>Manufactured responsibly in Redmond, Oregon</li>
+<li>4+ week wear</li>
+<li>One-coat coverage for faster services</li>
+<li>Comprehensive color selection containing everything from classic nudes and neutrals to trendy, neon colors perfect to match your client</li>
+<li>Thin application makes color removal fast and easy using a hand or eFile for effortless fills</li>
+<li>Apply ButterCream to a fully structured nail</li>
+<li>New seasonal colors available every year</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ButterCream</s:tag>
+    <s:tag>Collection</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4907124523061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4906516742197</id>
+    <published>2020-10-26T09:00:02-04:00</published>
+    <updated>2020-10-26T09:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-collection-it-s-all-about-me"/>
+    <title>Glitter Collection - It’s All About Me</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-collection-allaboutme.jpg?v=1603139897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>💲Économisez 29,75$ sur le prix d'achat individuel avec les collections!💲</strong></p>
+<p>Les gels UV/LED Color &amp; Glitter de Light Elegance sont 100% sans monomère HEMA, Dure 4 semaines et plus, sont emballés avec des reflets et paillettes de qualité supérieure et une formulation exceptionnelle. Les gels LE Glitter sont les meilleurs, les plus brillants et les plus durables du marché. Faites tourner des têtes et épatez les clients avec chaque manucure!</p>
+<p><strong>Comprend</strong><br>I'm Always Right | In The Limelight | I Need Attention | I've Got Issues | Me, Me, Me | Temper Tantrum<br><strong>+ Un carnet d'échantillons GRATUIT!</strong></p>
+<p>(6) 17 ml glitter gels, avec sélecteurs de couleurs</p>
+<p>..</p>
+<p><strong>💲Collections save you $29.75 over the individual purchase price!💲</strong></p>
+<p>Inspired by the fun, festive—and just a little feisty—sides of us that tend to show themselves during the holidays, the Winter 2021 It’s All About Me collection by Light Elegance encourages us all to indulge this winter. The rich, classic color palette is sprinkled with splashes of bright shimmers, glitters and textures designed to light up any holiday occasion. Right on-trend for Winter, It’s All About Me is set to turn heads and add the perfect finishing touch to your holiday ensembles.</p>
+<p>Light Elegance UV/LED Color and Glitter Gels are 100% free of HEMA monomer, last 4+ weeks, are packed with premium frosts, shimmers and glitters and an award-winning formulation. LE Glitter Gels are the best, brightest and longest-lasting on the market. Turn heads and wow clients with every set!</p>
+<p><strong>Includes</strong><br>I'm Always Right | In The Limelight | I Need Attention | I've Got Issues | Me, Me, Me | Temper Tantrum<br><strong>+ FREE Swatch Book!</strong></p>
+<p>(6) 17 ml glitter gels, with fandeck sticks</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4906516742197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>GWI21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4906522247221</id>
+    <published>2020-10-26T09:00:00-04:00</published>
+    <updated>2020-10-26T09:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-collection-it-s-all-about-me"/>
+    <title>Color Collection - It’s All About Me</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-collection-allaboutme.jpg?v=1603141087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>💲Économisez 29,75$ sur le prix d'achat individuel avec les collections!💲</strong></p>
+<p>Les gels UV/LED Color &amp; Glitter de Light Elegance sont 100% sans monomère HEMA, Dure 4 semaines et plus, sont emballés avec des reflets et paillettes de qualité supérieure et une formulation exceptionnelle. Les gels de LE sont les meilleurs, les plus brillants et les plus durables du marché. Faites tourner des têtes et épatez les clients avec chaque manucure!</p>
+<p><strong>Comprend</strong><br>Control Freak | Hot Head | Just a Little Selfish | Little Rebel | Miss Mischief | Unruly Red<br><strong>+ Un carnet d'échantillons GRATUIT!</strong></p>
+<p>(6) gels 17 ml, avec sélecteurs de couleurs</p>
+<p>..</p>
+<p><strong>💲Collections save you $29.75 over the individual purchase price!💲</strong></p>
+<p>Inspired by the fun, festive—and just a little feisty—sides of us that tend to show themselves during the holidays, the Winter 2021 It’s All About Me collection by Light Elegance encourages us all to indulge this winter. The rich, classic color palette is sprinkled with splashes of bright shimmers, glitters and textures designed to light up any holiday occasion. Right on-trend for Winter, It’s All About Me is set to turn heads and add the perfect finishing touch to your holiday ensembles.<br><br>Light Elegance UV/LED Color and Glitter Gels are 100% free of HEMA monomer, last 4+ weeks, are packed with premium frosts, shimmers and glitters and an award-winning formulation. LE gels are the best, brightest and longest-lasting on the market. Turn heads and wow clients with every set!</p>
+<p><strong>Includes</strong><br>Control Freak | Hot Head | Just a Little Selfish | Little Rebel | Miss Mischief | Unruly Red<br><strong>+ FREE Swatch Book!</strong></p>
+<p>(6) 17 ml gels, with fandeck sticks</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4906522247221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>CWI21E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4642273198133</id>
+    <published>2020-08-21T09:05:39-04:00</published>
+    <updated>2020-08-21T09:05:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/buttercream-collection-the-mighty-jungle"/>
+    <title>ButterCream Collection - The Mighty Jungle</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/buttercreamcollection-themightyjungle.jpg?v=1597417535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Save Time, Save Product &amp; Increase Your Profits!</strong></p>
+<p>LE ButterCreams combine gorgeous one-coat coverage, thin application and the ability to create detailed line artwork all in one jar.</p>
+<p>Influenced by the raw, natural beauty of the jungle and the abundant life sources that can be found throughout any wild environment, the new Fall 2020 The Mighty Jungle ButterCream collection welcomes all the fun and mystery the jungle represents. This distinction is easily seen in the new Fall color design, boasting shades from creamy green to milky bone white. This Fall, complete your look with six, creamy on-trend and fashionable shades that are applied with the easy one-coat application only LE ButterCream can deliver.</p>
+<p>(6) 5.5 ml ButterCream UV/LED color gels.</p>
+<p><strong>Includes</strong><br>Hear Me Roar | Jane of the Jungle | Let’s Monkey Around | On the Prowl | Show Me Your Spots | Wanna Be My Tarzan?</p>
+<p><strong>Why Choose ButterCream?</strong></p>
+<ul>
+<li>100% HEMA-monomer FREE!</li>
+<li>Manufactured responsibly in Redmond, Oregon</li>
+<li>4+ week wear</li>
+<li>One-coat coverage for faster services</li>
+<li>Comprehensive color selection containing everything from classic nudes and neutrals to trendy, neon colors perfect to match your client</li>
+<li>Thin application makes color removal fast and easy using a hand or eFile for effortless fills</li>
+<li>Apply ButterCream to a fully structured nail</li>
+<li>New seasonal colors available every year</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ButterCream</s:tag>
+    <s:tag>Collection</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4642273198133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4622391115829</id>
+    <published>2020-07-27T08:55:45-04:00</published>
+    <updated>2020-07-27T08:55:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-collection-spice"/>
+    <title>Color Collection - Spice</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-collection-spice.jpg?v=1594651378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>💲Économisez 29,75$ sur le prix d'achat individuel avec les collections!💲</strong></p>
+<p>100% sans monomères HEMA, les gels Color et Glitter de Light Elegance sont fabriqués de manière responsable en Oregon et vous offrent une option saine pour vos ongles —peu importe votre façon de les assaisonner. Laissez les 12 nouvelles nuances épicées transformer votre look d'automne en un festin savoureux.</p>
+<p><strong>Comprend</strong><br>Cinnamon Sticks | Curry On | Holy Habanero! | I Clove You | Well Seasoned | Simmer Down<br><strong>+ Un carnet d'échantillons GRATUIT!</strong></p>
+<p>(6) 17 ml glitter gels, avec sélecteurs de couleurs</p>
+<p>..</p>
+<p><strong>💲Collections save you $29.75 over the individual purchase price!💲</strong></p>
+<p>This fall, styles are heating up with the all-new Spice Color &amp; Glitter Gel collection by Light Elegance. Prepare your taste buds for exotic burnt oranges, rich browns, coppers and wines, all perfectly on-trend. Spice is inspired by the huge variety of enticing colors and textures found in spices from around the world. Combine them, and you get a fresh new palette that adds fun and flavor to any fall style.</p>
+<p>100% free of HEMA monomers, Light Elegance Color and Glitter Gels are manufactured responsibly in Oregon to be a healthy option for your nails —no matter how you season them. Let the 12 new spicy shades transform your fall looks from an everyday snack into a flavorful feast.</p>
+<p><strong>Includes</strong><br>Cinnamon Sticks | Curry On | Holy Habanero! | I Clove You | Well Seasoned | Simmer Down<br><strong>+ FREE Swatch Book!</strong></p>
+<p>(6) 17 ml glitter gels, with fandeck sticks</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4622391115829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4622389379125</id>
+    <published>2020-07-27T08:55:44-04:00</published>
+    <updated>2020-07-27T08:55:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-glitter-collection-spice"/>
+    <title>Glitter Collection - Spice</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelglitter-collection-spice.jpg?v=1594650703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>💲Économisez 29,75$ sur le prix d'achat individuel avec les collections!💲</strong></p>
+<p>﻿100% sans monomères HEMA, les gels Color et Glitter de Light Elegance sont fabriqués de manière responsable en Oregon et vous offrent une option saine pour vos ongles —peu importe votre façon de les assaisonner. Laissez les 12 nouvelles nuances épicées transformer votre look d'automne en un festin savoureux.</p>
+<p><strong>Comprend</strong><br>Feisty and Spicy | Jive and Ginger | Paprika | Poppy Seed | Shake Your Salt Shaker | Smokin’ Hot Pepper<br><strong>+ Un carnet d'échantillons GRATUIT!</strong></p>
+<p>(6) 17 ml glitter gels, avec sélecteurs de couleurs</p>
+<p>..</p>
+<p><strong>💲Collections save you $29.75 over the individual purchase price!💲</strong></p>
+<p>This fall, styles are heating up with the all-new Spice Color &amp; Glitter Gel collection by Light Elegance. Prepare your taste buds for exotic burnt oranges, rich browns, coppers and wines, all perfectly on-trend. Spice is inspired by the huge variety of enticing colors and textures found in spices from around the world. Combine them, and you get a fresh new palette that adds fun and flavor to any fall style.</p>
+<p>100% free of HEMA monomers, Light Elegance Color and Glitter Gels are manufactured responsibly in Oregon to be a healthy option for your nails —no matter how you season them. Let the 12 new spicy shades transform your fall looks from an everyday snack into a flavorful feast.</p>
+<p><strong>Includes</strong><br>Feisty and Spicy | Jive and Ginger | Paprika | Poppy Seed | Shake Your Salt Shaker | Smokin’ Hot Pepper<br><strong>+ FREE Swatch Book!</strong></p>
+<p>(6) 17 ml glitter gels, with fandeck sticks</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>glitter gel</s:tag>
+    <s:tag>LEglitter</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4622389379125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4513328693301</id>
+    <published>2020-05-22T09:00:01-04:00</published>
+    <updated>2020-05-22T09:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/buttercream-man-overboard"/>
+    <title>ButterCream - Man Overboard</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/buttercream-manoverboard.jpg?v=1586963457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LE ButterCreams combine gorgeous one-coat coverage, thin application and the ability to create detailed line artwork all in one jar.</strong></p>
+<p>A warm vibrant pink. This is not a neon but it packs a pink punch. A creamy sophisticated fuchsia that will throw you overboard.</p>
+<p><strong>Coverage</strong> Opaque</p>
+<p><strong>Effect</strong> Flat/Cream</p>
+<p>Also available in the Nautical Collection.</p>
+<p>5.5 ml</p>
+<p><strong>Why Choose ButterCream?</strong></p>
+<ul>
+<li>100% HEMA-monomer FREE!</li>
+<li>Manufactured responsibly in Redmond, Oregon</li>
+<li>4+ week wear</li>
+<li>One-coat coverage for faster services</li>
+<li>Comprehensive color selection containing everything from classic nudes and neutrals to trendy, neon colors perfect to match your client</li>
+<li>Thin application makes color removal fast and easy using a hand or eFile for effortless fills</li>
+<li>Apply ButterCream to a fully structured nail</li>
+<li>New seasonal colors available every year</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ButterCream</s:tag>
+    <s:tag>ButterPROMO</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4513328693301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>BC377</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4513571471413</id>
+    <published>2020-05-22T09:00:00-04:00</published>
+    <updated>2020-05-22T09:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/buttercream-collection-nautical"/>
+    <title>ButterCream Collection - Nautical</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/buttercreamcollection-nautical.jpg?v=1590173680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Save Time, Save Product &amp; Increase Your Profits!</strong></p>
+<p>LE ButterCreams combine gorgeous one-coat coverage, thin application and the ability to create detailed line artwork all in one jar.</p>
+<p>Inspired by the deep beauty of water and the endless adventure of setting sail, the new summer Nautical ButterCream collection embraces both the peaceful and exciting nature of the nautical experience. This contrast can be seen in the summer color palette which dares to include everything from calm-sea neutrals to wave-crashing bolds, all bursting with creamy color. This Summer, complete your look the nautical way with six rich new on-trend shades and easy one-coat application only LE ButterCream can deliver.</p>
+<p>(6) 5.5 ml ButterCream color gels.</p>
+<p><strong>Includes</strong><br>Ahoy There, Matey! | All Hands on Deck | Anchors Away | Man Overboard | Shore Thing | What’s Happening, Captain?</p>
+<p><strong>Why Choose ButterCream?</strong></p>
+<ul>
+<li>100% HEMA-monomer FREE!</li>
+<li>Manufactured responsibly in Redmond, Oregon</li>
+<li>4+ week wear</li>
+<li>One-coat coverage for faster services</li>
+<li>Comprehensive color selection containing everything from classic nudes and neutrals to trendy, neon colors perfect to match your client</li>
+<li>Thin application makes color removal fast and easy using a hand or eFile for effortless fills</li>
+<li>Apply ButterCream to a fully structured nail</li>
+<li>New seasonal colors available every year</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ButterCream</s:tag>
+    <s:tag>Collection</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4513571471413</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4512437764149</id>
+    <published>2020-04-24T09:31:51-04:00</published>
+    <updated>2020-04-24T09:31:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-color-collection-summer-squeeze"/>
+    <title>Color Collection - Summer Squeeze</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gelcolor-collection-summersqueeze.jpg?v=1586891082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>💲Économisez 29,75$ sur le prix d'achat individuel avec les collections!💲</strong></p>
+<p><strong>Comprend</strong><br>Charming Cherry | Devil Wears Guava | Dragonfruit | Strawberries &amp; Cream | Sublime Lime | Sunkissed<br><strong>+ Un carnet d'échantillons GRATUIT!</strong></p>
+<p>(6) 17 ml glitter gels, avec sélecteurs de couleurs</p>
+<p>..</p>
+<p><strong>💲Collections save you $29.75 over the individual purchase price!💲</strong></p>
+<p>Prepare for fresh, juicy styles this summer with the all-new Summer 2020 Color &amp; Glitter Gel Summer Squeeze collection by Light Elegance. On-trend for summer with bold, bright shades, Summer Squeeze is inspired by the fresh colors and textures found in the fruit we all love.</p>
+<p>100% free of HEMA monomers, Light Elegance Color and Glitter Gels are manufactured responsibly to be a healthy option for your nails, much like fruit for the body. Let the 12 new shades take you on a journey through a delicious palette of fruity creams, succulent shimmers and enticing glitters that will squeeze every drop out of your summer style.</p>
+<p><strong>Includes</strong><br>Charming Cherry | Devil Wears Guava | Dragonfruit | Strawberries &amp; Cream | Sublime Lime | Sunkissed<br><strong>+ FREE Swatch Book!</strong></p>
+<p>(6) 17 ml glitter gels, with fandeck sticks</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>color gel</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>LEcolor</s:tag>
+    <s:tag>LEOUTLET</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4512437764149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

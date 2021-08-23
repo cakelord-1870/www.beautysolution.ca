@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/revente.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-08-11T15:59:55-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6934442377387</id>
+    <published>2021-08-11T15:59:55-04:00</published>
+    <updated>2021-08-11T15:59:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/moisturizing-balm-botanical"/>
+    <title>Baume hydratant au beurre de karité bio - Botanique..Moisturizing balm with organic shea butter - Botanical</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Vergers d&apos;Afrique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/vergersdafrique-baumehydra-botanique.jpg?v=1628646016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vergers d&#39;Afrique<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Produit artisanal des femmes du Burkina Faso</strong></p>
+<p>Le baume hydratant BOTANIQUE de Vergers d'Afrique, élaboré par Kariderm, est le choix idéal pour une hydratation en profondeur grâce à sa haute teneur en beurre de karité biologique. Sa formule exclusive enrichie de beurre de mangue et d'huile de jojoba offre une texture plus crémeuse et fondante que celle du karité seul. Le baume s'applique donc très facilement sur toutes les parties du corps les plus délicates ou desséchées, pour un soulagement durable.</p>
+<p>Le baume hydratant BOTANITQUE contient également une synergie particulièrement apaisante d'huiles essentielles pures aves des notes florales et boisées. C'est un véritable bien-être pour la peau et un beau geste pour témoigner son appui à une initiative remarquable menée par des passionnés du développement durable et solidaire en Afrique.</p>
+<p>120ml</p>
+<p><strong>Ingrédients</strong><br>Butyrospermum Parkii (Beurre de Karité)<br>Beurre de graines de Mangifera Indica (Mangue)<br>Huile de graines de Simmondsia Chinensis (Jojoba)<br>Cera Alba<br>Acétate de tocophéryle<br>Huile de Myrrhe de Commiphora<br>Huile d'Aniba Rosaeodora (Bois de Rose)<br>Huile de Boswelia Carterii (Oliban)<br>Huile de Pélargonium Graveolens (Géranium)</p>
+<p><strong>Instructions</strong><br>Appliquer en petite quantité en massant bien pour faire pénétrer le produit. Peut aussi être utilisé en soin intensif avant le shampooing pour les cheveux secs et fourchus.</p>
+<p>..</p>
+<p><strong>Handicraft product from the women of Burkina Faso</strong></p>
+<p>BOTANICAL moisturizing balm from Vergers d'Afrique, developed by Kariderm, is the ideal choice for deep hydration thanks to its high content of organic shea butter. Its exclusive formula enriched with mango butter and jojoba oil offers a more creamy and melting texture than that of shea alone. The balm is therefore very easy to apply to all the most delicate or dry parts of the body, for lasting relief.</p>
+<p>BOTANICAL moisturizing balm also contains a particularly soothing synergy of pure essential oils with floral and woody notes. It is a real well-being for the skin and a nice gesture to show support for a remarkable initiative led by enthusiasts of sustainable development and solidarity in Africa.</p>
+<p>120 ml</p>
+<p><strong>Ingredients</strong><br>Butyrospermum Parkii (Shea Butter)<br>Mangifera Indica (Mango) Seed Butter<br>Simmondsia Chinensis (Jojoba) Seed Oil<br>Cera Alba<br>Tocopheryl Acetate<br>Commiphora Myrrha Oil<br>Aniba Rosaeodora (Rosewood) Oil<br>Boswelia Carterii (Olibanum) Oil<br>Pelargonium Graveolens (Geranium) Oil</p>
+<p><strong>Instructions</strong><br>Apply in small quantities, massaging well to penetrate the product. Can also be used as an intensive care before shampooing for dry and split hair.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>facial</s:tag>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SkinCare</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Treatment</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6934442377387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6934465642667</id>
+    <published>2021-08-11T15:59:38-04:00</published>
+    <updated>2021-08-11T15:59:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/moisturizing-balm-citrus"/>
+    <title>Baume hydratant au beurre de karité bio - Agrumes..Moisturizing balm with organic shea butter - Citrus</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Vergers d&apos;Afrique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/vergersdafrique-baumehydra-agrumes.jpg?v=1628646101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vergers d&#39;Afrique<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Produit artisanal des femmes du Burkina Faso</strong></p>
+<p>Le baume hydratant AGRUMES de Vergers d'Afrique, élaboré par Kariderm, est le choix idéal pour une hydratation en profondeur grâce à sa haute teneur en beurre de karité biologique. Sa formule exclusive enrichie de beurre de mangue et d'huile de jojoba offre une texture plus crémeuse et fondante que celle du karité seul. Le baume s'applique donc très facilement sur toutes les parties du corps les plus délicates ou desséchées, pour un soulagement durable.</p>
+<p>Avec le baume hydratant AGRUMES on s'offre également un léger voile doux et fruité constitué uniquement d'huiles essentielles de première qualité et incluant une petite note de lavande. C'est un véritable bien-être pour la peau et un beau geste pour témoigner son appui à une initiative remarquable menée par des passionnés du développement durable et solidaire en Afrique.</p>
+<p>120ml</p>
+<p><strong>Ingrédients</strong><br>Butyrospermum Parkii (Beurre de Karité)<br>Beurre de graines de Mangifera Indica (Mangue)<br>Huile de graines de Simmondsia Chinensis (Jojoba)<br>Cera Alba<br>Acétate de tocophéryle<br>Huile d'écorce de Citrus Sinensis (Orange)<br>Huile de Citrus Aurantium (Petitgrain)<br>Huile de zeste de Citrus Paradisii (Pamplemousse)<br>Huile de Lavandula Angustifolia (Lavande)</p>
+<p><strong>Instructions</strong><br>Appliquer en petite quantité en massant bien pour faire pénétrer le produit. Peut aussi être utilisé en soin intensif avant le shampooing pour les cheveux secs et fourchus.</p>
+<p>..</p>
+<p><strong>Handicraft product from the women of Burkina Faso</strong></p>
+<p>CITRUS moisturizing balm from Vergers d'Afrique, developed by Kariderm, is the ideal choice for deep hydration thanks to its high content of organic shea butter. Its exclusive formula enriched with mango butter and jojoba oil offers a more creamy and melting texture than that of shea alone. The balm is therefore very easy to apply to all the most delicate or dry parts of the body, for lasting relief.</p>
+<p>CITRUS moisturizing balm also offers a light, soft and fruity veil made up only of top quality essential oils and including a hint of lavender. It is a real well-being for the skin and a nice gesture to show support for a remarkable initiative led by enthusiasts of sustainable development and solidarity in Africa.</p>
+<p>120 ml</p>
+<p><strong>Ingredients</strong><br>Butyrospermum Parkii (Shea Butter)<br>Mangifera Indica (Mango) Seed Butter<br>Simmondsia Chinensis (Jojoba) Seed Oil<br>Cera Alba<br>Tocopheryl Acetate<br>Citrus Sinensis (Orange) Peel Oil<br>Citrus Aurantium (Petitgrain) Oil<br>Citrus Paradisii (Grapefruit) Peel Oil<br>Lavandula Angustifolia (Lavender) Oil</p>
+<p><strong>Instructions</strong><br>Apply in small quantities, massaging well to penetrate the product. Can also be used as an intensive care before shampooing for dry and split hair.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>facial</s:tag>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SkinCare</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Treatment</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6934465642667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6131062243499</id>
+    <published>2021-07-01T07:23:31-04:00</published>
+    <updated>2021-07-01T07:23:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/footlogix-day-and-night-promo-pack"/>
+    <title>Promo Jour et Nuit..Day &amp; Night Promo Pack</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/promo_pack-day_night.jpg?v=1625138527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            17.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>OFFRE EXCLUSIVE, ÉCONOMISEZ 30% ET RECEVEZ UN SAC DE VOYAGE GRATUIT!</strong></p>
+<p>Duo de soins des pieds Footlogix pour garder vos pieds heureux.</p>
+<p>La formule d'entretien quotidien avec Dermal Infusion Technology® s'est avérée efficace comme programme d'entretien préventif quotidien pour les peaux normales à sèches. La mousse non occlusive est absorbée immédiatement et ne laisse aucun résidu gras. Idéal pour tous les types de peau, y compris les diabétiques.</p>
+<p>DD Cream Mousse –Le soin de nuit «double défense» des pieds. Formulée avec Dermal Infusion Technology®, cette mousse unique et sans parfum contient un extrait de microalgue de spiruline bioactif breveté qui possède des propriétés antimicrobiennes très distinctes en raison de son activité enzymatique. Avec des effets régénérants cellulaires, cette mousse riche revitalise, hydrate et lisse la peau, y compris, mais sans s'y limiter, les peaux sèches ou sensibles.</p>
+<p><strong>Ensemble comprend</strong></p>
+<ul>
+<li>Formule mousse pour soins quotidiens 125 ml</li>
+<li>Formule mousse DD crème 125 ml</li>
+<li>Sac de voyage Footlogix</li>
+</ul>
+<p>Prix de détail suggéré 35,70$</p>
+<p><strong>Nous recommandons également le kit Lisse &amp; Fraîche</strong></p>
+<p>..</p>
+<p><strong>SAVE 30% WHEN YOU BUY &amp; GET A FREE TRAVEL BAG!</strong></p>
+<p>Footlogix foot care duo to keep your feet happy.</p>
+<p>Daily Maintenance Formula with Dermal Infusion Technology® is proven to be effective as a daily preventative maintenance program for normal to dry skin. Non occlusive mousse is absorbed immediately and leaves no greasy residue. Ideal for all skin types, including diabetics.</p>
+<p>DD Cream Mousse –The “double-defense” night care treatment for the feet. Formulated with Dermal Infusion Technology® this unique, fragrance-free mousse contains a bioactive patented Spirulina microalgae extract that has very distinct anti-microbial properties due to its enzymatic activity. With cellular regenerative effects, this rich mousse revitalizes, hydrates and smoothes the skin including, but not limited to dry or sensitive skin.</p>
+<p><strong>Kit includes</strong></p>
+<ul>
+<li>Daily Maintenance Mousse Formula 125 ml</li>
+<li>DD Cream Mousse Formula 125 ml</li>
+<li>Footlogix Travel Bag</li>
+</ul>
+<p>Suggested retail price $35.70</p>
+<p><strong>We also recommend the Smooth &amp; Fresh Kit</strong></p>
+<p>....</p>
+<a href="https://www.beautysolution.ca/products/footlogix-smooth-and-fresh-promo-pack"><img src="https://cdn.shopify.com/s/files/1/1033/3739/files/promo_pack-smooth_fresh_480x480.jpg?v=1624905046" width="200" alt="smooth &amp; fresh"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AUG</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>FOOT12</s:tag>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>HomeCareRange</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6131062243499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4659440156725</id>
+    <published>2021-05-12T16:21:38-04:00</published>
+    <updated>2021-05-12T16:21:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-notebook"/>
+    <title>Carnet..Notebook</title>
+    <s:type>Swag</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/le-notebook-1.jpg?v=1598993915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Swag<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Organisez vos notes avec ce journal coloré et personnalisé de Light Elegance!</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Couverture douce</li>
+<li>Feuilles lignées</li>
+<li>Fermeture élastique</li>
+<li>Gravure 'What's Inside Matters'</li>
+</ul>
+<p>..</p>
+<p>Organize your notes with this colourful and custom journal from Light Elegance!</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Soft cover</li>
+<li>Lined paper</li>
+<li>Elastic loop closure</li>
+<li>'What's Inside Matters' engraving</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4659440156725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>MM026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6131059949739</id>
+    <published>2021-01-01T11:11:36-05:00</published>
+    <updated>2021-01-01T11:11:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/footlogix-smooth-and-fresh-promo-pack"/>
+    <title>Promo Lisse et Fraîche..Smooth &amp; Fresh Promo Pack</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/promo_pack-smooth_fresh.jpg?v=1625138807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            18.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>OFFRE EXCLUSIVE, ÉCONOMISEZ 30% ET RECEVEZ UN SAC DE VOYAGE GRATUIT!</strong></p>
+<p>Le duo de soins des pieds Footlogix pour garder vos pieds heureux.</p>
+<p>Il a été prouvé que la mousse de formule antifongique pour peau rugueuse avec technologie d'infusion cutanée soulage les fissures, les démangeaisons, la desquamation et l'irritation de la peau sèche. Il aide aux soins préventifs des peaux normales à sèches sujettes aux infections fongiques.</p>
+<p>Le spray déodorant pour chaussures tue les bactéries qui causent les odeurs dans vos chaussures et apporte une fragrance de fraîcheur. Élimine les odeurs désagréables des chaussures et donne aux chaussures un arôme frais.</p>
+<p><strong>Ensemble comprend</strong></p>
+<ul>
+<li>Formule mousse pour peau rugueuse 125 ml</li>
+<li>Spray déodorant pour chaussures 125 ml</li>
+<li>Sac de voyage Footlogix</li>
+</ul>
+<p>Prix de détail suggéré 36,40$</p>
+<p><strong>Nous recommandons également le kit Jour &amp; Nuit</strong></p>
+<p>..</p>
+<p><strong>SAVE 30% WHEN YOU BUY &amp; GET A FREE TRAVEL BAG!</strong></p>
+<p>Footlogix foot care duo keeps your feet happy.</p>
+<p>Rough Skin Anti-Fungal Formula Mousse with dermal infusion technology is proven to provide relief of cracking, itching, scaling and irritation of dry skin. It aids in the preventative care of normal to dry skin that is prone to fungal infections.</p>
+<p>Shoe Deodorant Spray kills the bacteria that causes odour in your shoes and provides a fresh fragrance. Eliminates unpleasant footwear odors and provides shoes with a fresh aroma.</p>
+<p><strong>Kit includes</strong></p>
+<ul>
+<li>Rough Skin Formula 125 ml</li>
+<li>Shoe Fresh Deodorant Spray 125 ml</li>
+<li>Footlogix Travel Bag</li>
+</ul>
+<p>Suggested retail price $36.40</p>
+<p><strong>We also recommend the Day &amp; Night Kit</strong></p>
+<p>....</p>
+<a href="https://www.beautysolution.ca/products/footlogix-day-and-night-promo-pack"><img src="https://cdn.shopify.com/s/files/1/1033/3739/files/promo_pack-day_night_480x480.jpg?v=1624905519" width="200" alt="day &amp; night"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AUG</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>FOOT12</s:tag>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>HomeCareRange</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6131059949739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4937949118517</id>
+    <published>2020-11-18T19:42:12-05:00</published>
+    <updated>2020-11-18T19:42:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-foot-detox-pads-charcoal"/>
+    <title>Compresses détoxifiantes pour les pieds - charbon..Foot Detox Pads - Charcoal</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/detoxfootpads.jpg?v=1605746504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿....</p>
+<p><strong>Détox et purifie avec du charbon!</strong></p>
+<p>Compresses détoxifiants naturels et faciles à utiliser, formulés avec le charbon noir. L'accessoire parfait pour aider l'homme moderne actif à se sentir calme, équilibré et reposé.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Favorisent la vitalité naturelle</li>
+<li>Permettent d'éliminer les impuretés</li>
+<li>Favorisent une bonne circulation</li>
+</ul>
+<p>5 paires</p>
+<p>..</p>
+<p><strong>Detox and purify with charcoal!</strong></p>
+<p>All natural and easy to use detoxifying foot pads, formulated with charcoal. The perfect accessory to help the active modern man to feel calm, balanced and rested.</p>
+<p><strong>Benefits</strong><br></p>
+<ul>
+<li>Promotes natural vitality</li>
+<li>Helps to draw out impurities</li>
+<li>Improves healthy circulation</li>
+</ul>
+<p>5 pairs</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4937949118517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>AAM807</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4937949511733</id>
+    <published>2020-11-18T17:08:21-05:00</published>
+    <updated>2020-11-18T17:08:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-steam-eye-mask-lavender"/>
+    <title>Steam Eye Mask - Lavender</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/steameyemask-lavender.jpg?v=1605737192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Masque réchauffant pour les yeux. Fournit une chaleur instantanée pour aider à soulager les tensions tout en apaisant l'esprit.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Soulage les yeux fatigués</li>
+<li>Favorise la relaxation</li>
+<li>Chaleur instantanée</li>
+<li>Réchauffer plus de 30 minutes</li>
+<li>Parfumé à la lavende</li>
+</ul>
+<p>Paquet de 5</p>
+<p>..</p>
+<p>Providing instant warmth to help relieve tension while calming the mind.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Helps soothe tired, strained eyes</li>
+<li>Promotes relaxation</li>
+<li>Instant warmth</li>
+<li>Warm for 30+ minutes</li>
+<li>Fragranced with lavender</li>
+</ul>
+<p>5 pack</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SkinCare</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Treatment</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4937949511733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4937949478965</id>
+    <published>2020-11-18T17:07:37-05:00</published>
+    <updated>2020-11-18T17:07:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-steam-eye-mask-cucumber"/>
+    <title>Steam Eye Mask - Cucumber</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/steameyemask-cucumber.jpg?v=1605736714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Masque réchauffant pour les yeux. Fournit une chaleur instantanée pour aider à soulager les tensions tout en apaisant l'esprit.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Soulage les yeux fatigués</li>
+<li>Favorise la relaxation</li>
+<li>Chaleur instantanée</li>
+<li>Réchauffer plus de 30 minutes</li>
+<li>Parfumé au comcombre</li>
+</ul>
+<p>Paquet de 5</p>
+<p>..</p>
+<p>Providing instant warmth to help relieve tension while calming the mind.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Helps soothe tired, strained eyes</li>
+<li>Promotes relaxation</li>
+<li>Instant warmth</li>
+<li>Warm for 30+ minutes</li>
+<li>Fragranced with cucumber</li>
+</ul>
+<p>5 pack</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SkinCare</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Treatment</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4937949478965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6060980306091</id>
+    <published>2020-11-17T14:44:06-05:00</published>
+    <updated>2020-11-17T14:44:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-disposable-mani-pedi-tool-kit"/>
+    <title>Ensemble de lime et bloc jetable..Disposable file and buffer set</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/disposable-toolkit.jpg?v=1605642101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            0.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Outils de salon 100% jetables et de haute performance pour les services de manucure et de pédicure propres au quotidien.</strong></p>
+<p>Créez des ongles parfaits avec n'importe quel service! Tous emballés individuellement afin que chaque article soit propre jusqu'à ce qu'il soit utilisé sur votre client. Maintenant, soyez assuré que chaque service est hygiénique.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Toujours propre et hygiénique</li>
+<li>Fabriqué avec des matériaux de haute qualité pour des résultats ultimes</li>
+<li>Trousse d'outils de manucure et de pédicure au détail</li>
+</ul>
+<p>Comprend un lime et un bloc sableurs.</p>
+<p>..</p>
+<p><strong>100% disposable and high performance salon tools for everyday clean manicure and pedicure services.</strong></p>
+<p>Create the perfect nails in any service! All individually packaged so each item is clean until used on your client. Now, rest assured that each service is hygienic.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>Always clean and hygienic</li>
+<li>Made with high quality material for ultimate results</li>
+<li>Retail manicure and pedicure tool kit</li>
+</ul>
+<p>Includes one file and one buffer.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Disposable</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>NailFile</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6060980306091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049195786411</id>
+    <published>2020-11-17T14:28:45-05:00</published>
+    <updated>2020-11-17T14:28:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-ultra-gloves-chamomile"/>
+    <title>Gants - Camomille..Ultra Gloves - Chamomile</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/ultragloves-chamomile.jpg?v=1605641291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les gants fournissent une dose intense d'hydratation pour aider à apaiser et calmer la peau, en la laissant détendue.</p>
+<p>Un simple complément à votre service de manucure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p>Comprend 1 paire de gants.</p>
+<p>..</p>
+<p>The gloves deliver an intense dose of moisture to help soothe and calm skin, leaving it feeling relaxed.</p>
+<p>A simple add-on to your manicure service while working on the nails, with no extra time.</p>
+<p>Includes 1 pair of gloves.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049195786411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049134313643</id>
+    <published>2020-11-17T11:23:54-05:00</published>
+    <updated>2020-11-17T11:23:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-socks-shea-butter"/>
+    <title>Chaussettes ultra apaisantes - Beurre de karité..Shea Socks - Shea Butter</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheasocks-sheabutter-1.jpg?v=1605630190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les pieds!</strong></p>
+<p>Les chaussettes de pédicure infusées au beurre de karité calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de pédicure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de pédicure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les pieds rugueux et secs</li>
+</ul>
+<p>Comprend 1 paire de chaussettes.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for the feet!</strong></p>
+<p>Shea Butter infused pedicure socks deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your pedicure service while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An all-in-one pedicure solution!</li>
+<li>SAVE TIME, no need of cuticle softener, oil, massage cream or messy paraffin</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for rough and dry feet</li>
+</ul>
+<p>Includes 1 pair of socks.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049134313643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049137655979</id>
+    <published>2020-11-17T11:20:31-05:00</published>
+    <updated>2020-11-17T11:20:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-socks-lavender"/>
+    <title>Chaussettes ultra apaisantes - Lavande..Shea Socks - Lavender</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheasocks-lavender-1.jpg?v=1605629961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les pieds!</strong></p>
+<p>Les chaussettes de pédicure infusées au beurre de karité et à la lavande calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de pédicure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de pédicure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les pieds rugueux et secs</li>
+</ul>
+<p>Comprend 1 paire de chaussettes.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for the feet!</strong></p>
+<p>Shea Butter and Lavender infused pedicure socks help soothe inflamed skin and deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your pedicure service while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An all-in-one pedicure solution!</li>
+<li>SAVE TIME, no need of cuticle softener, oil, massage cream or messy paraffin</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for rough and dry feet</li>
+</ul>
+<p>Includes 1 pair of socks.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049137655979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049140342955</id>
+    <published>2020-11-17T11:14:25-05:00</published>
+    <updated>2020-11-17T11:14:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-socks-chamomile"/>
+    <title>Chaussettes ultra apaisantes - Camomille..Shea Socks - Chamomile</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheasocks-chamomile-1.jpg?v=1605629935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les pieds!</strong></p>
+<p>Les chaussettes de pédicure infusées au beurre de karité et à la camomille calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de pédicure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de pédicure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les pieds rugueux et secs</li>
+</ul>
+<p>Comprend 1 paire de chaussettes.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for the feet!</strong></p>
+<p>Shea Butter and Chamomile infused pedicure socks calm skin and deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your pedicure service while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An all-in-one pedicure solution!</li>
+<li>SAVE TIME, no need of cuticle softener, oil, massage cream or messy paraffin</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for rough and dry feet</li>
+</ul>
+<p>Includes 1 pair of socks.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049140342955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049149190315</id>
+    <published>2020-11-10T10:28:26-05:00</published>
+    <updated>2020-11-10T10:28:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-gloves-shea-butter"/>
+    <title>Gants ultra nourrissants - Beurre de karité..Shea Gloves - Shea Butter</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheagloves-sheabutter.jpg?v=1605022081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les mains!</strong></p>
+<p>Les gants de manucure infusés au beurre de karité calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de manucure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de manucure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les mains surchargées</li>
+</ul>
+<p>Comprend 1 paire de gants.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for hands!</strong></p>
+<p>Shea Butter infused manicure gloves deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your manicure services while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An easy waterless manicure solution!</li>
+<li>SAVE TIME, no need of soaking water, cuticle softener or oil and massage cream</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for overworked hands</li>
+</ul>
+<p>Includes 1 pair of gloves.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049149190315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049146110123</id>
+    <published>2020-11-10T10:20:56-05:00</published>
+    <updated>2020-11-10T10:20:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-gloves-lavender"/>
+    <title>Gants ultra nourrissants - Lavande..Shea Gloves - Lavender</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheagloves-lavender.jpg?v=1605021635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les mains!</strong></p>
+<p>Les gants de manucure infusés au beurre de karité et à la lavande calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de manucure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de manucure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les mains surchargées</li>
+</ul>
+<p>Comprend 1 paire de gants.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for hands!</strong></p>
+<p>Shea Butter and Lavender infused manicure gloves help soothe inflamed skin and deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your manicure services while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An easy waterless manicure solution!</li>
+<li>SAVE TIME, no need of soaking water, cuticle softener or oil and massage cream</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for overworked hands</li>
+</ul>
+<p>Includes 1 pair of gloves.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049146110123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049143849131</id>
+    <published>2020-11-10T10:16:28-05:00</published>
+    <updated>2020-11-10T10:16:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-gloves-chamomile"/>
+    <title>Gants ultra nourrissants - Camomille..Shea Gloves - Chamomile</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheagloves-chamomile.jpg?v=1605021365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les mains!</strong></p>
+<p>Les gants de manucure infusés au beurre de karité et à la camomille calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de manucure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de manucure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les mains surchargées</li>
+</ul>
+<p>Comprend 1 paire de gants.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for hands!</strong></p>
+<p>Shea Butter and Chamomile infused manicure gloves calm skin and deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your manicure services while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An easy waterless manicure solution!</li>
+<li>SAVE TIME, no need of soaking water, cuticle softener or oil and massage cream</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for overworked hands</li>
+</ul>
+<p>Includes 1 pair of gloves.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049143849131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4587354193973</id>
+    <published>2020-06-10T15:18:05-04:00</published>
+    <updated>2020-06-10T15:18:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-retail-bag"/>
+    <title>Sac de vente au détail..Retail bag</title>
+    <s:type>Swag</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/le-retailbag-small.jpg?v=1598992337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Swag<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>....</span></p>
+<p><span>Petit sac de vente au détail Light Elegance</span></p>
+<p><span>Dimensions: 8" x 4" x 10"</span></p>
+<p><span>..</span></p>
+<p><span>Small Light Elegance Retail Bag </span></p>
+<p><span>Size: 8" x 4" x 10"</span></p>
+<p><span>....</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4587354193973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4587352358965</id>
+    <published>2020-06-10T15:18:05-04:00</published>
+    <updated>2020-06-10T15:18:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-pen"/>
+    <title>Stylo..Pen</title>
+    <s:type>Swag</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/le-pen.jpg?v=1591831489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Swag<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Stylo à bille Light Elegance</p>
+<p>..</p>
+<p>Light Elegance ballpoint pen</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4587352358965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4557970407477</id>
+    <published>2020-05-12T09:30:44-04:00</published>
+    <updated>2020-05-12T09:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/footlogix-at-home-foot-file"/>
+    <title>Lime à pied..At Home Foot File</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/homefootfile.jpg?v=1626723047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Munie d’un manche confortable profilé ultra doux au toucher, cette lime en acier inoxydable de haute qualité à double-face et de conception unique peut-être utilisée dans plusieurs directions sans râper la peau. Légère et facile à utiliser et à nettoyer, elle est recommandée pour un usage à domicile entre deux pédicures.</p>
+<p>Pour de meilleurs résultats, utiliser-le en conjonction avec l'adoucisseur de callosités Footlogix.</p>
+<p>20 cm x 4.5 cm</p>
+<p>..</p>
+<p>Encased in a satin- smooth, contoured comfort grip, this double-sided file is made with high quality stainless steel and has a multi-directional grit that will not shred the skin. Lightweight, easy to use, easy to clean and recommended for use at home, in-between pedicures.</p>
+<p>For best results use in conjunction with Footlogix Callus Softener.</p>
+<p>20 cm x 4.5 cm</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>FOOT12</s:tag>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>HomeCareRange</s:tag>
+    <s:tag>NailFile</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4557970407477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4314462060597</id>
+    <published>2019-11-01T07:15:10-04:00</published>
+    <updated>2019-11-01T07:15:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/q-lu-spa-essentials-kit"/>
+    <title>Q&amp;Lu Spa Essentials Kit</title>
+    <s:type>Ensemble</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/QLu-retailkit_2019.jpg?v=1588336444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Ensemble<br>
+        <strong>Price: </strong>
+            67.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Q&amp;Lu Spa Essentials Kit contient les 4 produits Q&amp;Lu format détail, 2 limes de finition, 2 Foamies, et accroche-fenêtre.</p>
+<ul>
+<li>Bamboo Lotion 8 oz</li>
+<li>Bamboo Polish 8 oz</li>
+<li>Salt Soak 14 oz</li>
+<li>Spa Oil 8 oz</li>
+</ul>
+<p>..</p>
+<p>Q&amp;Lu features four easy, multi-functional products for manicures, pedicures and home care that will transform your services—and your skin. Q&amp;Lu Spa Essentials was created utilizing award winning chemistry so nail pros could offer an all-natural manicure and pedicure that saves time on every service and delivers a superior spa experience!</p>
+<p>Q&amp;Lu Spa Essentials Kit contains all 4 retail size Q&amp;Lu products, 2 Finish Files, 2 Foamies, and Window Cling.</p>
+<ul>
+<li>Bamboo Lotion 8 oz</li>
+<li>Bamboo Polish 8 oz</li>
+<li>Salt Soak 14 oz</li>
+<li>Spa Oil 8 oz</li>
+</ul>
+<p>....</p>
+<div style="text-align: left;">
+<img style="margin: 10px 10px 0px 0px; float: none;" alt="Nail Pro 2019" src="https://cdn.shopify.com/s/files/1/1033/3739/files/NailPro_2019.jpg?v=1612561456"> <img style="margin: 10px 0px 0px 0px; float: none;" alt="Nails 2019 Favorite New Product" src="https://cdn.shopify.com/s/files/1/1033/3739/files/Nails_2019-fav.jpg?v=1612561456">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Q&amp;Lu</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SkinCare</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4314462060597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/3849956458549</id>
+    <published>2019-09-12T16:20:24-04:00</published>
+    <updated>2019-09-12T16:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-pedi-kit-shea-butter"/>
+    <title>Pedi Kit - Beurre de karité..Pedi Kit - Shea Butter</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/Pedi_kit_sheabutter.jpg?v=1626962435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les pieds!</strong></p>
+<p>Le kit de pédicure nourrissant et complet qui contient des outils 100% jetables et des chaussettes sans eau pour un service de pédicure propre et hygiénique. Parfait comme un article de vente au détail en salon!</p>
+<p>Le kit comprend une serviette jetable, un bâton à cuticules, une lime à ongles zèbre, un bloc sableur, et bien sûr, des chaussettes au beurre de karité pour offrir l'expérience de pédicure la plus apaisante et la plus relaxante.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for feet!</strong></p>
+<p>A nourishing complete pedi kit that contains 100% disposable tools and waterless socks for a clean and hygienic pedicure service. Also a perfect salon retail item!</p>
+<p>The kit includes a Disposable Towel, Cuticle Stick, Zebra Nail File, Nail Buffer, and of course, Shea Butter Socks to deliver the most soothing and relaxing pedicure experience.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>NailFile</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/3849956458549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1571444621365</id>
+    <published>2019-03-25T14:13:18-04:00</published>
+    <updated>2019-03-25T14:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/q-lu-bamboo-polish"/>
+    <title>Q&amp;Lu Bamboo Polish</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/bamboopolish-240ml_07a9968a-6291-4c87-8168-57547f8c09eb.jpg?v=1612555480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Q&amp;Lu Spa Essential Bamboo Polish</strong> is a gentle yet highly effective exfoliating scrub for hands, arms, feet and legs. Contains natural bamboo, volcanic ash and lavender and tea tree essential oils to eliminate dry skin, increase circulation and soften skin.</p>
+<p>240 ml ( 8 oz )</p>
+<p>Also available in Backbar format 946 ml ( 32 oz )</p>
+<br> <img alt="Nails 2019 Favorite New Product" src="https://cdn.shopify.com/s/files/1/1033/3739/files/Nails_2019-fav.jpg?v=1612561456"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Q&amp;Lu</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SkinCare</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1571444621365</id>
+      <title>240 ml</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1571448193077</id>
+    <published>2019-03-25T14:13:17-04:00</published>
+    <updated>2019-03-25T14:13:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/q-lu-bamboo-lotion"/>
+    <title>Q&amp;Lu Bamboo Lotion</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/bamboolotion-retail.jpg?v=1612793161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            8.25 - 14.95
+            <a href="https://www.beautysolution.ca/products/q-lu-bamboo-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Q&amp;Lu Spa Essential Bamboo Lotion</strong> is a hydrating hand, foot and body moisturizer. Bamboo extract allows for a relaxing message without a greasy feeling. A proprietary blend of essential oils are fresh and calming for both men and women.</p>
+<p>240 ml ( 8 oz ), NEW TRAVEL SIZE 60 ml ( 2 oz )</p>
+<p>Also available in Backbar format 946 ml ( 32 oz )</p>
+<br> <img alt="Nail Pro 2020" src="https://cdn.shopify.com/s/files/1/1033/3739/files/NailPro_2020.jpg?v=1612561456"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Q&amp;Lu</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SkinCare</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1571448193077</id>
+      <title>240 ml</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1571448193077</id>
+      <title>60 ml</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku>QLBLM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9277474120</id>
+    <published>2017-05-09T21:57:31-04:00</published>
+    <updated>2017-05-09T21:57:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/surethik-eyebrow-thickening-fibers-sandy-blonde"/>
+    <title>Eyebrow thickening fibers - Blond Sable..Eyebrow thickening fibers - Sandy Blonde</title>
+    <s:type>Maquillage</s:type>
+    <s:vendor>SureThik</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/eyebrow-fibers-sandyblonde.jpg?v=1532633838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SureThik<br>
+        <strong>Type: </strong>Maquillage<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>SureThik Eyebrow Thickening Fibers est un maquillage semi-permanent de sourcils, fabriqué à partir de fibres de kératine 100% naturelles et de cire d'abeilles 100% naturelles qui se lient pour donner même les plus minces sourcils un aspect naturellement épais. Oubliez les gels désordonnés et les crayons ronds, nos fibres de sourcils sont durables et donnent à vos sourcils une ampleur sans effort. Plus naturel et plus durable que les produits de remplissage traditionnelles ou les poudres de sourcils, et l'un des seuls épaississants de sourcils résistant à l'eau.</p>
+<p>Ensemble Contient: Fibres d'épaississement naturelles (3g), Définition de cire d'abeilles (3g), brosse applicateur double</p>
+<h5>CE QU'IL FAIT:</h5>
+<h5></h5>
+<h6>CONSTRUIRE - DÉFINIR - ÉPAISSIR</h6>
+<p>La cire des abeilles qui définit, formes et fixe le sourcil tandis que les fibres d'épaississement 100% naturelles ajoutent une densité instantanée, en remplissant toutes les zones inégales ou épilées.</p>
+<h5>CE QUE VOUS DEVEZ SAVOIR:</h5>
+<ul>
+<li>Disponible en 4 couleurs</li>
+<li>Résistant à l'essuyage</li>
+<li>Résistante à la transpiration</li>
+<li>Durs jusqu'à 16 heures +</li>
+<li>Facile à utiliser</li>
+</ul>
+<p>Revente pour 29,95$</p>
+<p>..</p>
+<p>SureThik Eyebrow Thickening Fibers are a semi permanent eyebrow makeup, made from 100% Natural Keratin Fibers and 100% Natural Bees wax that bind to make even the thinnest eyebrows look naturally thick. Forget about messy gels and harsh looking pencils, our Eyebrow Fibers are long lasting and will give your brows effortless looking fullness. More natural and longer lasting than traditional eyebrow fillers or eyebrow powders and one of the only eyebrow thickeners that is water resistant.</p>
+<p>Set Contains: Natural Thickening Fibers (3g), Defining Bees Wax (3g), Dual-End Applicator Brush</p>
+<h5><strong>WHAT IT DOES</strong></h5>
+<h6>BUILD – DEFINE – THICKEN</h6>
+<p>The Defining Bees Wax shapes and sets the brow while the 100% Natural Thickening Fibers add instant density, filling in any patchy or over plucked areas.</p>
+<h5><strong>WHAT ELSE YOU NEED TO KNOW</strong></h5>
+<ul>
+<li>Available in 4 Colours</li>
+<li>Smudge Proof</li>
+<li>Sweat Proof</li>
+<li>Lasts up to 16 hours+</li>
+<li>Easy to use</li>
+</ul>
+<p>Resales for $29.95</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Discontinued</s:tag>
+    <s:tag>Liquidation</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9277474120</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954253128</id>
+    <published>2017-03-20T14:26:00-04:00</published>
+    <updated>2017-03-20T14:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/lepro-cuticle-oil-mini"/>
+    <title>LEpro mini huile à cuticules..LEpro Cuticle oil minis</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sac-de-huile-a-cuticule-light-elegance.jpg?v=1602097417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            2.29 - 39.95
+            <a href="https://www.beautysolution.ca/products/lepro-cuticle-oil-mini">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Le cadeau parfait pour vos clients pour maintenir leurs mains et ongles en bon état entre les visites.</p>
+<p>Sac de 30 bouteilles d'huile de cuticule format cadeau 4 ml ou vendu à l'unité.</p>
+<p>..</p>
+<p>The perfect gift for your clients to keep their hands and nails in great condition between visits.</p>
+<p>Bag of 30 gift size 4 ml cuticle oil bottles or sold individually.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LEpro</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>NailTreatment</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954253128</id>
+      <title>Sac (30)..Bag (30)</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954253128</id>
+      <title>Unité (1)..Single (1)</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

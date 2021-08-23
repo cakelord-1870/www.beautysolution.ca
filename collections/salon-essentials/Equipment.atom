@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/salon-essentials.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-08-03T20:51:50-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6897765974187</id>
+    <published>2021-08-03T20:51:50-04:00</published>
+    <updated>2021-08-03T20:51:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/nitrile-gloves"/>
+    <title>Gants en nitrile..Nitrile gloves</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/nitrilegloves-blue-black.jpg?v=1628037842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Pour vous protéger pendant que vous travaillez.</strong></p>
+<p>Protection des mains durable et de qualité qui présente le bon confort, ajustement et la sensibilité nécessaires pour offrir des soins de qualité supérieure aux clients.</p>
+<p>Disponible en taille Petit (noir), Moyen (bleu), Grand (bleu).</p>
+<p>Boîte de 100 gants</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Sans poudre</li>
+<li>Sans latex</li>
+<li>Non stérile</li>
+<li>Texturé</li>
+<li>Ambidextre</li>
+<li>Manchette perlée et poignet ajusté</li>
+</ul>
+<p>..</p>
+<p><strong>To protect you while you work.</strong></p>
+<p>Quality, durable hand protection that presents the right comfort, fit, and sensitivity needed to deliver superior client care.</p>
+<p>Available in size Small (black), Medium (blue), Large (blue).</p>
+<p>Box of 100 gloves</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Powder-free</li>
+<li>Latex-free</li>
+<li>Non-sterile</li>
+<li>Textured</li>
+<li>Ambidextrous</li>
+<li>Beaded cuff and snugs wrist</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6897765974187</id>
+      <title>Petit..Small</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>TAC-PRO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6897765974187</id>
+      <title>Moyen..Medium</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>N202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6897765974187</id>
+      <title>Grand..Large</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>N203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6773023637675</id>
+    <published>2021-07-12T13:43:55-04:00</published>
+    <updated>2021-07-12T13:43:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-disposable-straight-black-buffer-file"/>
+    <title>Lime polissoir droite noir jetable..Disposable straight black buffer</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/buffer_disposablefile_black.jpg?v=1626111304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Lime à ongles jetable professionnelle lisse doucement la plaque à ongles avec le côté grain 240 et offre une brillance incroyable avec le côté grain 1200.</p>
+<p>Paquet de 50</p>
+<p>..</p>
+<p>Professional disposable buffer gently smooths the nail plate with the 240 grit side, and offers an amazing high shine with the 1200 grit side.</p>
+<p>Pack of 50</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>NailFile</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6773023637675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6773011579051</id>
+    <published>2021-07-12T13:33:16-04:00</published>
+    <updated>2021-07-12T13:33:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/bssb-disposable-straight-file-red"/>
+    <title>Lime droite rouge jetable..Disposable straight red files</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/disposable_nailfile_red.jpg?v=1626111050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Limes à ongles jetables professionnelles à double face. Parfait pour gagner du temps dans le salon et facile à utiliser en déplacement lorsque les stations de désinfection ne sont pas disponibles.</p>
+<p>Paquet de 100</p>
+<p>..</p>
+<p>Professional double sided disposable nail files. Perfect for saving time in the salon and easy to use on the go when sanitizing stations are not available.</p>
+<p>Pack of 100</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>NailFile</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6773011579051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6725255037099</id>
+    <published>2021-06-11T09:11:44-04:00</published>
+    <updated>2021-06-11T09:11:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/lepro-brush-case"/>
+    <title>LEpro Brush case</title>
+    <s:type>Swag</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/lepro_brush_case-2.jpg?v=1622754275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Swag<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Organisez vos outils LEpro, vos fournitures artistiques et vos pinceaux avec les tout nouveaux étuis à pinceaux LE Brush Case!</strong></p>
+<p>✨ Convient à tous vos outils et pinceaux LEpro<br>✨ Design compact parfait pour les voyages<br>✨ 20 sangles de rétention pour vos pinceaux<br>✨ 7 poches pour vos outils<br>✨ Conception pop-up pratique et autoportant</p>
+<p>Le tout nouveau étui à pinceaux Light Elegance rend l'organisation des pinceaux d'application facile et beaucoup plus pratique. Avec suffisamment d'espace pour ranger tous vos pinceaux d'application, stylets Bling et outils, l'étui à pinceaux LE est votre organisateur tout-en-un pour le salon et la route. Une construction durable et des matériaux de qualité protègent vos outils pendant le voyage, et l'étui se lève pour un accès facile et une apparence professionnelle sur la table à ongles. Gagnez du temps et évitez le stress sur chaque service!</p>
+<p>Dimensions (fermé): 6,25" L x 9,25" H x 1,25" P</p>
+<blockquote>
+<p>Veuillez noter que les outils sont vendus séparément.</p>
+</blockquote>
+<p>..</p>
+<p><strong><i>Organize your LEpro Tools, art supplies and brushes with the brand new LE Brush Case!</i></strong></p>
+<p>✨ Fit all of your LEpro Tools &amp; Art Brushes<br>✨ Compact design perfect for travel<br>✨ 20 retention straps for your brushes<br>✨ 7 pockets for your implements &amp; tools<br>✨ Convenient, free standing pop-up design</p>
+<p>The all-new Light Elegance Brush Case makes organizing application brushes easy and a whole lot more convenient. With enough room to fit all of your application brushes, Bling Styluses and implements, the LE Brush Case is your all-in-one organizer for the salon and the road. Durable construction and quality materials protect your tools during travel, and the case stands up for easy access and a professional appearance on the nail table. Save time and stress on every service!</p>
+<p>Dimensions (closed): 6.25" W x 9.25" H x 1.25" D</p>
+<blockquote>
+<p>Please note, tools are sold separately.</p>
+</blockquote>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Equipment</s:tag>
+    <s:tag>LEpro</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6725255037099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>33331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6725238030507</id>
+    <published>2021-06-11T09:11:44-04:00</published>
+    <updated>2021-06-11T09:11:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-z-bit-case"/>
+    <title>Z-bit Case</title>
+    <s:type>Swag</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/zbit_case-left1.jpg?v=1622754409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Swag<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Avec de la place pour contenir jusqu'à 14 pointes, y compris les 3 pointes LE Z-bit originaux et les 6 tout nouveaux LE Z-bits, l'étui Light Elegance Z-bit Case est le rêve d'un organisateur devenu réalité. Le boîtier transparent vous permet de choisir l'embout dont vous avez besoin même avec le boîtier fermé et s'enclenche pour un voyage et un ramassage sécurisés. Ne perdez plus jamais une pointe avec l'étui LE Z-bit Case!</p>
+<p>Dimensions (fermé): 4" L x 3" H x 0,5" P</p>
+<blockquote>
+<p>Veuillez noter que les pointes sont vendus séparément.</p>
+</blockquote>
+<p>..</p>
+<p>With room to hold up to 14 zippy bits —including the 3 original and 6 all-new LE Z-bits —the Light Elegance Z-bit case is an organizer’s dream come true. The transparent casing lets you pick out the bit you need even with the case closed and snaps shut for secure travel and storage. Never lose a bit again with the LE Z-bit Case!</p>
+<p>Dimensions (closed): 4" W x 3" H x 0.5" D</p>
+<blockquote>
+<p>Please note, bits are sold separately.</p>
+</blockquote>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6725238030507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>33332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6725225316523</id>
+    <published>2021-06-11T09:11:44-04:00</published>
+    <updated>2021-06-11T09:11:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-z-bit-lefty-lu-left-handed-bit"/>
+    <title>Z-bit Lefty Lu (Left-handed bit)</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/zbit-leftylu.jpg?v=1622754508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            46.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Pointe pour gaucher.</strong></p>
+<p>Une tige et un socle en acier inoxydable augmentent la stabilité et améliorent les performances pour les professionnels d'ongles gauchers. Le grand cylindre en carbure est utilisé pour une coupe rapide avec une finition lisse. Utiliser pour éclaircir les produits d'ongles, réduire l'épaisseur, façonner l'acrylique ou le gel dur, découper les lignes du sourire ou enlever des poches de soulèvement. Abrasivité moyenne.</p>
+<p>Les matériaux de qualité en acier inoxydable, diamant et carbure rendent chaque Z-Bit fiable, durable et tout simplement un plaisir de travailler avec.</p>
+<p>Embouts de première qualité fabriqués aux États-Unis.</p>
+<p>Longueur de tige 3/32 (2,2 cm).</p>
+<p>Utilisez avec la lime électrique <strong><a title="Zippy" href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file">Zippy electric file</a></strong></p>
+<p>..</p>
+<p><strong>Left-Handed Bit</strong></p>
+<p>A stainless steel shaft and pedestal increase stability and enhance performance for left-handed nail professionals. The large carbide barrel bit is used for fast cutting with a smooth finish. Use to thin out product, reduce thickness, shape acrylic or hard gel, carve out smile lines or remove lifting pockets. Medium abrasiveness.</p>
+<p>Quality stainless-steel, diamond and carbide materials make every Z-Bit reliable, long-lasting and simply a joy to work with.</p>
+<p>Premium bits manufactured in the USA.</p>
+<p>3/32 (2.2 cm) shank length.</p>
+<p>Use with the <strong><a title="Zippy" href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file">Zippy electric file</a></strong></p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6725225316523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>33330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6725219745963</id>
+    <published>2021-06-11T09:11:43-04:00</published>
+    <updated>2021-06-11T09:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-z-bit-pedi-betty"/>
+    <title>Z-bit Pedi Betty</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/zbit-pedibetty.jpg?v=1622754522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            46.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Cette pointe fonctionne parfaitement pour le service de pédicure sèche Q&amp;Lu! Le grand corps rond et effilé de Pedi Betty élimine la peau sèche et réduit les callosités en douceur. Les trous autour du foret réduisent la chaleur, offrant une expérience exfoliante plus fraîche à vos clients.</p>
+<p>Les matériaux de qualité en acier inoxydable, diamant et carbure rendent chaque Z-Bit fiable, durable et tout simplement un plaisir de travailler avec.</p>
+<p>Embouts de première qualité fabriqués aux États-Unis.</p>
+<p>Longueur de tige 3/32 (2,2 cm).</p>
+<p>Utilisez avec la lime électrique <strong><a title="Zippy" href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file">Zippy electric file</a></strong></p>
+<p>..</p>
+<p>This bit works perfectly for our Q&amp;Lu Dry Pedicure Service! The large, round, tapered barrel of Pedi Betty removes dry skin and reduces calluses gently. The holes around the bit reduce heat, providing a cooler exfoliating experience for your clients.</p>
+<p>Quality stainless-steel, diamond and carbide materials make every Z-Bit reliable, long-lasting and simply a joy to work with.</p>
+<p>Premium bits manufactured in the USA.</p>
+<p>3/32 (2.2 cm) shank length.</p>
+<p>Use with the <strong><a title="Zippy" href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file">Zippy electric file</a></strong></p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6725219745963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>33329</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6725216895147</id>
+    <published>2021-06-11T09:11:43-04:00</published>
+    <updated>2021-06-11T09:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-z-bit-the-shaper"/>
+    <title>Z-bit The Shaper</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/zbit-theshaper.jpg?v=1622754535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>La petite pointe avec cylindre à coupe croisée en diamant est parfait pour couper la longueur et se rapprocher d'une forme d'ongle finie, comme première étape de la préparation d'un remplissage. Son motif croisé unique permet aux débris de s'échapper et de ne pas se charger aussi rapidement que les cylindres lisses. Le Shaper est également idéal pour un limage de finition léger sur la surface des produits, pour affiner la forme des ongles.</p>
+<p>Les matériaux de qualité en acier inoxydable, diamant et carbure rendent chaque Z-Bit fiable, durable et tout simplement un plaisir de travailler avec.</p>
+<p>Embouts de première qualité fabriqués aux États-Unis.</p>
+<p>Longueur de tige 3/32 (2,2 cm).</p>
+<p>Utilisez avec la lime électrique <strong><a title="Zippy" href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file">Zippy electric file</a></strong></p>
+<p>..</p>
+<p>The small diamond crosscut barrel bit is perfect for trimming length and getting close to a finished nail shape, as the first step in prepping for a fill. Its unique cross-cut pattern allows for debris to escape and not load up as quick as smooth barrels do. The Shaper is also great for light finish filing over the surface of products, to refine the shape of the nails.</p>
+<p>Quality stainless-steel, diamond and carbide materials make every Z-Bit reliable, long-lasting and simply a joy to work with.</p>
+<p>Premium bits manufactured in the USA.</p>
+<p>3/32 (2.2 cm) shank length.</p>
+<p>Use with the <strong><a title="Zippy" href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file">Zippy electric file</a></strong></p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6725216895147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>33328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6725212176555</id>
+    <published>2021-06-11T09:11:43-04:00</published>
+    <updated>2021-06-11T09:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-z-bit-cutie-patootie"/>
+    <title>Z-bit Cutie Patootie</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/zbit-cutiepatootie.jpg?v=1622754472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Cette pointe diamantée conique de taille moyenne fonctionne très bien pour éliminer en douceur le tissu cuticule épais et en excès autour du pli proximal de l'ongle, qui est soulevé de la plaque à ongles pendant le processus de préparation. La forme plus petite de Cutie Patootie permet plus de visibilité autour de l'ongle et de la pointe.</p>
+<p>Les matériaux de qualité en acier inoxydable, diamant et carbure rendent chaque Z-Bit fiable, durable et tout simplement un plaisir de travailler avec.</p>
+<p>Embouts de première qualité fabriqués aux États-Unis.</p>
+<p>Longueur de tige 3/32 (2,2 cm).</p>
+<p>Utilisez avec la lime électrique <strong><a href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file" title="Zippy">Zippy electric file</a></strong></p>
+<p>..</p>
+<p>This tapered, medium diamond bit works very well for gently removing thick and excess cuticle tissue around the proximal nail fold, that is raised from the nail plate during the prep process. The smaller barrel of Cutie Patootie allows for more visibility around the nail and bit.</p>
+<p>Quality stainless-steel, diamond and carbide materials make every Z-Bit reliable, long-lasting and simply a joy to work with.</p>
+<p>Premium bits manufactured in the USA.</p>
+<p>3/32 (2.2 cm) shank length.</p>
+<p>Use with the <strong><a href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file" title="Zippy">Zippy electric file</a></strong></p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6725212176555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>33327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6725206147243</id>
+    <published>2021-06-11T09:11:42-04:00</published>
+    <updated>2021-06-11T09:11:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-z-bit-buffy"/>
+    <title>Z-bit Buffy</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/zbit-buffybit.jpg?v=1622754451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>La pointe diamantée de taille moyenne est le meilleur outil pour polir en douceur ou exfolier la peau calleuse autour du coin du bord libre. Buffy peut également être utilisé pour exfolier la peau morte qui a été poussée vers le haut et hors de la plaque de l'ongle. (N'utilisez pas sur la plaque de l'ongles).</p>
+<p>Les matériaux de qualité en acier inoxydable, diamant et carbure rendent chaque Z-Bit fiable, durable et tout simplement un plaisir de travailler avec.</p>
+<p>Embouts de première qualité fabriqués aux États-Unis.</p>
+<p>Longueur de tige 3/32 (2,2 cm).</p>
+<p>Utilisez avec la lime électrique <strong><a title="Zippy" href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file">Zippy electric file</a></strong></p>
+<p>..</p>
+<p>The medium diamond bit is the best tool for gently “buffing” or exfoliating callused skin around the corner of the free edge. Buffy can also used to exfoliate dead skin that has been pushed up and off of the nail plate. (Not to be used on the nail plate).</p>
+<p>Quality stainless-steel, diamond and carbide materials make every Z-Bit reliable, long-lasting and simply a joy to work with.</p>
+<p>Premium bits manufactured in the USA.</p>
+<p>3/32 (2.2 cm) shank length.</p>
+<p>Use with the <strong><a title="Zippy" href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file">Zippy electric file</a></strong></p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6725206147243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>33326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6725158731947</id>
+    <published>2021-06-11T09:11:42-04:00</published>
+    <updated>2021-06-11T09:11:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-z-bit-itty-bitty"/>
+    <title>Z-bit Itty Bitty</title>
+    <s:type>Appareils</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/zbit-ittybitty.jpg?v=1622754493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Appareils<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Cette longue et fine pointe en diamant prépare légèrement la surface de l'ongle, tout en enlevant délicatement le tissu cuticule de la plaque de l'ongle, dans les coins très difficiles d'accès et le long des parois latérales. Itty Bitty Bit est la pointe parfaite pour les manucures sèches!</p>
+<p>Les matériaux de qualité en acier inoxydable, diamant et carbure rendent chaque Z-Bit fiable, durable et tout simplement un plaisir de travailler avec.</p>
+<p>Embouts de première qualité fabriqués aux États-Unis.</p>
+<p>Longueur de tige 3/32 (2,2 cm).</p>
+<p>Utilisez avec la lime électrique <strong><a title="Zippy" href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file">Zippy electric file</a></strong></p>
+<p>..</p>
+<p>This long, slender diamond bit both lightly preps the nail surface, while gently removing cuticle tissue from the nail plate, in very hard to reach corners and along sidewalls. Itty Bitty Bit is a perfect dry manicure bit!</p>
+<p>Quality stainless-steel, diamond and carbide materials make every Z-Bit reliable, long-lasting and simply a joy to work with.</p>
+<p>Premium bits manufactured in the USA.</p>
+<p>3/32 (2.2 cm) shank length.</p>
+<p>Use with the <strong><a href="https://www.beautysolution.ca/products/light-elegance-zippy-electric-file" title="Zippy">Zippy electric file</a></strong></p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>E-File</s:tag>
+    <s:tag>eFiles&amp;Lamps</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6725158731947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>33325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6698011295915</id>
+    <published>2021-05-20T17:27:23-04:00</published>
+    <updated>2021-05-20T17:27:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-towel-wim"/>
+    <title>Serviette WIM..Towel WIM</title>
+    <s:type>Swag</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/le-towel-wim.jpg?v=1621545817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Swag<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Serviette blanche Light Elegance avec 'What's Inside Matters' et flacon à fond rond.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>100% Velours de coton</li>
+<li>Tissu ultra doux pour nettoyer les mains et les visages</li>
+<li>Les ourlets cousus créent un look fini et professionnel</li>
+<li>Parfaite pour votre salon ou la cuisine</li>
+<li>Dimensions: 25" x 16"</li>
+</ul>
+<p>..</p>
+<p>Light Elegance white towel with 'What's Inside Matters' and round bottom flask.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>100% Turkish cotton velour</li>
+<li>Ultra-soft fabric for clearing hands and faces</li>
+<li>Sewn side hems create a finished, professional look</li>
+<li>Perfect match for your salon or the kitchen at home</li>
+<li>Size: 25" x 16"</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6698011295915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>MM005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6697725919403</id>
+    <published>2021-05-19T16:37:07-04:00</published>
+    <updated>2021-05-19T16:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/stellar-transparent-blue-vinyl-gloves"/>
+    <title>Stellar gants en vinyle bleu transparent..Stellar transparent blue vinyl gloves</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/stellar-blue-vinyl-golves-box.jpg?v=1621454164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les gants en vinyle bleu Stellar offrent les avantages d'un gant en vinyle transparent traditionnel, mais avec la haute visibilité supplémentaire de la pigmentation bleue.</p>
+<p>Grandeur Petit ou Moyen</p>
+<p>Boîte de 100</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>100% PVC</li>
+<li>Powder free</li>
+<li>Ambidextrous</li>
+<li>4,0 mils d'épaisseur</li>
+<li>Non sterile, single use</li>
+</ul>
+<p>..</p>
+<p>Stellar blue vinyl gloves have offer the benefits of a tradition clear vinyl glove but with the added high visibility of blue pigmentation.</p>
+<p>Size Small or Medium</p>
+<p>Box of 100</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>100% PVC</li>
+<li>Powder free</li>
+<li>Ambidextrous</li>
+<li>4.0 mils thick</li>
+<li>Non sterile, single use</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6697725919403</id>
+      <title>Petit..Small</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>003-E10320-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6697725919403</id>
+      <title>Moyen..Medium</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>003-E10320-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6697618997419</id>
+    <published>2021-05-19T15:54:28-04:00</published>
+    <updated>2021-05-19T15:54:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/mbi-363-spatula-double-ended"/>
+    <title>Spatule à double extrémité..Spatula double ended</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>MBI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/MBI-363.jpg?v=1621453828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MBI<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Spatule double lame mince et moyenne 3 mm et 6 mm.</strong></p>
+<p>Spatule applicatrice en acier inoxydable avec extrémités plates, l'une effilée et l'autre arrondie.</p>
+<p>Une autre caractéristique est la texture rainurée antidérapante sur la poignée qui permet une prise en main confortable pendant l’utilisation de l’outil.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Fabriqué en acier inoxydable spécial de qualité chirurgicale forgé à chaud</li>
+<li>Peut être stérilisé chimiquement et utilisé en toute sécurité dans un autoclave sans crainte de dommages</li>
+<li>Garantie à vie contre les défauts de fabrication</li>
+</ul>
+<p>..</p>
+<p><strong>Spatula double ended slim and medium blade 3 mm &amp; 6 mm.</strong></p>
+<p>Stainless steel applicator spatula with flat ends, one tapered and the other rounded.</p>
+<p>Another feature is the non-slip grooved texture on the handle which allows a comfortable grip while the tool is in use.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Made by finest, hot forged special surgical grade stainless steel</li>
+<li>Can be chemically sterilized and are autoclave safe without fear of damage</li>
+<li>Lifetime warranty against manufacturer’s defects</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6697618997419</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>MBI-363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6697653764267</id>
+    <published>2021-05-19T15:49:32-04:00</published>
+    <updated>2021-05-19T15:49:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/mbi-390-cuticle-pusher-flat-edge"/>
+    <title>Pousse cuticules à extrémité plat..Cuticle pusher flat edge</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>MBI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/MBI-390.jpg?v=1621453727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MBI<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Poussoir à cuticules double face à extrémité plats.</strong></p>
+<p>Conçu pour éliminer en toute sécurité la peau morte du lit de l'ongle sans endommager ni rayer l'ongle.</p>
+<p>Une autre caractéristique est la texture rainurée antidérapante sur la poignée qui permet une prise en main confortable pendant l’utilisation de l’outil.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Fabriqué en acier inoxydable spécial de qualité chirurgicale forgé à chaud</li>
+<li>Peut être stérilisé chimiquement et utilisé en toute sécurité dans un autoclave sans crainte de dommages</li>
+<li>Garantie à vie contre les défauts de fabrication</li>
+</ul>
+<p>..</p>
+<p><strong>Cuticle pusher double sided with flat edges.</strong></p>
+<p>Designed to safely remove dead skin from the nail bed without causing damage or scratch to the nail.</p>
+<p>Another feature is the non-slip grooved texture on the handle which allows a comfortable grip while the tool is in use.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Made by finest, hot forged special surgical grade stainless steel</li>
+<li>Can be chemically sterilized and are autoclave safe without fear of damage</li>
+<li>Lifetime warranty against manufacturer’s defects</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6697653764267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>MBI-390</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177363034283</id>
+    <published>2021-02-17T16:49:00-05:00</published>
+    <updated>2021-02-17T16:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/aurelia-vibrant-latex-gloves"/>
+    <title>Vibrant latex powder-free gloves</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Beauty Solution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/Aurelia-vibrant-s.jpg?v=1613598501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beauty Solution<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>To protect you while you work.</strong></p>
+<p>Quality, durable hand protection that presents the right comfort, fit, and sensitivity needed to deliver superior client care.</p>
+<p>Aurelia Vibrant micro-textured, powder free latex examination gloves are made from 100% natural rubber, ambidextrous, creamy white color and non-sterile. Aurelia gloves conform and are tested to the highest international standards.</p>
+<p>Available in size small.</p>
+<p>Box of 100 gloves</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Powder-free</li>
+<li>Non-sterile</li>
+<li>Micro textured</li>
+<li>Ambidextrous</li>
+<li>Beaded cuff and snugs wrist</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177363034283</id>
+      <title>Petit..Small</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177310933163</id>
+    <published>2021-02-17T16:13:56-05:00</published>
+    <updated>2021-02-17T16:13:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-cotton-fitted-sheet"/>
+    <title>Housse de table ajustée en coton..Cotton fitted table cover</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/CCZ1.jpg?v=1613597003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Ce drap de flanelle ajusté naturel est fait de coton et est doublé pour un niveau supplémentaire de confort doux et luxueux. Conçu pour résister aux rigueurs des massages professionnels, des soins spa et des lavages répétés.</p>
+<p>Fait de 100% coton et conçu pour s'adapter à toute table de massage portable et stationnaire jusqu'à 35" x 75", sans trou pour le visage.</p>
+<p>90 x 190 cm</p>
+<p>..</p>
+<p>This natural fitted flannel sheet is made of cotton and is double napped for an extra level of soft luxurious comfort. Built to withstand the rigours of professional massage and spa treatments and repeated washings.</p>
+<p>Made of 100% cotton and designed to fit any portable and stationary massage table up to 35" x 75", without face hole.</p>
+<p>90 x 190 cm</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177310933163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>CCZ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177299595435</id>
+    <published>2021-02-17T15:36:32-05:00</published>
+    <updated>2021-02-17T15:36:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-fitted-flannel-face-cover"/>
+    <title>Housse d&apos;appui-tête ajustée en flanelle..Fitted flannel face cover</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/CZT4-1.jpg?v=1613594080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Augmentez le confort du client avec la douceur de cette housse d'appui-visage en flanelle naturelle. S'adapte en toute sécurité sur les appuie-tête en forme de «U» pour les tables de spa.</p>
+<p>Paquet de 4</p>
+<p>..</p>
+<p>Increase client comfort with the softness of this natural flannel face rest cover. Fits securely over spa table 'U' shaped head rests.</p>
+<p>Pack of 4</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177299595435</id>
+      <title>Paquet (4)..Pack (4)</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>CZT4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177320337579</id>
+    <published>2021-02-17T11:10:32-05:00</published>
+    <updated>2021-02-17T11:10:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/gd-mask-bowl"/>
+    <title>Bol pour masque..Mask bowl</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>GD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/maskbowl-5in.jpg?v=1626706901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GD<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Bol de masque blanc conçu pour appliquer des masques faciaux.</p>
+<p>Bol de 5 pouces.</p>
+<p>..</p>
+<p>White mask bowl designed for applying facial masks.</p>
+<p>5 inch bowl.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SkinCare</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177320337579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>GD-maskbowl-5in</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177281769643</id>
+    <published>2021-02-17T10:18:09-05:00</published>
+    <updated>2021-02-17T10:18:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-trapper-clipper"/>
+    <title>Trapper Clipper coupe prothèse..Trapper Clipper tip slicer</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/trapperclipper-1.jpg?v=1613574976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Sauvez le désordre en éliminant les coupures d'ongles dans votre salon!</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Coupe les prothèses et les ongles en acrylique</li>
+<li>Fait des coupes rondes, droites et angulaire</li>
+<li>Tip Trapper attrape en toute sécurité les coupures d'ongles</li>
+<li>Peut être désinfecté en toute sécurité avec une solution stérilisante</li>
+</ul>
+<p>..</p>
+<p>Save the mess by eliminating rogue nail clippings in your salon!</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Cuts both tips and acrylic nails</li>
+<li>Makes round, straight and well cuts</li>
+<li>Tip trapper safely catches nail clippings</li>
+<li>Can be safely disinfected with sterilizing solution</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Extensions</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177281769643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>AMN1008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177279967403</id>
+    <published>2021-02-17T09:38:14-05:00</published>
+    <updated>2021-02-17T09:38:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-plastic-storage-case"/>
+    <title>Boîtier de rangement en plastique durable..Durable plastic storage case</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/storage-case-nc0173-1.jpg?v=1613572657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Idéal pour ranger les essentiels de manucure et pédicure.</p>
+<p>6 x 9 cm</p>
+<blockquote>
+<p>Veuillez noter que les outils sont vendus séparément.</p>
+</blockquote>
+<p>..</p>
+<p>Ideal for storing manicure and pedicure essentials.</p>
+<p>6 x 9 cm</p>
+<blockquote>
+<p>Please note, implements are sold separately.</p>
+</blockquote>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177279967403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>NC0173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6177226719403</id>
+    <published>2021-02-16T17:42:18-05:00</published>
+    <updated>2021-02-16T17:42:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/americanails-mixing-palette"/>
+    <title>Palette pour mélanger..Mixing palette</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Americanails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/mixing-palette.jpg?v=1613515328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Americanails<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Amusez-vous à mélanger toutes les couleurs de peinture, vernis, gel et poudres!</p>
+<p>..</p>
+<p>Have fun mixing all different colors of paint, polish, gel and powders!</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>ArtTool</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6177226719403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>AMN1023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6237979672747</id>
+    <published>2021-02-12T20:16:39-05:00</published>
+    <updated>2021-02-12T20:16:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/mbi-501-cuticle-scissors"/>
+    <title>Ciseaux à cuticules..Cuticle scissors</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>MBI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/MBI-501.jpg?v=1613178776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MBI<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Ciseaux pour cuticules, à pointe fine courbée.</p>
+<p>Taille 3.5"</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Fabriqué en acier inoxydable spécial de qualité chirurgicale forgé à chaud</li>
+<li>Peut être stérilisé chimiquement et utilisé en toute sécurité dans un autoclave sans crainte de dommages</li>
+<li>Garantie à vie contre les défauts de fabrication</li>
+</ul>
+<p>..</p>
+<p>Scissors for cuticles, with a curved fine point.</p>
+<p>Size 3.5"</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Made by finest, hot forged special surgical grade stainless steel</li>
+<li>Can be chemically sterilized and are autoclave safe without fear of damage</li>
+<li>Lifetime warranty against manufacturer’s defects</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6237979672747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>MBI-501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6237978984619</id>
+    <published>2021-02-12T20:16:39-05:00</published>
+    <updated>2021-02-12T20:16:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/mbi-389-curette-excavator"/>
+    <title>Curette excavatrice à double extrémité..Curette excavator double sided</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>MBI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/MBI-389.jpg?v=1613178813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MBI<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Curette excavatrice à 2 bouts troués de 1.5 mm et 2.5 mm.</p>
+<p>Taille 5.5"</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Fabriqué en acier inoxydable spécial de qualité chirurgicale forgé à chaud</li>
+<li>Peut être stérilisé chimiquement et utilisé en toute sécurité dans un autoclave sans crainte de dommages</li>
+<li>Garantie à vie contre les défauts de fabrication</li>
+</ul>
+<p>..</p>
+<p>Curette excavator, double ended with holes 1.5 mm and 2.5 mm</p>
+<p>Size 5.5"</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Made by finest, hot forged special surgical grade stainless steel</li>
+<li>Can be chemically sterilized and are autoclave safe without fear of damage</li>
+<li>Lifetime warranty against manufacturer’s defects</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6237978984619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MBI-389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6237980295339</id>
+    <published>2021-02-12T20:14:39-05:00</published>
+    <updated>2021-02-12T20:14:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/mbi-201-heavy-duty-nipper"/>
+    <title>Pince robuste pour les ongles incarnés et épais..Heavy duty ingrown and thick nail nipper</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>MBI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/MBI-201.jpg?v=1613178858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MBI<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Notre coupe-ongles robuste en forme de lune est conçu pour couper les ongles les plus épais. La forme de la lune est conçue pour couper le long de la forme de l'ongle. Nous l'avons conçu avec une lame perpendiculaire pour que vous puissiez facilement couper l'ongle vous-même ou si quelqu'un d'autre le coupe pour vous.</p>
+<p>Taille 5.5"</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Fabriqué en acier inoxydable spécial de qualité chirurgicale forgé à chaud</li>
+<li>Peut être stérilisé chimiquement et utilisé en toute sécurité dans un autoclave sans crainte de dommages</li>
+<li>Garantie à vie contre les défauts de fabrication</li>
+</ul>
+<p>..</p>
+<p>Our Heavy Duty Moon shaped nail cutter is designed to cut of the thickest toenails. The moon shape is designed to cut along the shape of the nail. We have designed it with a perpendicular blade so it is easy for you to cut the nail yourself or if someone else cuts it for you.</p>
+<p>Size 5.5"</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Made by finest, hot forged special surgical grade stainless steel</li>
+<li>Can be chemically sterilized and are autoclave safe without fear of damage</li>
+<li>Lifetime warranty against manufacturer’s defects</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>FootCare</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6237980295339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>MBI-201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

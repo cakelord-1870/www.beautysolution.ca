@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/avry-beauty.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2020-11-17T14:44:06-05:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6060980306091</id>
+    <published>2020-11-17T14:44:06-05:00</published>
+    <updated>2020-11-17T14:44:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-disposable-mani-pedi-tool-kit"/>
+    <title>Ensemble de lime et bloc jetable..Disposable file and buffer set</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/disposable-toolkit.jpg?v=1605642101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            0.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Outils de salon 100% jetables et de haute performance pour les services de manucure et de pédicure propres au quotidien.</strong></p>
+<p>Créez des ongles parfaits avec n'importe quel service! Tous emballés individuellement afin que chaque article soit propre jusqu'à ce qu'il soit utilisé sur votre client. Maintenant, soyez assuré que chaque service est hygiénique.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Toujours propre et hygiénique</li>
+<li>Fabriqué avec des matériaux de haute qualité pour des résultats ultimes</li>
+<li>Trousse d'outils de manucure et de pédicure au détail</li>
+</ul>
+<p>Comprend un lime et un bloc sableurs.</p>
+<p>..</p>
+<p><strong>100% disposable and high performance salon tools for everyday clean manicure and pedicure services.</strong></p>
+<p>Create the perfect nails in any service! All individually packaged so each item is clean until used on your client. Now, rest assured that each service is hygienic.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>Always clean and hygienic</li>
+<li>Made with high quality material for ultimate results</li>
+<li>Retail manicure and pedicure tool kit</li>
+</ul>
+<p>Includes one file and one buffer.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Disposable</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>NailFile</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6060980306091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049195786411</id>
+    <published>2020-11-17T14:28:45-05:00</published>
+    <updated>2020-11-17T14:28:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-ultra-gloves-chamomile"/>
+    <title>Gants - Camomille..Ultra Gloves - Chamomile</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/ultragloves-chamomile.jpg?v=1605641291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les gants fournissent une dose intense d'hydratation pour aider à apaiser et calmer la peau, en la laissant détendue.</p>
+<p>Un simple complément à votre service de manucure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p>Comprend 1 paire de gants.</p>
+<p>..</p>
+<p>The gloves deliver an intense dose of moisture to help soothe and calm skin, leaving it feeling relaxed.</p>
+<p>A simple add-on to your manicure service while working on the nails, with no extra time.</p>
+<p>Includes 1 pair of gloves.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049195786411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049134313643</id>
+    <published>2020-11-17T11:23:54-05:00</published>
+    <updated>2020-11-17T11:23:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-socks-shea-butter"/>
+    <title>Chaussettes ultra apaisantes - Beurre de karité..Shea Socks - Shea Butter</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheasocks-sheabutter-1.jpg?v=1605630190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les pieds!</strong></p>
+<p>Les chaussettes de pédicure infusées au beurre de karité calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de pédicure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de pédicure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les pieds rugueux et secs</li>
+</ul>
+<p>Comprend 1 paire de chaussettes.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for the feet!</strong></p>
+<p>Shea Butter infused pedicure socks deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your pedicure service while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An all-in-one pedicure solution!</li>
+<li>SAVE TIME, no need of cuticle softener, oil, massage cream or messy paraffin</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for rough and dry feet</li>
+</ul>
+<p>Includes 1 pair of socks.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049134313643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049137655979</id>
+    <published>2020-11-17T11:20:31-05:00</published>
+    <updated>2020-11-17T11:20:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-socks-lavender"/>
+    <title>Chaussettes ultra apaisantes - Lavande..Shea Socks - Lavender</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheasocks-lavender-1.jpg?v=1605629961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les pieds!</strong></p>
+<p>Les chaussettes de pédicure infusées au beurre de karité et à la lavande calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de pédicure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de pédicure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les pieds rugueux et secs</li>
+</ul>
+<p>Comprend 1 paire de chaussettes.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for the feet!</strong></p>
+<p>Shea Butter and Lavender infused pedicure socks help soothe inflamed skin and deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your pedicure service while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An all-in-one pedicure solution!</li>
+<li>SAVE TIME, no need of cuticle softener, oil, massage cream or messy paraffin</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for rough and dry feet</li>
+</ul>
+<p>Includes 1 pair of socks.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049137655979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049140342955</id>
+    <published>2020-11-17T11:14:25-05:00</published>
+    <updated>2020-11-17T11:14:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-socks-chamomile"/>
+    <title>Chaussettes ultra apaisantes - Camomille..Shea Socks - Chamomile</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheasocks-chamomile-1.jpg?v=1605629935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les pieds!</strong></p>
+<p>Les chaussettes de pédicure infusées au beurre de karité et à la camomille calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de pédicure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de pédicure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les pieds rugueux et secs</li>
+</ul>
+<p>Comprend 1 paire de chaussettes.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for the feet!</strong></p>
+<p>Shea Butter and Chamomile infused pedicure socks calm skin and deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your pedicure service while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An all-in-one pedicure solution!</li>
+<li>SAVE TIME, no need of cuticle softener, oil, massage cream or messy paraffin</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for rough and dry feet</li>
+</ul>
+<p>Includes 1 pair of socks.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049140342955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049149190315</id>
+    <published>2020-11-10T10:28:26-05:00</published>
+    <updated>2020-11-10T10:28:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-gloves-shea-butter"/>
+    <title>Gants ultra nourrissants - Beurre de karité..Shea Gloves - Shea Butter</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheagloves-sheabutter.jpg?v=1605022081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les mains!</strong></p>
+<p>Les gants de manucure infusés au beurre de karité calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de manucure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de manucure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les mains surchargées</li>
+</ul>
+<p>Comprend 1 paire de gants.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for hands!</strong></p>
+<p>Shea Butter infused manicure gloves deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your manicure services while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An easy waterless manicure solution!</li>
+<li>SAVE TIME, no need of soaking water, cuticle softener or oil and massage cream</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for overworked hands</li>
+</ul>
+<p>Includes 1 pair of gloves.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049149190315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049146110123</id>
+    <published>2020-11-10T10:20:56-05:00</published>
+    <updated>2020-11-10T10:20:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-gloves-lavender"/>
+    <title>Gants ultra nourrissants - Lavande..Shea Gloves - Lavender</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheagloves-lavender.jpg?v=1605021635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les mains!</strong></p>
+<p>Les gants de manucure infusés au beurre de karité et à la lavande calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de manucure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de manucure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les mains surchargées</li>
+</ul>
+<p>Comprend 1 paire de gants.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for hands!</strong></p>
+<p>Shea Butter and Lavender infused manicure gloves help soothe inflamed skin and deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your manicure services while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An easy waterless manicure solution!</li>
+<li>SAVE TIME, no need of soaking water, cuticle softener or oil and massage cream</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for overworked hands</li>
+</ul>
+<p>Includes 1 pair of gloves.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049146110123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049143849131</id>
+    <published>2020-11-10T10:16:28-05:00</published>
+    <updated>2020-11-10T10:16:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-shea-gloves-chamomile"/>
+    <title>Gants ultra nourrissants - Camomille..Shea Gloves - Chamomile</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/sheagloves-chamomile.jpg?v=1605021365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les mains!</strong></p>
+<p>Les gants de manucure infusés au beurre de karité et à la camomille calment la peau et procurent une hydratation intensive pour garder la peau douce, nourrie et hydratée.</p>
+<p>Un complément simple à vos services de manucure tout en travaillant sur les ongles, sans temps supplémentaire.</p>
+<p><strong>Pourquoi les salons l'adorent?</strong></p>
+<ul>
+<li>Une solution de manucure simple et sans eau!</li>
+<li>GAGNEZ DU TEMPS, pas besoin d'eau de trempage, d'adoucissant pour cuticules ou d'huile et crème de massage</li>
+<li>Parfait pour la vente au détail en salon</li>
+<li>Soin intensif pour les mains surchargées</li>
+</ul>
+<p>Comprend 1 paire de gants.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for hands!</strong></p>
+<p>Shea Butter and Chamomile infused manicure gloves calm skin and deliver intensive moisture to keep skin soft, nourished and hydrated.</p>
+<p>A simple add-on to your manicure services while working on the nails, with no extra time.</p>
+<p><strong>Why salons love it?</strong></p>
+<ul>
+<li>An easy waterless manicure solution!</li>
+<li>SAVE TIME, no need of soaking water, cuticle softener or oil and massage cream</li>
+<li>Perfect for salon retail</li>
+<li>Intensive care for overworked hands</li>
+</ul>
+<p>Includes 1 pair of gloves.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049143849131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6049097711787</id>
+    <published>2020-11-09T16:42:13-05:00</published>
+    <updated>2020-11-09T16:42:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-gel-ohh-charcoal"/>
+    <title>Gel-Ohh! Jelly spa bath - Charcoal</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel_ohh_charcoal-1.jpg?v=1604958081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.99 - 79.95
+            <a href="https://www.beautysolution.ca/products/avry-gel-ohh-charcoal">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Une expérience ultime de pédicure au spa pour la relaxation, grâce à la thermothérapie qui apaise les articulations et les muscles douloureux. Avry Beauty Gel-Ohh est 100% SANS produits chimiques nocifs ou des conservateurs et est entièrement biodégradable.</p>
+<p>ÉTAPE 1 : Transforme l'eau en gelée.<br>ÉTAPE 2 : Dissout la gelée pour que vous puissiez drainer l'eau en toute sécurité.</p>
+<p>NOTE: Ne pas allumer le bain à remous ou drainer tant que l'eau n'est pas complètement diluée.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Chaleur thérapie</li>
+<li>Aroma thérapie</li>
+<li>Aucun produit chimique nocif, ni d'agents de conservation</li>
+<li>Formule écologique</li>
+<li>Totalement bio-degradable</li>
+</ul>
+<p>Disponible en Charbon, Lait &amp; Miel, Lavande ou Thé Vert</p>
+<p><strong>💲ÉCONOMISEZ 10% avec le présentoir, 30 unités!💲</strong></p>
+<p>..</p>
+<p>Detox and banish unwanted impurities with a purifying Charcoal Jelly pedicure! Infused with a clean, crisp aroma of Lemongrass and Ginger to refresh and energize the senses.</p>
+<p>The Ultimate Spa Pedicure experience for relaxation using heat therapy which soothes aching joints and muscles. Avry Beauty Gel-Ohh is 100% FREE of harmful chemicals or preservatives and is fully bio-degradable.</p>
+<p>STEP 1 : Turns the spa bath water to jelly.<br>STEP 2 : Dissolves the jelly so you can safely drain.</p>
+<p>NOTE: Do not turn on whirlpool or drain until fully diluted.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Heat therapy</li>
+<li>Aroma therapy</li>
+<li>No harmful chemicals or preservatives</li>
+<li>Environmentally safe and friendly formula</li>
+<li>Fully bio-degradable</li>
+</ul>
+<p>Available in Charcoal, Milk &amp; Honey, Lavender or Green Tea</p>
+<p><strong>💲SAVE 10% with the display pack, 30 unites!💲</strong></p>
+<p>....</p>
+<br>
+<style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/Odd0YhjxOOo?rel=0" frameborder="0" allowfullscreen=""></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FootCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049097711787</id>
+      <title>Unité (1)..Single (1)</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6049097711787</id>
+      <title>Présentoir (30)..Display (30)</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4100417126453</id>
+    <published>2019-09-17T16:59:46-04:00</published>
+    <updated>2019-09-17T16:59:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-gel-ohh-green-tea"/>
+    <title>Gel-Ohh! Jelly spa bath - Green Tea</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel_ohh_greentea-2.jpg?v=1568754223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            2.99 - 79.95
+            <a href="https://www.beautysolution.ca/products/avry-gel-ohh-green-tea">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Une expérience ultime de pédicure au spa pour la relaxation, grâce à la thermothérapie qui apaise les articulations et les muscles douloureux. Avry Beauty Gel-Ohh est 100% SANS produits chimiques nocifs ou des conservateurs et est entièrement biodégradable.</p>
+<p>ÉTAPE 1 : Transforme l'eau en gelée.<br>ÉTAPE 2 : Dissout la gelée pour que vous puissiez drainer l'eau en toute sécurité.</p>
+<p>NOTE: Ne pas allumer le bain à remous ou drainer tant que l'eau n'est pas complètement diluée.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Chaleur thérapie</li>
+<li>Aroma thérapie</li>
+<li>Aucun produit chimique nocif, ni d'agents de conservation</li>
+<li>Formule écologique</li>
+<li>Totalement bio-degradable</li>
+</ul>
+<p>Disponible en Charbon, Lait &amp; Miel, Lavande ou Thé Vert</p>
+<p><strong>💲ÉCONOMISEZ 10% avec le présentoir, 30 unités!💲</strong></p>
+<p>..</p>
+<p>Deep cleanse your skin with a detoxifying Green Tea Jelly Pedicure! The fresh, crisp aroma of Green Tea eliminates stress and invigorates senses.</p>
+<p>The Ultimate Spa Pedicure experience for relaxation using heat therapy which soothes aching joints and muscles. Avry Beauty Gel-Ohh is 100% FREE of harmful chemicals or preservatives and is fully bio-degradable.</p>
+<p>STEP 1 : Turns the spa bath water to jelly.<br>STEP 2 : Dissolves the jelly so you can safely drain.</p>
+<p>NOTE: Do not turn on whirlpool or drain until fully diluted.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Heat therapy</li>
+<li>Aroma therapy</li>
+<li>No harmful chemicals or preservatives</li>
+<li>Environmentally safe and friendly formula</li>
+<li>Fully bio-degradable</li>
+</ul>
+<p>Available in Charcoal, Milk &amp; Honey, Lavender or Green Tea</p>
+<p><strong>💲SAVE 10% with the display pack, 30 unites!💲</strong></p>
+<p>....</p>
+<br>
+<style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/Odd0YhjxOOo?rel=0" allowfullscreen="" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FootCare</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100417126453</id>
+      <title>Unité (1)..Single (1)</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4100417126453</id>
+      <title>Présentoir (30)..Display (30)</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/3849956458549</id>
+    <published>2019-09-12T16:20:24-04:00</published>
+    <updated>2019-09-12T16:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/avry-pedi-kit-shea-butter"/>
+    <title>Pedi Kit - Beurre de karité..Pedi Kit - Shea Butter</title>
+    <s:type>Soin du corps</s:type>
+    <s:vendor>Avry Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/Pedi_kit_sheabutter.jpg?v=1626962435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avry Beauty<br>
+        <strong>Type: </strong>Soin du corps<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin intensément hydratant au beurre de karité pour les pieds!</strong></p>
+<p>Le kit de pédicure nourrissant et complet qui contient des outils 100% jetables et des chaussettes sans eau pour un service de pédicure propre et hygiénique. Parfait comme un article de vente au détail en salon!</p>
+<p>Le kit comprend une serviette jetable, un bâton à cuticules, une lime à ongles zèbre, un bloc sableur, et bien sûr, des chaussettes au beurre de karité pour offrir l'expérience de pédicure la plus apaisante et la plus relaxante.</p>
+<p>..</p>
+<p><strong>Intensely moisturizing Shea Butter treatment for feet!</strong></p>
+<p>A nourishing complete pedi kit that contains 100% disposable tools and waterless socks for a clean and hygienic pedicure service. Also a perfect salon retail item!</p>
+<p>The kit includes a Disposable Towel, Cuticle Stick, Zebra Nail File, Nail Buffer, and of course, Shea Butter Socks to deliver the most soothing and relaxing pedicure experience.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FootCare</s:tag>
+    <s:tag>HomeCare</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>NailFile</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pedicure</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/3849956458549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

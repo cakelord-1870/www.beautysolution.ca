@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/refectocil.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-07-06T11:16:50-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338574152</id>
+    <published>2021-07-06T11:16:50-04:00</published>
+    <updated>2021-07-06T11:16:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-sensitive-developer-gel"/>
+    <title>Sensitive gel développeur..Sensitive developer gel</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-sen-developer.jpg?v=1532633833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Sans peroxyde d'hydrogène. À base de nitrate d’argent.</strong></p>
+<p>Gel Développeur à base de nitrate d’argent pour les teintures RefectoCil Sensitive. Facile à utiliser. Ne coule pas.</p>
+<p>Attention: utilisez uniquement avec des couleurs Sensitive de RefectoCil! Ne mélangez pas la couleur et le gel développeur!</p>
+<p>..</p>
+<p><strong>No hydrogen peroxide. Based on silver nitrate.</strong></p>
+<p>Developer Gel based on silver nitrate for RefectoCil Sensitive tints. Easy to use. No dripping.</p>
+<p>Attention: Only use with RefectoCil Sensitive colours! Don’t mix Colour and Developer Gel!</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>sensitive</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338574152</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>RC 5020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6088651636907</id>
+    <published>2020-12-07T09:37:44-05:00</published>
+    <updated>2020-12-07T09:37:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eyelash-lift-glue-refill"/>
+    <title>Eyelash Lift colle - réassort..Eyelash Lift glue - refill</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-refill-glue.jpg?v=1606854117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Colle à cils pour les ensembles Curl et Lift.</p>
+<p>1 tube de colle de 4 ml</p>
+<p>..</p>
+<p>Eyelash glue for the Curl and Lift kits.</p>
+<p>1 Glue 4 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6088651636907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097645895851</id>
+    <published>2020-12-03T11:11:20-05:00</published>
+    <updated>2020-12-03T11:11:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-care-balm"/>
+    <title>Care Balm</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-care-balm.jpg?v=1607011713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Soin de nuit intensif à l'huile de ricin!</strong></p><p>Pendant la nuit, les vitamines et les huiles végétales renforcent les poils, les rendant sains, brillants et moins cassants. De plus, l’huile de ricin favorise la croissance naturelle des cils et des sourcils.</p>
+<p>..</p>
+<p><strong>Intensive night care with castor oil!</strong></p>
+<p>Over night vitamins and plant oils strengthen the hair making it healthy, shiny &amp; less brittle. Additionally, castor oil supports natural lash &amp; brow growth.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashExtension</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097645895851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097650581675</id>
+    <published>2020-12-02T16:26:08-05:00</published>
+    <updated>2020-12-02T16:26:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-lash-brow-booster"/>
+    <title>Lash &amp; Brow Booster</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-lashbrowbooster.jpg?v=1606944332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>2 en 1 – Double Effet!</strong></p>
+<p>Pour des cils jusqu’à 56% plus longs et des sourcils plus épais et plus fournis avec moins de trous !</p>
+<p>La formule, qui contient des substances actives naturelles, prolonge les phases de croissance dans la racine du poil, les aidant ainsi à devenir significativement plus longs et plus épais.<br></p>
+<p>Testé sous contrôle dermatologique.<br>Testé sous contrôle ophtalmologique.</p>
+<p>..</p>
+<p><strong>2 in 1 – Double Effect!</strong></p>
+<p>For up to 56% longer lashes as well as thicker and broader brows with fewer gaps!</p>
+<p>The formula with natural active substances prolongs the growth phases in the hair roots and thereby supports the hair to become significantly longer &amp; thicker. </p>
+<p>Dermatologically tested.<br>Ophthalmologically tested.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashExtension</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097650581675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097618731179</id>
+    <published>2020-12-01T15:49:56-05:00</published>
+    <updated>2020-12-01T15:49:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eye-care-pads"/>
+    <title>Eye Care Pads</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-eyecare-pads.jpg?v=1606854630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Lash &amp; Brow Styling avec boosteur fraîcheur supplémentaire!</strong></p>
+<p>Le nouveau service premium pour vos clientes: ne vous contentez pas de créer un regard sublime, mais choyez aussi la zone sensible des yeux avec de l’hyaluron et de la vitamine E!</p>
+<p>Pendant la mise en beauté, la peau est intensément soignée et en même temps protégée contre la coloration pendant le traitement des cils.</p>
+<p><strong>Conseil spécial browista</strong> – Pour encore plus de fraîcheur, mettez les pads au réfrigérateur peu avant l’utilisation!</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Hydratation intense grâce à l’hyaluron et à l’aloe vera hautement concentré</li>
+<li>Rafraîchissement grâce à la technologie innovante Gel-Pad</li>
+<li>Favorise le lissage de la peau grâce à l’allantoïne</li>
+<li>Protège la zone des yeux pendant la mise en beauté des cils et des sourcils</li>
+</ul>
+<p>10 paires</p>
+<p>..</p>
+<p><strong>Ideal for lash tinting with the extra kick of freshness!</strong></p>
+<p>The new premium service: don’t just give your clients dramatic lashes, pamper the sensitive skin around their eyes with hyaluron &amp; vitamin E as well!</p>
+<p>A plus: the skin is intensely moisturised as well as protected from skin staining during the lash styling.</p>
+<p><strong>Browista tip</strong> – For even more intense refreshment, keep your RefectoCil Eye Care Pads in the fridge!</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Intense moisture</li>
+<li>Supports skin smoothing</li>
+<li>Refreshing innovative gel-pad technology</li>
+<li>Protects the eye area during lash &amp; brow styling</li>
+</ul>
+<p>10 pairs</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097618731179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6088648261803</id>
+    <published>2020-12-01T15:04:24-05:00</published>
+    <updated>2020-12-01T15:04:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eyelash-lifting-pads-refill"/>
+    <title>Pads de rehaussement pour les cils - réassort..Eyelash Lifting Pads - refill</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-refill-lifting-pads.jpg?v=1606853034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>1 paire par réassort. Réutilisable jusqu’à 100 fois.</p>
+<p>Tailles disponibles : Petit, Moyen, Grand</p>
+<p>..</p>
+<p>1 pair per refill. Reusable for up to 100 times.</p>
+<p>Available sizes : Small, Medium, Large</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6088648261803</id>
+      <title>Petit..Small</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6088648261803</id>
+      <title>Moyen..Medium</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6088648261803</id>
+      <title>Grand..Large</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097638228139</id>
+    <published>2020-12-01T14:53:56-05:00</published>
+    <updated>2020-12-01T14:53:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-styling-gel"/>
+    <title>Styling Gel</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-styling-gel.jpg?v=1606852410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Protège la coloration, hydrate &amp; peigne les poils!</strong></p>
+<p>La formule unique « colour protect » va venir créer un bouclier protecteur sur les cils et les sourcils pour qu’ils gardent la coloration plus longtemps. Le D-Panthénol aide à l’hydratation et apporte de la brillance. En plus, les poils rebelles sont remis en place. Appliquer sur les cils et les sourcils quotidiennement. Aussi utilisable n’importe quand pour une retouche.</p>
+<p>Le NOUVEAU Styling Gel remplace le Refectocil Longlash Gel.</p>
+<p>9 ml</p>
+<p>..</p>
+<p><strong>Colour protection, care &amp; style!</strong></p>
+<p>The unique colour protect formula shields the lashes and brows so they appear freshly tinted for a longer time. D-Panthenol binds moisture and provides shine. In addition, unruly hair is fixed in the desired position. Apply to lashes and brows daily. Can also be used as a fresh up for in between.</p>
+<p>The NEW Styling Gel replaces the Refectocil Longlash Gel.</p>
+<p>9 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097638228139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6088669561003</id>
+    <published>2020-12-01T14:43:49-05:00</published>
+    <updated>2020-12-01T14:43:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-skin-protection-cream-mask"/>
+    <title>Crème de protection de la peau &amp; masque pour les yeux..Skin Protection Cream &amp; Eye Mask</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-skincreammask.jpg?v=1606851812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            14.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Protection intensive!</strong></p>
+<p>2 en 1! La crème a été conçue pour faire adhérer les Protections en Papier pour les yeux RefectoCil. Elle protège la peau des taches et elle fait office de masque pour les yeux en même temps. Ses ingrédients comme la vitamine E, l’aloe vera et l’huile d’amande nourrissent la peau durant la teinture.</p>
+<p>Suffisant pour environ 150 applications.</p>
+<p>75 ml</p>
+<p>..</p>
+<p><strong>Protection &amp; Intensive Care</strong></p>
+<p>2 in 1! The cream was developed for the adhesion of RefectoCil Eye protection papers. It protects the skin from stains and simultaneously acts as nourishing eye mask. Ingredients like vitamine E, aloe vera and almond oil nurture the skin while tinting.</p>
+<p>Sufficient for approximately 150 applications.</p>
+<p>75 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6088669561003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338574664</id>
+    <published>2020-11-25T14:02:05-05:00</published>
+    <updated>2020-11-25T14:02:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eye-protection-papers-extra"/>
+    <title>Papiers protecteurs pour les yeux Extra..Eye protection papers Extra</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-papers-extra.jpg?v=1532633831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Revêtement spécial!</strong></p>
+<p>Extra douces et avec un revêtement imperméable spécial, les protections en Papier EXTRA RefectoCil empêchent les taches sur la paupière du bas de votre cliente. Les protections sont faciles à manipuler, se placent parfaitement et elles sont douces pour la peau du fait de leur revêtement spécial.</p>
+<p>..</p>
+<p><strong>Special coating!</strong></p>
+<p>Extra soft and with special, impenetrable coating RefectoCil Eye protection papers Extra prevent the clients eyelids from unwanted staining. They are easy to handle, fit perfectly and provide optimum skin protection thanks to their special coating.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338574664</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4629583364149</id>
+    <published>2020-07-22T14:23:04-04:00</published>
+    <updated>2020-07-22T14:23:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eyelash-curl-lift-refill"/>
+    <title>Eyelash Curl &amp; Lift - réassort..Eyelash Curl &amp; Lift - refill</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-curl-lift-refill.jpg?v=1595442149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Permanente de cils et neutralisant, 2 tubes de 3,5 ml pour 18 applications.</p>
+<p>..</p>
+<p>Lashperm and Neutralizer, 2 tubes of 3.5 ml for 18 applications.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Curl</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4629583364149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338574344</id>
+    <published>2020-07-07T07:56:08-04:00</published>
+    <updated>2020-07-07T07:56:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-tint-remover-sensitive"/>
+    <title>Détachant de coloration Sensitive..Tint Remover Sensitive</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-sen-remover.jpg?v=1532633832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Pour la gamme Sensitive.</strong></p>
+<p>Retirez les taches apparues durant la coloration facilement et rapidement.</p>
+<p><strong>Conseil</strong><br>Plus la tache est traitée tôt et plus il est facile de la retirer.</p>
+<p>Ne fonctionne qu’avec les teintures RefectoCil Sensitive!</p>
+<p>..</p>
+<p><strong>For the Sensitive range.</strong></p>
+<p>Removes stains that develop during tinting easily and quickly.</p>
+<p><strong>Tip</strong><br>The quicker the stain is treated the easier its removal.</p>
+<p>Only suited for RefectoCil Sensitive tints!</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338574344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338576776</id>
+    <published>2020-06-19T19:32:07-04:00</published>
+    <updated>2020-06-19T19:32:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eyelash-curl-rosewood-sticks-refill"/>
+    <title>Eyelash Curl bâtons en bois - réassort..Eyelash Curl rosewood sticks - refill</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-curl-refill-stick.jpg?v=1532633827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            10.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Pochette avec 5 bâtons en bois de rose, idéal pour l'application de Eyelash Curl.</p>
+<p>..</p>
+<p>Pouch with 5 rosewood sticks, ideal for the application of Eyelash Curl.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Curl</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338576776</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338576712</id>
+    <published>2020-06-19T19:32:07-04:00</published>
+    <updated>2020-06-19T19:32:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eyelash-curl-cosmetic-brush-refill"/>
+    <title>Eyelash Curl brosse cosmétiques - réassort..Eyelash Curl cosmetic brush - refill</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-curl-refill-brush.jpg?v=1532633827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Ensemble de 2 brosses, une brosse (no. 1) pour Lashperm, une (no. 2) pour Neutralisant.</p>
+<p>..</p>
+<p>Set of 2 brushes, one brush (no. 1) for Lashperm, one (no. 2) for Neutralizer.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Curl</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338576712</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338576648</id>
+    <published>2020-06-19T19:32:07-04:00</published>
+    <updated>2020-06-19T19:32:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eyelash-curl-rollers-refill"/>
+    <title>Eyelash Curl rouleaux - réassort..Eyelash Curl rollers - refill</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-curl-refill-rollers.jpg?v=1532633827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Tailles disponibles: P, M, L, XL, XXL. 1 poche 36 rouleaux.</p>
+<p>..</p>
+<p>Available sizes: S, M, L, XL, XXL. 1 pouch 36 rollers.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Curl</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338576648</id>
+      <title>Petit..Small</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338576648</id>
+      <title>Moyen..Medium</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338576648</id>
+      <title>Grand..Large</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338576520</id>
+    <published>2020-06-19T19:32:07-04:00</published>
+    <updated>2020-06-19T19:32:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eyelash-curl-glue-refill"/>
+    <title>Eyelash Curl colle - réassort..Eyelash Curl glue - refill</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-curl-refill-glue.jpg?v=1532633827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            19.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Emballage en verre pour une qualité de produit optimale.</strong></p>
+<p>Pour fixer des cils ternes sur le rouleau. NOUVEAU: emballage en verre pour une qualité de produit et une durée de conservation optimales!</p>
+<p>1 colle de 4 ml</p>
+<p>..</p>
+<p><strong>Glass packaging for optimum product quality.</strong></p>
+<p>For fixing stubborn lashes on the roller. NEW: glass package for optimum product quality and shelf-life!</p>
+<p>1 Glue 4 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Curl</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338576520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338576392</id>
+    <published>2020-06-19T19:32:07-04:00</published>
+    <updated>2020-06-19T19:32:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eyelash-curl-perm-neutralizer-refill"/>
+    <title>Eyelash Curl perm/neutraliseur - réassort..Eyelash Curl perm/neutralizer - refill</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-curl-refill-perm.jpg?v=1532633828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            33.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Lashperm et neutraliseur, 2 tubes 3,5 ml pour 18 applications.</p>
+<p>..</p>
+<p>Lashperm and Neutralizer, 2 tubes 3,5 ml for 18 applications.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Curl</s:tag>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338576392</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338574216</id>
+    <published>2020-06-18T21:35:35-04:00</published>
+    <updated>2020-06-18T21:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-tint-remover"/>
+    <title>Détachant de coloration..Tint remover</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-tint-remover.jpg?v=1532633832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            21.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Pour les yeux qui sont une zone sensible.</strong></p>
+<p>Retirez les taches apparues durant la coloration facilement et rapidement.</p>
+<p><strong>Conseil</strong><br>Plus la tache est traitée tôt et plus il est facile de la retirer.</p>
+<p>Ne fonctionne qu’avec les teintures RefectoCil qui se mélangent avec l’oxydant!</p>
+<p>..</p>
+<p><strong>For the sensitive eye-area.</strong></p>
+<p>Removes stains that develop during tinting easily and quickly.</p>
+<p><strong>Tip</strong><br>The quicker the stain is treated the easier it's removal.</p>
+<p>Only suited for RefectoCil oxidative tints!</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338574216</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338574088</id>
+    <published>2020-06-18T21:35:35-04:00</published>
+    <updated>2020-06-18T21:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-sensitive-light-brown"/>
+    <title>Sensitive Brun Clair..Sensitive Light Brown</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-sen-lightbrown.jpg?v=1532633833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Des styles brun clair naturels!</strong></p>
+<p>Des yeux expressifs pour les regards légers! Nous recommandons Sensitive Brun Clair, surtout pour les sourcils des clients sensibles avec des cheveux brun clair ou blond, ainsi que pour les hommes qui désirent des yeux naturellement accentués.</p>
+<p>Sensible - pas de brûlure, pas d'irritations</p>
+<ul>
+<li>Première teinte de cils et sourcils à base d'extraits de plantes</li>
+<li>Application en 2 étapes et 3 minutes</li>
+<li>Anti-salissure et imperméable à l'eau</li>
+<li>Dure jusqu'à 6 semaines</li>
+</ul>
+<p>..</p>
+<p><strong>Naturally light brown styles!</strong></p>
+<p>Expressive eyes for light looks! We recommend Sensitive Light Brown especially for tinting brows of sensitive clients with light brown or blonde hair as well as for men who desire naturally emphasized eyes.</p>
+<p>Sensitive – no burning, no irritations</p>
+<ul>
+<li>First eyelash &amp; eyebrow tint based on plant extracts</li>
+<li>Application in 2 steps and 3 minutes</li>
+<li>Smudge- and waterproof</li>
+<li>Lasts up to 6 weeks</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lash-brow colour</s:tag>
+    <s:tag>sensitive</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338574088</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338574024</id>
+    <published>2020-06-18T21:35:35-04:00</published>
+    <updated>2020-06-18T21:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-sensitive-medium-brown"/>
+    <title>Sensitive Brun Moyen..Sensitive Medium Brown</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-sen-mediumbrown.jpg?v=1532633833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Des styles brun moyen naturels!</strong></p>
+<p>Un ton marron chaud pour les poils clairs! Le châtain moyen Sensitive est surtout recommandé sur les cils et les sourcils de vos clientes à la peau sensible et avec des cheveux châtains à blonds.</p>
+<p>Sensible - pas de brûlure, pas d'irritations</p>
+<ul>
+<li>Première teinte de cils et sourcils à base d'extraits de plantes</li>
+<li>Application en 2 étapes et 3 minutes</li>
+<li>Anti-salissure et imperméable à l'eau</li>
+<li>Dure jusqu'à 6 semaines</li>
+</ul>
+<p>..</p>
+<p><strong>Naturally medium brown styles!</strong></p>
+<p>Warm brown shade for light hair! Sensitive Medium Brown is especially recommended for tinting eyelashes and eyebrows of sensitive clients with blonde to light brown hair.</p>
+<p>Sensitive – no burning, no irritations</p>
+<ul>
+<li>First eyelash &amp; eyebrow tint based on plant extracts</li>
+<li>Application in 2 steps and 3 minutes</li>
+<li>Smudge- and waterproof</li>
+<li>Lasts up to 6 weeks</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lash-brow colour</s:tag>
+    <s:tag>sensitive</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338574024</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338573896</id>
+    <published>2020-06-18T21:35:35-04:00</published>
+    <updated>2020-06-18T21:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-sensitive-dark-brown"/>
+    <title>Sensitive Brun Foncé..Sensitive Dark Brown</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-sen-darkbrown.jpg?v=1532633833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Des styles brun foncé naturels!</strong></p>
+<p>Le Châtain foncé est surtout recommandé sur les cils et les sourcils de vos clientes à la peau sensible et avec des cheveux bruns.</p>
+<p>Sensible - pas de brûlure, pas d'irritations</p>
+<ul>
+<li>Première teinte de cils et sourcils à base d'extraits de plantes</li>
+<li>Application en 2 étapes et 3 minutes</li>
+<li>Anti-salissure et imperméable à l'eau</li>
+<li>Dure jusqu'à 6 semaines</li>
+</ul>
+<p>..</p>
+<p><strong>Naturally cool, dark brown styles!</strong></p>
+<p>Sensitive dark brown is especially recommended for tinting eyelashes and brows of sensitive clients with medium to dark brown hair.</p>
+<p>Sensitive – no burning, no irritations</p>
+<ul>
+<li>First eyelash &amp; eyebrow tint based on plant extracts</li>
+<li>Application in 2 steps and 3 minutes</li>
+<li>Smudge- and waterproof</li>
+<li>Lasts up to 6 weeks</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lash-brow colour</s:tag>
+    <s:tag>sensitive</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338573896</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338573768</id>
+    <published>2020-06-18T21:35:35-04:00</published>
+    <updated>2020-06-18T21:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-sensitive-black"/>
+    <title>Sensitive Noir..Sensitive Black</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-sen-black.jpg?v=1532633833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Des styles noirs naturels!</strong></p>
+<p>Le noir Sensitive va teindre les poils en douceur avec une nuance riche de noir pur. Nous vous recommandons de l’utiliser surtout pour les cils ou sur les sourcils déjà foncés de vos clientes à la peau sensible. Pour un regard séduisant!</p>
+<p>Sensible - pas de brûlure, pas d'irritations</p>
+<ul>
+<li>Première teinte de cils et sourcils à base d'extraits de plantes</li>
+<li>Application en 2 étapes et 3 minutes</li>
+<li>Anti-salissure et imperméable à l'eau</li>
+<li>Dure jusqu'à 6 semaines</li>
+</ul>
+<p>..</p>
+<p><strong>Naturally black styles!</strong></p>
+<p>Sensitive black mildly dyes every hair in a rich, pure black hue. We recommend it especially for dyeing lashes or for dark eyebrows of sensitive clients. For luscious black looks!</p>
+<p>Sensitive – no burning, no irritations</p>
+<ul>
+<li>First eyelash &amp; eyebrow tint based on plant extracts</li>
+<li>Application in 2 steps and 3 minutes</li>
+<li>Smudge- and waterproof</li>
+<li>Lasts up to 6 weeks</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lash-brow colour</s:tag>
+    <s:tag>sensitive</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338573768</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338572808</id>
+    <published>2020-06-18T21:35:35-04:00</published>
+    <updated>2020-06-18T21:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eyelash-curl"/>
+    <title>Eyelash Curl</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-curl-kit.jpg?v=1532633837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Des cils parfaitement recourbés, un regard ouvert et expressif!</strong></p>
+<p>Soyez irrésistible. L’Eyelash Curl RefectoCil va vous donner un look à couper le souffle mais toujours naturel. Il va recourber vos cils et donner un aspect plus ouvert aux yeux. Votre regard est agrandi et vous resterez parfaite tout au long de la journée!</p>
+<ul>
+<li>Une recourbe parfaite, qu’importe la longueur des cils</li>
+<li>Dure jusqu'à 6 semaines</li>
+<li>Application facile</li>
+<li>Formule nourrissante</li>
+<li>Réassort disponible</li>
+</ul>
+<p>Pour un résultat encore plus intense, faites une teinture des cils après la permanente. Le temps de pose n’est que de 2 minutes dans ce cas.</p>
+<p>..</p>
+<p><strong>Perfect curl, open &amp; expressive look!</strong></p>
+<p>Be irresistible. Eyelash Curl kit gives you a look, that’s breathtaking but natural. It curls lashes and lets eyes appear bigger. The look becomes more open and you are styled perfectly around the clock!</p>
+<ul>
+<li>Perfect curl for any lash length</li>
+<li>Lasts up to 6 weeks</li>
+<li>Simple application</li>
+<li>Nourishing formula</li>
+<li>Refills available</li>
+</ul>
+<p>For an even more intense effect, tint the lashes after curling. In this case, the application time is reduced to only two minutes.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashKit</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338572808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338574728</id>
+    <published>2020-02-03T21:26:18-05:00</published>
+    <updated>2020-02-03T21:26:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-eye-protection-papers"/>
+    <title>Protections en papier pour les yeux..Eye protection papers</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-papers.jpg?v=1532633831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les protections en papier pour les yeux RefectoCil protègent la paupière du bas des taches de teinture.</p>
+<p>40 paires</p>
+<p>..</p>
+<p>RefectoCil Eye Protection Papers protect the lower eyelids from unwanted staining.</p>
+<p>40 pairs</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LashPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338574728</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338573512</id>
+    <published>2020-02-03T16:49:55-05:00</published>
+    <updated>2020-02-03T16:49:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-red-no-4-1"/>
+    <title>No. 4.1 Rouge..No. 4.1 Red</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-tint-4-1.jpg?v=1532633834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Rouge Radieux!</strong></p>
+<p>Le n° 4.1 Rouge RefectoCil est une nuance de rouge intense, qui fait épouser les cils et les sourcils à une grande variété de couleurs de cheveux rouges et met en valeur ces styles osés pour un résultat captivant.</p>
+<ul>
+<li>Pour les cils et sourcils blonds = donne un rouge intense</li>
+<li>Pour les cils et sourcils bruns = donne un reflet rouge</li>
+<li>Peut se mélanger avec les 8 teintes RefectoCil pour y mettre un sous-ton chaud</li>
+<li>Peut se mélanger avec le Bleu Profond RefectoCil pour créer un style violet foncé</li>
+<li>Ne coule pas et résiste à l’eau</li>
+<li>Dure jusqu’à 6 semaines</li>
+</ul>
+<p>15 ml</p>
+<p>..</p>
+<p><strong>Radiant Red!</strong></p>
+<p>RefectoCil No. 4.1 Red is an intense red shade, that perfectly matches eyelashes and eyebrows to a wide variety of red hair colours and enhances daring red looks in a captivating way!</p>
+<ul>
+<li>Blonde lashes and brows = intense red</li>
+<li>Dark brown lashes and brows = red shimmer</li>
+<li>Mixable with all 8 RefectoCil tints for warm colour accents</li>
+<li>Mixable with deep blue for dark violet styles</li>
+<li>Smudge and waterproof</li>
+<li>Lasts 6 weeks</li>
+</ul>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lash-brow colour</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338573512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/9338573064</id>
+    <published>2020-02-03T16:49:55-05:00</published>
+    <updated>2020-02-03T16:49:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/refectocil-deep-blue-no-2-1"/>
+    <title>No. 2.1 Bleu Profond..No. 2.1 Deep Blue</title>
+    <s:type>Cils</s:type>
+    <s:vendor>RefectoCil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/refectocil-tint-2-1.jpg?v=1532633835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RefectoCil<br>
+        <strong>Type: </strong>Cils<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>Bleu Profond Éblouissant!</strong></p>
+<p>Le Bleu Profond est un ton bleu foncé, recommandé surtout pour les cils afin qu’ils ressortent de façon éclatante sur celles avec des cheveux blonds.&gt;</p>
+<ul>
+<li>Des cils en Bleu Profond</li>
+<li>Peut se mélanger avec le Rouge RefectoCil pour créer n’importe quel style de violet</li>
+<li>Ne coule pas et résiste à l’eau</li>
+<li>Dure jusqu’à 6 semaines</li>
+</ul>
+<p>15 ml</p>
+<p>..</p>
+<p><strong>Dazzling Deep Blue!</strong></p>
+<p>Deep Blue is an intensive dark blue tone, recommended especially for lashes, that matches blonde or light blonde looks in a dazzling way!</p>
+<ul>
+<li>Deep blue lashes</li>
+<li>Mixable with RefectoCil Red for dark violet styles</li>
+<li>Smudge and waterproof</li>
+<li>Lasts 6 weeks</li>
+</ul>
+<p>15 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lash-brow colour</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/9338573064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/apex-acrylics.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2018-01-10T11:35:20-05:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/106640965640</id>
+    <published>2018-01-10T11:35:20-05:00</published>
+    <updated>2018-01-10T11:35:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-vitaprime"/>
+    <title>VitaPrime</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/vitaprime-15ml.jpg?v=1622732673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VitaPrime is an acid based primer.</p>
+<p>Use vita prime on the natural nail of clients where nothing else works to prevent lifting and increase the performance of gel and acrylic systems.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apex</s:tag>
+    <s:tag>Couche de base</s:tag>
+    <s:tag>GelBase</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>top &amp; base</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/106640965640</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954252360</id>
+    <published>2017-03-20T14:26:00-04:00</published>
+    <updated>2017-03-20T14:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/apex-trial-kit"/>
+    <title>Ensemble d’essai acrylique Apex..Apex Acrylic Trial Kit</title>
+    <s:type>Acrylic</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/ensemble-dessai-acrylique-apex.jpg?v=1532633854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Acrylic<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>APEX établit la norme en matière de performances acryliques. La formule haute performance offre une maniabilité et un contrôle accrus et minimise le limage.</p>
+<p><strong>Comprend</strong></p>
+<ul>
+<li>AirBond,15 ml</li>
+<li>Acrylic Liquid, 4 oz</li>
+<li>Brilliant White Acrylic Power, 4.5 g</li>
+<li>Cover Pink Acrylic Power, 4.5 g</li>
+<li>Clear Acrylic Power, 4.5 g</li>
+<li>Blush Pink Acrylic Power, 4.5 g</li>
+</ul>
+<p>Utilisez ce kit avec les pinceaux APEX Acrylic Kolinsky pour tremper dans vos poudres, spécialement conçues pour être bien équilibrées.</p>
+<p>..</p>
+<p>APEX sets the standard for acrylic performance. High-performance formula provides increased workability and control and minimizes filing needs. </p>
+<p><strong>Includes</strong></p>
+<ul>
+<li>AirBond,15 ml</li>
+<li>Acrylic Liquid, 4 oz</li>
+<li>Brilliant White Acrylic Power, 4.5 g</li>
+<li>Cover Pink Acrylic Power, 4.5 g</li>
+<li>Clear Acrylic Power, 4.5 g</li>
+<li>Blush Pink Acrylic Power, 4.5 g</li>
+</ul>
+<p>Use this kit with the APEX Acrylic Kolinsky brushes to dip into your powders, specially designed to be well-balanced.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954252360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954250376</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-kolinsky-brush-12"/>
+    <title>Pinceau acrylique kolinsky #12..Kolinsky acrylic brush #12</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pinceau-acrylique-kolinsky-12.jpg?v=1532633862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Pinceau acrylique, poignée rose avec des cristaux et des poils #12 pour une performance rapide.</p>
+<ul>
+<li>Léger, bien équilibré et merveilleusement rose</li>
+<li>Poils Kolinsky non synthétique</li>
+<li>Comprend un bouchon</li>
+</ul>
+<p>..</p>
+<p>Pink rhinestone handled acrylic brush with #12 bristles for fast performance.</p>
+<ul>
+<li>Lightweight, well balanced and wonderfully pink</li>
+<li>Dip into APEX powders with maximum control</li>
+<li>Non-synthetic Kolinsky bristles</li>
+<li>Includes Cap.</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>NailBrush</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954250376</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954250312</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-kolinsky-brush-10"/>
+    <title>Pinceau acrylique kolinsky #10..Kolinsky acrylic brush #10</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pinceau-acrylique-kolinsky-10.jpg?v=1532633863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            51.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Pinceau acrylique, poignée rose avec des cristaux.</p>
+<ul>
+<li>Léger, bien équilibré et merveilleusement rose</li>
+<li>Poils Kolinsky non synthétique</li>
+<li>Comprend un bouchon</li>
+</ul>
+<p>..</p>
+<p>Pink rhinestone handled acrylic brush.</p>
+<ul>
+<li>Lightweight, well balanced and wonderfully pink</li>
+<li>Dip into APEX powders with maximum control</li>
+<li>Non-synthetic Kolinsky bristles</li>
+<li>Includes cap</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>NailBrush</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954250312</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954250248</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-kolinsky-brush-8"/>
+    <title>Pinceau acrylique kolinsky #8..Kolinsky acrylic brush #8</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pinceau-acrylique-kolinsky-8.jpg?v=1532633863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Pinceau acrylique, poignée rose avec des cristaux.</p>
+<ul>
+<li>Léger, bien équilibré et merveilleusement rose</li>
+<li>Poils Kolinsky non synthétique</li>
+<li>Comprend un bouchon</li>
+</ul>
+<p>..</p>
+<p>Pink rhinestone handled acrylic brush.</p>
+<ul>
+<li>Lightweight, well balanced and wonderfully pink</li>
+<li>Dip into APEX powders with maximum control</li>
+<li>Non-synthetic Kolinsky bristles</li>
+<li>Includes cap</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>NailBrush</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954250248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954250184</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-kolinsky-brush-6"/>
+    <title>Pinceau acrylique kolinsky #6..Kolinsky acrylic brush #6</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/pinceau-acrylique-kolinsky-6.jpg?v=1532633863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            38.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Pinceau acrylique, poignée rose avec des cristaux.</p>
+<ul>
+<li>Léger, bien équilibré et merveilleusement rose</li>
+<li>Poils Kolinsky non synthétique</li>
+<li>Comprend un bouchon</li>
+</ul>
+<p>..</p>
+<p>Pink rhinestone handled acrylic brush.</p>
+<ul>
+<li>Lightweight, well balanced and wonderfully pink</li>
+<li>Dip into APEX powders with maximum control</li>
+<li>Non-synthetic Kolinsky bristles</li>
+<li>Includes cap</li>
+</ul>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>NailBrush</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954250184</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954250120</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/apex-acrylic-liquid"/>
+    <title>Apex Liquide Acrylique..Apex Acrylic Liquid</title>
+    <s:type>Acrylic</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/apex-liquide-acrylique-118ml.jpg?v=1532633863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Acrylic<br>
+        <strong>Price: </strong>
+            19.95 - 59.95
+            <a href="https://www.beautysolution.ca/products/apex-acrylic-liquid">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>APEX Liquide Acrylique Monomère, formulé pour un contrôle maximal. Utilisez-le avec les pinceaux pour l'acrylique Kolinsky pour plonger dans vos poudres APEX.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Excellente clarté</li>
+<li>Non jaunissant</li>
+<li>Formule moins odorante</li>
+</ul>
+<p>Choisissez entre 4 oz ou 16 oz</p>
+<p>..</p>
+<p>APEX Acrylic Liquid Monomer, formulated for maximum control. Use it with APEX acrylic Kolinsky brushes to dip into your powders.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Excellent clarity</li>
+<li>Non-yellowing</li>
+<li>Less harsh-smelling formula</li>
+</ul>
+<p>Choose from 4 oz or 16 oz sizes</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Liquid</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954250120</id>
+      <title>4 oz</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>810836011640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954250120</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>810836011671</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954249992</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/apex-acrylic-powder-cover-pink"/>
+    <title>Apex Poudre Acrylique - Cover Pink..Apex Acrylic Powder - Cover Pink</title>
+    <s:type>Acrylic</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/apex-poudre-acrylique-cover-pink-45g.jpg?v=1532633864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Acrylic<br>
+        <strong>Price: </strong>
+            17.50 - 46.95
+            <a href="https://www.beautysolution.ca/products/apex-acrylic-powder-cover-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Cette acrylique Cover Pink est chatouillé rose avec perfection. Couvre les imperfections.</p>
+<p>Pour un contrôle maximal utiliser les pinceaux pour l'acrylique Kolinsky avec vos poudres APEX.</p>
+<p>Choisissez entre 45 ou 180 grammes</p>
+<p>..</p>
+<p>This acrylic cover pink powder is tickled pink with perfection. Covers blemishes.</p>
+<p>Dip into your powder with the APEX acrylic Kolinsky brushes for maximum control.</p>
+<p>Available in 45 or 180 gram sizes</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954249992</id>
+      <title>45 g</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>A05J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954249992</id>
+      <title>180 g</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>A05K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954249928</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/apex-acrylic-powder-blush-pink"/>
+    <title>Apex Poudre Acrylique - Blush Pink..Apex Acrylic Powder - Blush Pink</title>
+    <s:type>Acrylic</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/apex-poudre-acrylique-blush-pink-45g.jpg?v=1532633864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Acrylic<br>
+        <strong>Price: </strong>
+            16.95 - 46.95
+            <a href="https://www.beautysolution.ca/products/apex-acrylic-powder-blush-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vous cherchez cette teinte parfaite de rose? Cette poudre acrylique est celle que vous recherchez.</p>
+<p>Pour un contrôle maximal utiliser les pinceaux pour l'acrylique Kolinsky avec vos poudres APEX.</p>
+<p>Choisissez entre 45 ou 180 grammes</p>
+<p>..</p>
+<p>Looking for that so tint of pink? This acrylic powder is your lady.</p>
+<p>Dip into your powder with the APEX Acrylic Kolinsky brushes for maximum control.</p>
+<p>Available in 45 or 180 gram sizes</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954249928</id>
+      <title>45 g</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>A12J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954249928</id>
+      <title>180 g</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>A12K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954249864</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/apex-acrylic-powder-brilliant-white"/>
+    <title>Apex Poudre Acrylique - Brilliant White..Apex Acrylic Powder - Brilliant White</title>
+    <s:type>Acrylic</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/apex-poudre-acrylique-brilliant-white-45g.jpg?v=1532633865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Acrylic<br>
+        <strong>Price: </strong>
+            16.95 - 46.95
+            <a href="https://www.beautysolution.ca/products/apex-acrylic-powder-brilliant-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Plus brillant, hautement pigmenté, Nouveau APEX poudre Brilliant White est ici.</p>
+<p>Pour un contrôle maximal utiliser les pinceaux pour l'acrylique Kolinsky avec vos poudres APEX.</p>
+<p>Choisissez entre 45 ou 180 grammes</p>
+<p>..</p>
+<p>Brighter, highly-pigmented, New APEX Brilliant White powder is here.</p>
+<p>Dip into your powder with the APEX acrylic Kolinsky brushes for maximum control.</p>
+<p>Available in 45 or 180 gram sizes</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954249864</id>
+      <title>45 g</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>A11J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954249864</id>
+      <title>180 g</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>A11K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/8954249800</id>
+    <published>2017-03-20T14:25:00-04:00</published>
+    <updated>2017-03-20T14:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/apex-acrylic-powder-clear"/>
+    <title>Apex Poudre Acrylique - Claire..Apex Acrylic Powder - Clear</title>
+    <s:type>Acrylic</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/apex-poudre-acrylique-clear-45g.jpg?v=1532633865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Acrylic<br>
+        <strong>Price: </strong>
+            16.95 - 46.95
+            <a href="https://www.beautysolution.ca/products/apex-acrylic-powder-clear">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Cette poudre acrylique cristalline a une vitesse plus rapide avec un grand équilibre.</p>
+<p>Pour un contrôle maximal utiliser les pinceaux pour l'acrylique Kolinsky avec vos poudres APEX.</p>
+<p>Choisissez entre 45 ou 180 grammes</p>
+<p>..</p>
+<p>This crystal clear acrylic powder has a faster speed with great balance.</p>
+<p>Dip into your powder with the APEX acrylic Kolinsky brushes for maximum control.</p>
+<p>Available in 45 or 180 gram sizes</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954249800</id>
+      <title>45 g</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>A00J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/8954249800</id>
+      <title>180 g</title>
+      <s:price currency="CAD">46.95</s:price>
+      <s:sku>A00K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1522883690549</id>
+    <published>2015-10-21T21:50:00-04:00</published>
+    <updated>2015-10-21T21:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/lepro-c-curve-pincher"/>
+    <title>Pince courbée..C curve pincher</title>
+    <s:type>Instruments</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/c_curve_pinch.jpg?v=1550090339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Instruments<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Utilisez le LEpro C Curve Pincher pour créer une forme parfaite lors de la sculpture des extensions en gel ou acrylique.</p>
+<p>..</p>
+<p>Use the LEpro C Curve Pincher to create perfect shape when sculpting gel or acrylic enhancements.</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic</s:tag>
+    <s:tag>AllTools</s:tag>
+    <s:tag>Apex</s:tag>
+    <s:tag>Extensions</s:tag>
+    <s:tag>LEpro</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>MustHave</s:tag>
+    <s:tag>NailTool</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1522883690549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>U309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

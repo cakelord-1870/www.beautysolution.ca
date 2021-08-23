@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/stamping.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-01-07T05:57:11-05:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722224218165</id>
+    <published>2021-01-07T05:57:11-05:00</published>
+    <updated>2021-01-07T05:57:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-polish-63-scarlet-letter"/>
+    <title>#63 Scarlet Letter - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/63.jpg?v=1527082748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté rouge chatoyant.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented shimmery red stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722224218165</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722224119861</id>
+    <published>2021-01-07T05:56:58-05:00</published>
+    <updated>2021-01-07T05:56:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-polish-62-vixen"/>
+    <title>#62 Vixen - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/62.jpg?v=1626811636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté rouge avec un soupçon d'orange.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented red with a hint of orange stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722224119861</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722224021557</id>
+    <published>2021-01-07T05:56:43-05:00</published>
+    <updated>2021-01-07T05:56:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-polish-61-glitzy-evergreen"/>
+    <title>#61 Glitzy Evergreen - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/61.jpg?v=1626811417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté vert brillant.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented sparkly green stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722224021557</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722222678069</id>
+    <published>2021-01-07T05:54:25-05:00</published>
+    <updated>2021-01-07T05:54:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-42-slate-gray"/>
+    <title>#42 Slate Gray - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/42_b63606ee-f0db-41f3-87a0-9d2173f45132.jpg?v=1527082337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté gris foncé.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented dark grey stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey</s:tag>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722222678069</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722222415925</id>
+    <published>2021-01-07T05:54:00-05:00</published>
+    <updated>2021-01-07T05:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-39-teal-or-no-deal"/>
+    <title>#39 Teal or no Deal! - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/39.jpg?v=1527082249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté bleu/vert.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented blue/green stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722222415925</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722222317621</id>
+    <published>2021-01-07T05:53:46-05:00</published>
+    <updated>2021-01-07T05:53:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-38-mystic-moss"/>
+    <title>#38 Mystic Moss - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/38.jpg?v=1527082231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté vert olive.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented olive green stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722222317621</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722222121013</id>
+    <published>2021-01-07T05:53:22-05:00</published>
+    <updated>2021-01-07T05:53:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-36-midnight-rendezvous"/>
+    <title>#36 Midnight Rendezvous - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/36.jpg?v=1527082179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté bleu sombre.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented moody blue stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722222121013</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722221957173</id>
+    <published>2021-01-07T05:53:04-05:00</published>
+    <updated>2021-01-07T05:53:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-34-angelic-white"/>
+    <title>#34 Angelic White - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/34.jpg?v=1527082126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté blanc chatoyant.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented shimmery white stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722221957173</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722221695029</id>
+    <published>2021-01-07T05:52:38-05:00</published>
+    <updated>2021-01-07T05:52:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-31-you-had-me-at-chocolate"/>
+    <title>#31 You Had Me at Chocolate - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/31.jpg?v=1527082028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté brun cacao.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented cocoa brown stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brown</s:tag>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722221695029</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722220908597</id>
+    <published>2021-01-07T05:51:24-05:00</published>
+    <updated>2021-01-07T05:51:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-22-clementine"/>
+    <title>#22 Clementine - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/22.jpg?v=1527081825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté orange vif.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented bright orange stamping polish.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orange</s:tag>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722220908597</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722220449845</id>
+    <published>2021-01-07T05:50:25-05:00</published>
+    <updated>2021-01-07T05:50:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-16-shiraz"/>
+    <title>#16 Shiraz! - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/16.jpg?v=1527041522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté violet, contrairement au vin, nous vous déconseillons de le boire.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented purple stamping polish unlike wine, we recommend you don't drink this.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722220449845</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722219860021</id>
+    <published>2021-01-07T05:49:18-05:00</published>
+    <updated>2021-01-07T05:49:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-8-you-are-my-sunshine"/>
+    <title>#08 You are my Sunshine - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/08.jpg?v=1527038599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté jaune clair vous fera chanter; "Tu es mon rayon de soleil, mon seul rayon de soleil…"</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented light yellow stamping polish will have you singing; "you are my sunshine, my only sunshine…"</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722219860021</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722219106357</id>
+    <published>2021-01-07T05:48:32-05:00</published>
+    <updated>2021-01-07T05:48:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-3-all-that-glitters"/>
+    <title>#03 All that Glitters - Nail Stamping Color</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/03.jpg?v=1527038337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vernis d'estampage généreusement pigmenté en or, qui prouve que tout ce qui brille est l'or.</p>
+<p>Disponible en bouteille 5 ml.</p>
+<ul>
+<li>Pinceau applicateur</li>
+<li>Formule "Sans 5"</li>
+</ul>
+<p><strong>"Sans-5" est une chose merveilleuse!</strong><br>SANS CAMPHRE, SANS PHTALATE DE DIBUTYLE, SANS FORMALDÉHYDE, SANS RÉSINE DE FORMALDÉHYDE, SANS TOLUÈNE</p>
+<p>..</p>
+<p>Generously pigmented gold stamping polish that proves that all that glitters is gold.</p>
+<p>Available in 5 ml bottle.</p>
+<ul>
+<li>Brush applicator</li>
+<li>"5 Free" formula</li>
+</ul>
+<p><strong>"5-Free" is a wonderful thing!</strong><br>NO CAMPHOR, NO DIBUTYL PHTHALATE, NO FORMALDEHYDE, NO FORMALDEHYDE RESIN, NO TOLUENE</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gold</s:tag>
+    <s:tag>Polish</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamp-Polish</s:tag>
+    <s:tag>StampPolish</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722219106357</id>
+      <title>5 ml</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4937083256885</id>
+    <published>2020-12-24T15:55:43-05:00</published>
+    <updated>2020-12-24T15:55:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-155"/>
+    <title>Wish Upon a Flower (CJS-155)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/155.jpg?v=1606752815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dandelions blowing in the breeze… Make a Wish!</p>
+<p>8 x 8 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4937083256885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.75</s:price>
+      <s:sku>2155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4937080307765</id>
+    <published>2020-12-24T15:54:33-05:00</published>
+    <updated>2020-12-24T15:54:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-lc-46"/>
+    <title>Vintage Steampunk (CJS LC-46)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/LC-46.jpg?v=1606752595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Have a difficult time getting actual gears? Find them tedious to inlay when you do? Along with our beautiful friend Chantel Joy from @ChantelJoy_infinity, we have created a really fun solution! Now you can stamp stunning layered creations with our new Steampunk collaborative plate!</p>
+<p>14.5 x 9.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>largeplate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4937080307765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>2046LC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097878220971</id>
+    <published>2020-11-30T14:37:17-05:00</published>
+    <updated>2020-11-30T14:37:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-stamper-bling-cubed"/>
+    <title>Bling Cubed Stamper</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/BlingCubed-1.jpg?v=1606764995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>♥<strong> NO MORE GUESSWORK</strong> – The Bling - cubed allows you to see where you stamp so you can accurately place nail art images on your fingernail.</p>
+<p>♥ <strong>CAN’T DRAW OR PAINT</strong> – no problem! With the Clear Jelly Stamper system, you can be creative without an art degree!</p>
+<p>♥ <strong>NEED A FUN NEW HOBBY?</strong> – Nail art stamping can give you a fun and rewarding hobby. Hobbies can make you feel good and can relieve stress.</p>
+<p>♥ <strong>CONFIDENCE BOOSTER</strong> – displaying your beautiful fingernails can be a real boost to your confidence, and your friends will be very impressed with your creative skills.</p>
+<p>♥ <strong>GREAT WAY TO SPEND TIME</strong> – Nail art stamping is an excellent pastime to share with friends and family, but don’t forget the children in your life, they love playing with nail art. Even elderly people can also benefit from having fun nails to brighten their day.</p>
+<p>The Bling – cubed is all about seeing where you stamp. #seewhereyoustamp. Seeing where you stamp, makes it easier to line-up nail art images on the fingernail. The Bling Cubed is our large clear jumbo stamper designed for people who want full coverage nail art images on the fingernail. But, don’t let that throw you off, this stamper is a great all-around stamper and is appropriate for small or large nail art. This jumbo stamper comes with protective caps and is adorned with crystal bling. The end caps protect your stamping head and act as a handy way to hold your stamper upright on your table. The base cap is adorned with bling and contains an extra stamping head. That’s a bonus because you have a backup stamper head and your stamper also looks great on your work surface!</p>
+<p><strong>What you get</strong></p>
+<ul>
+<li>1 Stamper</li>
+<li>2 Protective End Caps</li>
+<li>1 Extra Jelly Stamping Head</li>
+<li>Credit Card Style Scraper</li>
+</ul>
+<p>H- 6 cm x L- 4 cm x W- 3 cm</p>
+<p>*For best results, use CJS stamping polish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>Stamper</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097878220971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku>1007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097903288491</id>
+    <published>2020-11-30T11:05:19-05:00</published>
+    <updated>2020-11-30T11:05:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-c-30"/>
+    <title>Painted Snowflakes (CJS C-30)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/C-30.jpg?v=1606752266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Do you love the look of hand-painted snowflakes but, like most of us, lack the skills to create the look… nevermind quickly?</p>
+<p>Your worries are over then… we GOT you!</p>
+<p>This gorgeous layered plate was designed to look hand-painted… just select your colour scheme and GO!</p>
+<p>14.5 x 9.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>largeplate</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097903288491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>2030C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097695965355</id>
+    <published>2020-11-30T10:59:20-05:00</published>
+    <updated>2020-11-30T10:59:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-c-44"/>
+    <title>Oh Christmas Tree (CJS C-44)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/C-44.jpg?v=1606751949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oh, Christmas Tree! This gorgeous little plate is packed with a generous collection of pretty little festive trees!</p>
+<p>8 x 8 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097695965355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.75</s:price>
+      <s:sku>2044C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097897816235</id>
+    <published>2020-11-30T10:54:17-05:00</published>
+    <updated>2020-11-30T10:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-c-19"/>
+    <title>Merry Christmas My Deer (CJS C-19)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/C-19.jpg?v=1606751608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This delicate ode to Christmas boasts beautiful poinsettias, roses, a tiny deer and of course, snowflakes! This is the plate that was featured in Suzie's new Nail Magazine!</p>
+<p>14.5 x 9.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>largeplate</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097897816235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>2019C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097893228715</id>
+    <published>2020-11-30T10:46:18-05:00</published>
+    <updated>2020-11-30T10:46:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-c-24"/>
+    <title>In the Frosty Air (CJS C-24)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/C-24.jpg?v=1606751154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Snowflakes…</p>
+<p>Layered snowflakes = multi-coloured snowflakes. Such a pretty addition to any winter mani. Add a few, add just one or… completely cover a nail or two with our full coverage layered images! Endless opportunity for beautiful icy manis!</p>
+<p>14.5 x 9.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>largeplate</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097893228715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>2024C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097888936107</id>
+    <published>2020-11-30T10:15:25-05:00</published>
+    <updated>2020-11-30T10:15:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-144"/>
+    <title>Frosted (CJS-144)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/144.jpg?v=1606749301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delicate &amp; delightful. Beautifully layered snowflakes to make any winter mani sparkle!</p>
+<p>14.5 x 9.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>largeplate</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097888936107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>2144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097691345067</id>
+    <published>2020-11-30T10:05:46-05:00</published>
+    <updated>2020-11-30T10:05:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-c-29"/>
+    <title>Christmas Express (CJS C-29)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/C-29_f0a86f83-950e-4815-bd6c-e983cffab654.jpg?v=1606748734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SO many beautiful &amp; fun sayings this time of year. Why not share them on your next holiday mani?! Adorable images to accompany your message...</p>
+<p>Were you... Naughty? Nice?</p>
+<p>"Santa... I can Explain!" (Mmmmm hmmmm... can you? Really?) ;)</p>
+<p>"I can't, Santa's Watching". Well of course he is! He's always watching!</p>
+<p>All is Calm, All is Bright, Let it Snow and many more...</p>
+<p>We can't wait to see what you create with this fun Christmas plate!</p>
+<p>14.5 x 9.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>largeplate</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097691345067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>2029C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6097885298859</id>
+    <published>2020-11-30T09:56:57-05:00</published>
+    <updated>2020-11-30T09:56:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-c-21"/>
+    <title>Baubles &amp; Bells (CJS C-21)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/C-21.jpg?v=1606748171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twirls at Christmas? Absolutely!</p>
+<p>An adorable Deer with twirly antlers honestly takes your Christmas mani to twirly new heights! Match with candy stripes and full coverage swirls... So may fun layerable images!</p>
+<p>14.5 x 9.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>largeplate</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6097885298859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>2021C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722234703925</id>
+    <published>2020-11-25T18:03:58-05:00</published>
+    <updated>2020-11-25T18:03:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-c-10"/>
+    <title>Under the Mistletoe (CJS C-10)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/C-10.jpg?v=1527086495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's time to decorate for Christmas! Pull out the tree and cover it with pretty sparkly things. Stoke the fire in the fireplace and get those stockings ready for Santa! This adorable, fun plate in collaboration with our friend Alle at UpaDaisyNails. Her creativity is inspiring and we are thrilled to have a Christmas design to add to her collection of CJS Layered stamping plates!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>largeplate</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722234703925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>CJS C-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/722231099445</id>
+    <published>2020-11-25T17:56:45-05:00</published>
+    <updated>2020-11-25T17:56:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/cjs-plate-c-18"/>
+    <title>Let It Snow (CJS C-18)</title>
+    <s:type>Stamping</s:type>
+    <s:vendor>Clear Jelly Stamper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/C-18.jpg?v=1527084573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clear Jelly Stamper<br>
+        <strong>Type: </strong>Stamping<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A snowflake lovers dream plate! Layer… or not, it's up to you! This delicate plate will light up your icy manis with the wonder of winter!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>largeplate</s:tag>
+    <s:tag>Plate</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/722231099445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>CJS C-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

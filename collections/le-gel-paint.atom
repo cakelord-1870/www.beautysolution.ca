@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/le-gel-paint.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2019-09-17T13:59:54-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099970269237</id>
+    <published>2019-09-17T13:59:54-04:00</published>
+    <updated>2019-09-17T13:59:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-primary-black"/>
+    <title>Gel Paint - Primary Black</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-primary-black.jpg?v=1568743232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Noir Primaire</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099970269237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099967385653</id>
+    <published>2019-09-17T13:58:17-04:00</published>
+    <updated>2019-09-17T13:58:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-primary-white"/>
+    <title>Gel Paint - Primary White</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-primary-white.jpg?v=1568743139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Blanc Primaire</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099967385653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099964928053</id>
+    <published>2019-09-17T13:57:01-04:00</published>
+    <updated>2019-09-17T13:57:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-primary-red"/>
+    <title>Gel Paint - Primary Red</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-primary-red.jpg?v=1568743050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Rouge Primaire</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099964928053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099956834357</id>
+    <published>2019-09-17T13:53:35-04:00</published>
+    <updated>2019-09-17T13:53:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-primary-blue"/>
+    <title>Gel Paint - Primary Blue</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-primary-blue.jpg?v=1568742905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Bleu Primaire</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099956834357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099952836661</id>
+    <published>2019-09-17T13:51:37-04:00</published>
+    <updated>2019-09-17T13:51:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-primary-green"/>
+    <title>Gel Paint - Primary Green</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-primary-green.jpg?v=1568742764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vert Primaire</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099952836661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099940057141</id>
+    <published>2019-09-17T13:45:40-04:00</published>
+    <updated>2019-09-17T13:45:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-primary-yellow"/>
+    <title>Gel Paint - Primary Yellow</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-primary-yellow.jpg?v=1568742577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Jaune Primaire</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099940057141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099937173557</id>
+    <published>2019-09-17T13:44:03-04:00</published>
+    <updated>2019-09-17T13:44:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-pastel-blue"/>
+    <title>Gel Paint - Pastel Blue</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-pastel-blue.jpg?v=1568742271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Bleu Pastel</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099937173557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099935010869</id>
+    <published>2019-09-17T13:42:38-04:00</published>
+    <updated>2019-09-17T13:42:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-pastel-green"/>
+    <title>Gel Paint - Pastel Green</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-pastel-green.jpg?v=1568742205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vert Pastel</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099935010869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099931373621</id>
+    <published>2019-09-17T13:40:38-04:00</published>
+    <updated>2019-09-17T13:40:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-pastel-yellow"/>
+    <title>Gel Paint - Pastel Yellow</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-pastel-yellow.jpg?v=1568742105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Jaune Pastel</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099931373621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099925737525</id>
+    <published>2019-09-17T13:37:32-04:00</published>
+    <updated>2019-09-17T13:37:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-pastel-pink"/>
+    <title>Gel Paint - Pastel Pink</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-pastel-pink.jpg?v=1568741936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Rose Pastel</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099925737525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099913678901</id>
+    <published>2019-09-17T13:32:14-04:00</published>
+    <updated>2019-09-17T13:32:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-pastel-purple"/>
+    <title>Gel Paint - Pastel Purple</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-pastel-purple.jpg?v=1568741572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Mauve Pastel</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099913678901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099910860853</id>
+    <published>2019-09-17T13:30:35-04:00</published>
+    <updated>2019-09-17T13:30:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-pastel-orange"/>
+    <title>Gel Paint - Pastel Orange</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-pastel-orange.jpg?v=1568741509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Orange Pastel</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099910860853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099899949109</id>
+    <published>2019-09-17T13:24:37-04:00</published>
+    <updated>2019-09-17T13:24:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-neon-purple"/>
+    <title>Gel Paint - Neon Purple</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-neon-purple.jpg?v=1568741157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Mauve Néon</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099899949109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099896836149</id>
+    <published>2019-09-17T13:22:46-04:00</published>
+    <updated>2019-09-17T13:22:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-neon-pink"/>
+    <title>Gel Paint - Neon Pink</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-neon-pink.jpg?v=1568740994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Rose Néon</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099896836149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099886252085</id>
+    <published>2019-09-17T13:17:03-04:00</published>
+    <updated>2019-09-17T13:17:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-neon-orange"/>
+    <title>Gel Paint - Neon Orange</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-neon-orange.jpg?v=1568740787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Orange Néon</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099886252085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099883696181</id>
+    <published>2019-09-17T13:15:38-04:00</published>
+    <updated>2019-09-17T13:15:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-neon-yellow"/>
+    <title>Gel Paint - Neon Yellow</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-neon-yellow.jpg?v=1568740570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Jaune Néon</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099883696181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4099871506485</id>
+    <published>2019-09-17T13:09:29-04:00</published>
+    <updated>2019-09-17T13:09:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-neon-green"/>
+    <title>Gel Paint - Neon Green</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-neon-green.jpg?v=1568740335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Vert Néon</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4099871506485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4093843767349</id>
+    <published>2019-09-16T21:52:35-04:00</published>
+    <updated>2019-09-16T21:52:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-neon-blue"/>
+    <title>Gel Paint - Neon Blue</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-neon-blue.jpg?v=1568685382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Blue Néon</p>
+<p>6 ml</p>
+<p>..</p>
+<p>6 ml</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4093843767349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1513187934261</id>
+    <published>2016-08-10T09:26:00-04:00</published>
+    <updated>2016-08-10T09:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-primary"/>
+    <title>Ensemble de peintures gel primaire..Gel Paint Kit - Primary</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-primary_09b93bf2-680b-41d7-bbc8-75c35a999340.jpg?v=1548990123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Hautement pigmenté pour offrir une excellente couverture sur les améliorations d'ongles existantes. LE Gel Paints peut être utilisé pour les manucures détaillées de nail art et aussi comme vernis qui couvre en une seule couche.</p>
+<p>(6) 6 ml de peintures gel</p>
+<p><strong>Comprend</strong><br>bleu primaire | jaune primaire | blanc primaire | rouge primaire | vert primaire | noir primaire</p>
+<p>..</p>
+<p>Highly pigmented to provide excellent coverage over existing enhancements. LE Gel Paints can be used for detailed nail art designs and also as a polish with one coat coverage.</p>
+<p>(6) 6 ml of gel paints</p>
+<p><strong>Includes</strong><br>primary blue | primary yellow | primary white | primary red | primary green | primary black</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1513187934261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1513177153589</id>
+    <published>2016-08-10T09:26:00-04:00</published>
+    <updated>2016-08-10T09:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-neon"/>
+    <title>Ensemble de peintures gel néon..Gel Paint Kit - Neon</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-neon.jpg?v=1548988339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Hautement pigmenté pour offrir une excellente couverture sur les améliorations d'ongles existantes. LE Gel Paints peut être utilisé pour les manucures détaillées de nail art et aussi comme vernis qui couvre en une seule couche.</p>
+<p>(6) 6 ml de peintures gel</p>
+<p><strong>Comprend</strong><br>bleu neon | vert neon | jaune neon | orange neon | rose neon | violet neon</p>
+<p>..</p>
+<p>Highly pigmented to provide excellent coverage over existing enhancements. LE Gel Paints can be used for detailed nail art designs and also as a polish with one coat coverage.</p>
+<p>(6) 6 ml of gel paints</p>
+<p><strong>Includes</strong><br>neon blue | neon green | neon yellow | neon orange | neon pink | neon purple</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1513177153589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1513176203317</id>
+    <published>2016-08-10T09:26:00-04:00</published>
+    <updated>2016-08-10T09:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/light-elegance-gel-paint-pastel"/>
+    <title>Ensemble de peintures gel pastel..Gel Paint Kit - Pastel</title>
+    <s:type>Gel</s:type>
+    <s:vendor>Light Elegance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gel-paint-pastel.jpg?v=1548988076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Light Elegance<br>
+        <strong>Type: </strong>Gel<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Hautement pigmenté pour offrir une excellente couverture sur les améliorations d'ongles existantes. LE Gel Paints peut être utilisé pour les manucures détaillées de nail art et aussi comme vernis qui couvre en une seule couche.</p>
+<p>(6) 6 ml de peintures gel</p>
+<p><strong>Comprend</strong><br>vert pastel | jaune pastel | violet pastel | orange pastel | rose pastel | bleu pastel</p>
+<p>..</p>
+<p>Highly pigmented to provide excellent coverage over existing enhancements. LE Gel Paints can be used for detailed nail art designs and also as a polish with one coat coverage.</p>
+<p>(6) 6 ml of gel paints</p>
+<p><strong>Includes</strong><br>pastel green | pastel yellow | pastel purple | pastel orange | pastel pink | pastel blue</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>GelJar</s:tag>
+    <s:tag>GelPaint</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>LEnailart</s:tag>
+    <s:tag>LEROCKS</s:tag>
+    <s:tag>Nail Art</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1513176203317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

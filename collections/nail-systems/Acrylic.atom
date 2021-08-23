@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/nail-systems.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2021-08-01T06:00:01-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6880440320171</id>
+    <published>2021-08-01T06:00:01-04:00</published>
+    <updated>2021-08-01T06:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-dip-powder-collection-baby-boomer-fade"/>
+    <title>Dip Collection - Baby Boomer Fade</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/Collection-babyboomerfade.jpg?v=1627668097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            52.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>NOUVELLE collection Baby Boomer Fade pour un dégradé avec un «nude» pour chaque teint. Comprend un blanc et 6 nuances de rose pour une correspondance parfaite des tons de peau clairs à foncés.</p>
+<p>Obtenez un dégradé doux est facile et rapide avec les poudres à tremper «dip powder»!</p>
+<p>(7) pots de 22 grammes</p>
+<p><strong>Comprend</strong><br>Charmeuse | Pink | Fluff | Intense Pink | Extreme Pink | Classy | Pantone</p>
+<p>..</p>
+<p>NEW Baby Boomer Fade collection with a nude for every complexion. Includes one white and 6 shades of pink for the perfect match from fair to deep skin tones.</p>
+<p>Achieving a soft fade is so easy and fast with dip powders!</p>
+<p>(7) individual 22 gram jars</p>
+<p><strong>Includes</strong><br>Charmeuse | Pink | Fluff | Intense Pink | Extreme Pink | Classy | Pantone</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AUG</s:tag>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>FLYER</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>NewInNails</s:tag>
+    <s:tag>nude</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6880440320171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543705771</id>
+    <published>2021-04-09T16:29:00-04:00</published>
+    <updated>2021-04-09T16:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-vivi"/>
+    <title>Dip Powder - Vivi</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/064-vivi.jpg?v=1617048193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543705771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP64</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543279787</id>
+    <published>2021-04-09T16:29:00-04:00</published>
+    <updated>2021-04-09T16:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-transmissible"/>
+    <title>Dip Powder - Transmissible</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/226-transmissible.jpg?v=1617048143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543279787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543083179</id>
+    <published>2021-04-09T16:29:00-04:00</published>
+    <updated>2021-04-09T16:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-watermelon"/>
+    <title>Dip Powder - Watermelon</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/389-watermelon.jpg?v=1617048220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p>
+<p>22 grammes</p>
+<p>..</p>
+<p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p>
+<p>22 gram jar</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543083179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591542689963</id>
+    <published>2021-04-09T16:29:00-04:00</published>
+    <updated>2021-04-09T16:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-try-me"/>
+    <title>Dip Powder - Try me!</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/C14-tryme.jpg?v=1617048169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591542689963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIPC14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591542460587</id>
+    <published>2021-04-09T16:28:59-04:00</published>
+    <updated>2021-04-09T16:28:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-white-nights"/>
+    <title>Dip Powder - White nights</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/F8-whitenights.jpg?v=1617048241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591542460587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIPF8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591542231211</id>
+    <published>2021-04-09T16:28:59-04:00</published>
+    <updated>2021-04-09T16:28:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-taupe"/>
+    <title>Dip Powder - Taupe</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/F11-taupe.jpg?v=1617048025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591542231211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIPF11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543935147</id>
+    <published>2021-04-09T16:28:49-04:00</published>
+    <updated>2021-04-09T16:28:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-simulation"/>
+    <title>Dip Powder - Simulation</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/B815-simulation.jpg?v=1617047787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543935147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>B815</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543902379</id>
+    <published>2021-04-09T16:28:48-04:00</published>
+    <updated>2021-04-09T16:28:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-rose-gold"/>
+    <title>Dip Powder - Rose gold</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/B817-rosegold.jpg?v=1617047635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543902379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>B817</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543804075</id>
+    <published>2021-04-09T16:28:48-04:00</published>
+    <updated>2021-04-09T16:28:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-fluff"/>
+    <title>Dip Powder - Fluff</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/030-fluff.jpg?v=1617046975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>nude</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543804075</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543738539</id>
+    <published>2021-04-09T16:28:48-04:00</published>
+    <updated>2021-04-09T16:28:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-enchantress"/>
+    <title>Dip Powder - Enchantress</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/050-enchantress.jpg?v=1617046893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543738539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543640235</id>
+    <published>2021-04-09T16:28:47-04:00</published>
+    <updated>2021-04-09T16:28:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-irreparable"/>
+    <title>Dip Powder - Irreparable</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/065-irreparable.jpg?v=1617047092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543640235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543574699</id>
+    <published>2021-04-09T16:28:47-04:00</published>
+    <updated>2021-04-09T16:28:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-carpe-diem"/>
+    <title>Dip Powder - Carpe diem</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/067-carpediem.jpg?v=1617046457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543574699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543509163</id>
+    <published>2021-04-09T16:28:47-04:00</published>
+    <updated>2021-04-09T16:28:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-pure-red"/>
+    <title>Dip Powder - Pure red</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/089-purered.jpg?v=1617047604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543509163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP89</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543476395</id>
+    <published>2021-04-09T16:28:46-04:00</published>
+    <updated>2021-04-09T16:28:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-charmeuse"/>
+    <title>Dip Powder - Charmeuse</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/121-charmeuse.jpg?v=1617046538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>nude</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543476395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543443627</id>
+    <published>2021-04-09T16:28:46-04:00</published>
+    <updated>2021-04-09T16:28:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-dark-secret"/>
+    <title>Dip Powder - Dark secret</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/126-darksecret.jpg?v=1617046755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543443627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP126</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543410859</id>
+    <published>2021-04-09T16:28:46-04:00</published>
+    <updated>2021-04-09T16:28:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-black"/>
+    <title>Dip Powder - Black</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/147-black.jpg?v=1617046401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543410859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543378091</id>
+    <published>2021-04-09T16:28:45-04:00</published>
+    <updated>2021-04-09T16:28:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-bite-me"/>
+    <title>Dip Powder - Bite me</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/150-biteme.jpg?v=1617046369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543378091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543345323</id>
+    <published>2021-04-09T16:28:45-04:00</published>
+    <updated>2021-04-09T16:28:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-lilac-blue"/>
+    <title>Dip Powder - Lilac blue</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/191-lilacblue.jpg?v=1617047173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543345323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543312555</id>
+    <published>2021-04-09T16:28:45-04:00</published>
+    <updated>2021-04-09T16:28:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-esmerelda"/>
+    <title>Dip Powder - Esmerelda</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/224-esmerelda.jpg?v=1617046919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>violet</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543312555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543247019</id>
+    <published>2021-04-09T16:28:44-04:00</published>
+    <updated>2021-04-09T16:28:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-intrepid"/>
+    <title>Dip Powder - Intrepid</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/247-intrepid.jpg?v=1617047064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543247019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP247</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543214251</id>
+    <published>2021-04-09T16:28:44-04:00</published>
+    <updated>2021-04-09T16:28:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-la-vie-est-belle"/>
+    <title>Dip Powder - La vie est belle</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/253-lavieestbelle.jpg?v=1617047116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543214251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP253</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543181483</id>
+    <published>2021-04-09T16:28:44-04:00</published>
+    <updated>2021-04-09T16:28:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-boa"/>
+    <title>Dip Powder - Boa</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/257-boa.jpg?v=1617046430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543181483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543148715</id>
+    <published>2021-04-09T16:28:43-04:00</published>
+    <updated>2021-04-09T16:28:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-dragonfly"/>
+    <title>Dip Powder - Dragonfly</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/264-dragonfly.jpg?v=1617046800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543148715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP264</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/6591543115947</id>
+    <published>2021-04-09T16:28:43-04:00</published>
+    <updated>2021-04-09T16:28:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/glam-nails-resin-dip-love-wins"/>
+    <title>Dip Powder - Love wins</title>
+    <s:type>Résine</s:type>
+    <s:vendor>Glam Nails</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/385-lovewins.jpg?v=1617047236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glam Nails<br>
+        <strong>Type: </strong>Résine<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p><p>Poudre pour les ongles conçue pour de la résine. Ultra fin et extrêmement facile à travailler.</p><p>22 grammes</p><p>..</p><p>Dip powder for resin nails. Ultra fine and extremely easy to work with.</p><p>22 gram jar</p><p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DipPowder</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/6591543115947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DIP385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

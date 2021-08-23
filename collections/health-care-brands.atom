@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beautysolution.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beautysolution.ca/collections/health-care-brands.atom"/>
+  <title>Beauty Solution | Solution Beauté</title>
+  <updated>2020-06-02T20:40:12-04:00</updated>
+  <author>
+    <name>Beauty Solution | Solution Beauté</name>
+  </author>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4589186646069</id>
+    <published>2020-06-02T20:40:12-04:00</published>
+    <updated>2020-06-02T20:40:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/alliance-table-paper-smooth"/>
+    <title>Papier de table lisse..Table paper smooth</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Alliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/paper-smooth_346020ed-abac-43ec-b1a5-06c47133c001.jpg?v=1593695032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alliance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            6.95 - 65.95
+            <a href="https://www.beautysolution.ca/products/alliance-table-paper-smooth">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Idéalement disponible en rouleaux, le papier est facilement éliminé/remplacé pour protéger contre la contamination et maintenir un environnement de travail propre.</p>
+<p>21 pouces x 225 pieds</p>
+<p>..</p>
+<p>Conveniently available in rolls, the paper is easily discarded/replaced to help protect against contamination and maintain a clean work environment.</p>
+<p>21 inches x 225 feet</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4589186646069</id>
+      <title>Unité..Single</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>211-P750021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4589186646069</id>
+      <title>Paquet (3)..Pack (3)</title>
+      <s:price currency="CAD">17.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4589186646069</id>
+      <title>Boite (12)..Box (12)</title>
+      <s:price currency="CAD">65.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/4562423513141</id>
+    <published>2020-05-14T10:00:24-04:00</published>
+    <updated>2020-05-14T10:00:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/alliance-disposable-shoe-covers"/>
+    <title>Couvre-chaussures en tissu..Disposable shoe covers</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Alliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/shoecovers.jpg?v=1589502301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alliance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Les couvre-chaussures antidérapants haut de gamme offrent d'excellentes caractéristiques de sécurité conçues pour maintenir un environnement stérile. Ces couvre-chaussures jetables offrent une meilleure traction sur la semelle pour une plus grande stabilité. Fabriqué à partir d'un matériau filé-lié polyvalent sans latex.</p>
+<p><strong>Avantages</strong></p>
+<ul>
+<li>Dessous texturé et antidérapant</li>
+<li>Non conducteur</li>
+<li>Fabriqué avec du polypropylène filé-lié</li>
+<li>Résistant à la déchirure grâce à la couture renforcée</li>
+<li>Sans latex</li>
+</ul>
+<p>100 couvre-chaussures</p>
+<p>..</p>
+<p>Premium Non-Skid Shoe Covers offer excellent safety features designed help maintain a sterile environment. These disposable shoe covers offer enhanced traction on the sole for greater stability. Made from a versatile spun-bound latex-free material.</p>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Textured, non-slip bottom</li>
+<li>Non-conductive</li>
+<li>Made with spun-bond polypropylene</li>
+<li>Tear resistant thanks to reinforced stitching</li>
+<li>Latex free</li>
+</ul>
+<p>100 covers</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/4562423513141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1913516868</id>
+    <published>2018-11-13T10:20:54-05:00</published>
+    <updated>2018-11-13T10:20:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/alliance-non-woven-sponges"/>
+    <title>Compresses non-tissées..Non-woven sponges</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Alliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/gauze_2-2.jpg?v=1626897392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alliance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            3.95 - 9.95
+            <a href="https://www.beautysolution.ca/products/alliance-non-woven-sponges">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Gaze tout-usage, non-stériles. Disponible en carrés de 2" ou 4".</p>
+<p>2" x 2" - 4 plis - 200 unités</p>
+<p>4" x 4" - 4 plis - 200 unités</p>
+<p>..</p>
+<p>General purpose gauze, non-sterile. Available in 2" or 4" squares.</p>
+<p>2" x 2" - 4 ply - 200 units</p>
+<p>4" x 4" - 4 ply - 200 units</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913516868</id>
+      <title>2&quot; x 2&quot;</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>211-94122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913516868</id>
+      <title>4&quot; x 4&quot;</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>211-94144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1465784500277</id>
+    <published>2018-10-30T21:44:42-04:00</published>
+    <updated>2018-10-30T21:44:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/amd-non-woven-sponges"/>
+    <title>Compresses non-tissées..Non-woven sponges</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>AMD-Ritmed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/AMD-gauze-2.jpg?v=1626897316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AMD-Ritmed<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            3.95 - 9.95
+            <a href="https://www.beautysolution.ca/products/amd-non-woven-sponges">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Gaze tout-usage, non-stériles. Disponible en carrés de 2" ou 4".</p>
+<p>2" x 2" - 4 plis - 200 unités</p>
+<p>4" x 4" - 4 plis - 200 unités</p>
+<p>..</p>
+<p>General purpose gauze, non-sterile. Available in 2" or 4" squares.</p>
+<p>2" x 2" - 4 ply - 200 units</p>
+<p>4" x 4" - 4 ply - 200 units</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>Remover</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1465784500277</id>
+      <title>2&quot; x 2&quot;</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>A2101-CH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1465784500277</id>
+      <title>4&quot; x 4&quot;</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>A2100-CH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1913517188</id>
+    <published>2015-12-27T15:46:00-05:00</published>
+    <updated>2015-12-27T15:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/alliance-plasticized-paper-towel"/>
+    <title>Serviettes en papier plastifiées..Plasticized paper towel</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Alliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/dentalbib_multi.jpg?v=1614631833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alliance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            5.99 - 38.95
+            <a href="https://www.beautysolution.ca/products/alliance-plasticized-paper-towel">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p><strong>💲Achetez en gros et économisez!💲</strong></p>
+<p>Bavettes dentaires avec endos en plastique.</p>
+<p>Sac de 50 ou boîte de 500</p>
+<p>Disponible en blanc, rose, ou vert</p>
+<p>..</p>
+<p><strong>💲Save when you buy in bulk!💲</strong></p>
+<p>Dental napkin bibs with plastic backing.</p>
+<p>Bag of 50 or box of 500</p>
+<p>Available in white, pink, or green</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913517188</id>
+      <title>Blanc en Paquet (50)..White Pack (50)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>12343125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913517188</id>
+      <title>Blanc en Boîte (500)..White Box (500)</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913517188</id>
+      <title>Rose en Paquet (50)..Pink Pack (50)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913517188</id>
+      <title>Rose en Boîte (500)..Pink Box (500)</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913517188</id>
+      <title>Vert en Paquet (50)..Green Pack (50)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913517188</id>
+      <title>Vert en Boîte (500)..Green Box (500)</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beautysolution.ca/products/1913517380</id>
+    <published>2015-12-26T11:44:00-05:00</published>
+    <updated>2015-12-26T11:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beautysolution.ca/products/alliance-tongue-depressor"/>
+    <title>Abaisses-langues..Tongue depressors</title>
+    <s:type>Essentiels</s:type>
+    <s:vendor>Alliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1033/3739/products/tongue_depressors.jpg?v=1626897519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alliance<br>
+        <strong>Type: </strong>Essentiels<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>....</p>
+<p>Applicateurs en bois pour épilation.</p>
+<p>Boîte de 500</p>
+<p>..</p>
+<p>Wooden applicators for waxing.</p>
+<p>500 in a box</p>
+<p>....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>EpilationEquipment</s:tag>
+    <s:tag>EpilationPrep</s:tag>
+    <s:tag>SPECDIS</s:tag>
+    <s:tag>STOREWIDE</s:tag>
+    <s:tag>WHOLESALE</s:tag>
+    <s:variant>
+      <id>https://www.beautysolution.ca/products/1913517380</id>
+      <title>Boîte (500)..Box (500)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>12040597</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
